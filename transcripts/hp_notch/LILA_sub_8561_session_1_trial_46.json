@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_46.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možný i auta.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6766150660812855,
+   "compression_ratio": 0.6666666666666666,
+   "end": 3.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možný i auta.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    11822,
+    741,
+    1476,
+    64,
+    13
+   ]
+  }
+ ]
+}

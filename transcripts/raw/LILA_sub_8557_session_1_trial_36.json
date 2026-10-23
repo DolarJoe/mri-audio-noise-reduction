@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_36.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ženo surfuje na veně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.637967692264779,
+   "compression_ratio": 0.75,
+   "end": 3.56,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ženo surfuje na veně.",
+   "tokens": [
+    4423,
+    121,
+    5808,
+    9684,
+    13008,
+    1667,
+    6138,
+    9648,
+    13
+   ]
+  }
+ ]
+}

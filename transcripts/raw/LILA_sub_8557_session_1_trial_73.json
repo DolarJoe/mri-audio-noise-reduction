@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "muž ukazuje na nějaký činnost.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.28650463931262493,
+   "compression_ratio": 0.7954545454545454,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " muž ukazuje na nějaký činnost.",
+   "tokens": [
+    2992,
+    9159,
+    26769,
+    43317,
+    1667,
+    46911,
+    36230,
+    11822,
+    22392,
+    7729,
+    555,
+    13
+   ]
+  }
+ ]
+}

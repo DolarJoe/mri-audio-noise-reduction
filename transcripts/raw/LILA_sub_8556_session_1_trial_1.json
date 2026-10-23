@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mám tady hrabevný stíl na můj hradec.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7660591487327347,
+   "compression_ratio": 0.8571428571428571,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mám tady hrabevný stíl na můj hradec.",
+   "tokens": [
+    376,
+    19524,
+    256,
+    880,
+    276,
+    424,
+    650,
+    85,
+    77,
+    11822,
+    342,
+    870,
+    75,
+    1667,
+    275,
+    23241,
+    73,
+    276,
+    14748,
+    66,
+    13
+   ]
+  }
+ ]
+}

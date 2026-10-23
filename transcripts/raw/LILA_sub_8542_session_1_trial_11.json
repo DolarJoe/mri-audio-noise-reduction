@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_11.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady někdo balí chrapece, lepící páskou.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2423865322501418,
+   "compression_ratio": 0.8518518518518519,
+   "end": 4.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady někdo balí chrapece, lepící páskou.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    74,
+    2595,
+    3119,
+    870,
+    417,
+    424,
+    494,
+    384,
+    11,
+    476,
+    79,
+    870,
+    66,
+    870,
+    280,
+    2490,
+    74,
+    263,
+    13
+   ]
+  }
+ ]
+}

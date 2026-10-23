@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_57.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady zase nějaký člověk šermuje.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2542515469724415,
+   "compression_ratio": 0.8085106382978723,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady zase nějaký člověk šermuje.",
+   "tokens": [
+    314,
+    880,
+    710,
+    651,
+    46911,
+    36230,
+    11822,
+    22392,
+    28257,
+    9648,
+    74,
+    22552,
+    966,
+    13008,
+    13
+   ]
+  }
+ ]
+}

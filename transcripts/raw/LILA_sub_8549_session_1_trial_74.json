@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_74.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můj šplavek ráulá v bazéně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5931422185903001,
+   "compression_ratio": 0.7906976744186046,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můj šplavek ráulá v bazéně.",
+   "tokens": [
+    376,
+    23241,
+    73,
+    22552,
+    564,
+    946,
+    74,
+    367,
+    842,
+    425,
+    842,
+    371,
+    27147,
+    3516,
+    9648,
+    13
+   ]
+  }
+ ]
+}

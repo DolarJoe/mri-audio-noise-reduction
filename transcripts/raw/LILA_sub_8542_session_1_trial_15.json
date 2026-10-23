@@ -1,0 +1,47 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_15.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je nějaká žena, přemýšlí na něčím nějakou věci.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.17833133091387157,
+   "compression_ratio": 0.9558823529411765,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je nějaká žena, přemýšlí na něčím nějakou věci.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    46911,
+    36230,
+    842,
+    17305,
+    4118,
+    11,
+    31631,
+    443,
+    11822,
+    7891,
+    75,
+    870,
+    1667,
+    46911,
+    10236,
+    14569,
+    46911,
+    36230,
+    263,
+    371,
+    9648,
+    537,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_68.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "paní se zamýšlí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4535987614230676,
+   "compression_ratio": 0.7,
+   "end": 2.54,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " paní se zamýšlí.",
+   "tokens": [
+    2462,
+    870,
+    369,
+    19876,
+    11822,
+    7891,
+    75,
+    870,
+    13
+   ]
+  }
+ ]
+}

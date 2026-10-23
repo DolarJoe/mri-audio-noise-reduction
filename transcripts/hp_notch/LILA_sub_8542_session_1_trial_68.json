@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_68.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaká panice či je střinkaný.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.38552215793040684,
+   "compression_ratio": 0.82,
+   "end": 2.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaká panice či je střinkaný.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    842,
+    2462,
+    573,
+    22392,
+    72,
+    1506,
+    342,
+    15781,
+    475,
+    282,
+    11822,
+    13
+   ]
+  }
+ ]
+}

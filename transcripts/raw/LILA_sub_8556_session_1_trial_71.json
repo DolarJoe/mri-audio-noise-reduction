@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_71.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a chvapat se ní na staločce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8424587819026783,
+   "compression_ratio": 0.7948717948717948,
+   "end": 3.2600000000000002,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a chvapat se ní na staločce.",
+   "tokens": [
+    257,
+    417,
+    85,
+    569,
+    267,
+    369,
+    297,
+    870,
+    1667,
+    342,
+    10334,
+    10236,
+    384,
+    13
+   ]
+  }
+ ]
+}

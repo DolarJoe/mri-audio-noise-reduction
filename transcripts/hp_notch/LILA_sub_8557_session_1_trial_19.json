@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_19.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Maminka krmí svoje dítě na židičce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.23855667819704027,
+   "compression_ratio": 0.82,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Maminka krmí svoje dítě na židičce.",
+   "tokens": [
+    19899,
+    38989,
+    15913,
+    76,
+    870,
+    262,
+    3080,
+    2884,
+    274,
+    6712,
+    9648,
+    1667,
+    17305,
+    12716,
+    10236,
+    384,
+    13
+   ]
+  }
+ ]
+}

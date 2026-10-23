@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_51.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní pleté šálu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2093836079002358,
+   "compression_ratio": 0.7,
+   "end": 3.02,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní pleté šálu.",
+   "tokens": [
+    7557,
+    870,
+    499,
+    41739,
+    22552,
+    842,
+    2781,
+    13
+   ]
+  }
+ ]
+}

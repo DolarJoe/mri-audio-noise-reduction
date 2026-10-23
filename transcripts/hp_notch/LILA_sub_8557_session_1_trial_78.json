@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_78.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Maratonec běží na závodě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.17168314319347058,
+   "compression_ratio": 0.775,
+   "end": 4.22,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Maratonec běží na závodě.",
+   "tokens": [
+    2039,
+    267,
+    546,
+    66,
+    272,
+    9648,
+    9159,
+    870,
+    1667,
+    710,
+    842,
+    85,
+    378,
+    9648,
+    13
+   ]
+  }
+ ]
+}

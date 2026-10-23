@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_75.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady se nějaká holčička hladí kočku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.21515776172964252,
+   "compression_ratio": 0.86,
+   "end": 3.38,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady se nějaká holčička hladí kočku.",
+   "tokens": [
+    314,
+    880,
+    369,
+    46911,
+    36230,
+    842,
+    4091,
+    10236,
+    72,
+    10236,
+    2330,
+    276,
+    9290,
+    870,
+    8384,
+    10236,
+    5279,
+    13
+   ]
+  }
+ ]
+}

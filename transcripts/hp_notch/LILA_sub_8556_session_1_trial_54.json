@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_54.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "mamiňka, co mějí své dítě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.61662670974635,
+   "compression_ratio": 0.7857142857142857,
+   "end": 3.3200000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " mamiňka, co mějí své dítě.",
+   "tokens": [
+    275,
+    4526,
+    129,
+    230,
+    2330,
+    11,
+    598,
+    275,
+    9648,
+    73,
+    870,
+    262,
+    15797,
+    274,
+    6712,
+    9648,
+    13
+   ]
+  }
+ ]
+}

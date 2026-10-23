@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_76.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena onyatře vzali.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9127084892243147,
+   "compression_ratio": 0.7333333333333333,
+   "end": 4.32,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena onyatře vzali.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    322,
+    88,
+    267,
+    15781,
+    68,
+    371,
+    89,
+    5103,
+    13
+   ]
+  }
+ ]
+}

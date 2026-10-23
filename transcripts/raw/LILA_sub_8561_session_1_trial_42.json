@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "muž zanetá v listí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5823296842863783,
+   "compression_ratio": 0.7419354838709677,
+   "end": 3.56,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " muž zanetá v listí.",
+   "tokens": [
+    2992,
+    9159,
+    710,
+    282,
+    302,
+    842,
+    371,
+    1329,
+    870,
+    13
+   ]
+  }
+ ]
+}

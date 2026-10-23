@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_61.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a smačně fotografuje s fotoaparatem stav.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7294097162564012,
+   "compression_ratio": 0.8979591836734694,
+   "end": 6.1000000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a smačně fotografuje s fotoaparatem stav.",
+   "tokens": [
+    257,
+    899,
+    64,
+    10236,
+    31617,
+    34341,
+    13008,
+    262,
+    19176,
+    569,
+    18452,
+    443,
+    342,
+    706,
+    13
+   ]
+  }
+ ]
+}

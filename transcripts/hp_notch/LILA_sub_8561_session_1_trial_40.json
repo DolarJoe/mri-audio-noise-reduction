@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_40.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Hloučička hladí klčku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5810741775203496,
+   "compression_ratio": 0.7941176470588235,
+   "end": 3.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Hloučička hladí klčku.",
+   "tokens": [
+    389,
+    75,
+    263,
+    10236,
+    72,
+    10236,
+    2330,
+    276,
+    9290,
+    870,
+    9671,
+    10236,
+    5279,
+    13
+   ]
+  }
+ ]
+}

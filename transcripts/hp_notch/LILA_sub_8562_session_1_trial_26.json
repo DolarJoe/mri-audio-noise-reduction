@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mladá mamejka promíjí své afole.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6481926614263406,
+   "compression_ratio": 0.8043478260869565,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mladá mamejka promíjí své afole.",
+   "tokens": [
+    376,
+    9290,
+    842,
+    275,
+    529,
+    73,
+    2330,
+    2234,
+    870,
+    73,
+    870,
+    262,
+    15797,
+    3238,
+    4812,
+    13
+   ]
+  }
+ ]
+}

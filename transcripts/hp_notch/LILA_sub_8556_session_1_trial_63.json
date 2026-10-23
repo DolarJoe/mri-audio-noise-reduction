@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "paní uniksuje vyselacím.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7347486027117286,
+   "compression_ratio": 0.7714285714285715,
+   "end": 4.12,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " paní uniksuje vyselacím.",
+   "tokens": [
+    2462,
+    870,
+    517,
+    1035,
+    15091,
+    2884,
+    371,
+    749,
+    338,
+    326,
+    14569,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_62.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a pančí zájmu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.750883048908277,
+   "compression_ratio": 0.6923076923076923,
+   "end": 2.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a pančí zájmu.",
+   "tokens": [
+    257,
+    2462,
+    10236,
+    870,
+    710,
+    842,
+    73,
+    20140,
+    13
+   ]
+  }
+ ]
+}

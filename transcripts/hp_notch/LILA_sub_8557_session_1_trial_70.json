@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_70.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "No měňka vy seba.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7831786642436782,
+   "compression_ratio": 0.7142857142857143,
+   "end": 2.84,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " No měňka vy seba.",
+   "tokens": [
+    883,
+    275,
+    9648,
+    129,
+    230,
+    2330,
+    44766,
+    369,
+    4231,
+    13
+   ]
+  }
+ ]
+}

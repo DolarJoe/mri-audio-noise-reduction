@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_66.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná víc jistou.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.685375796786199,
+   "compression_ratio": 0.7241379310344828,
+   "end": 3.62,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná víc jistou.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    6153,
+    66,
+    361,
+    468,
+    263,
+    13
+   ]
+  }
+ ]
+}

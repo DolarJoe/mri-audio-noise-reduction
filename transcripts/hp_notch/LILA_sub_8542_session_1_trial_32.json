@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_32.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady paní zpechá do kapesníku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.49073285937993205,
+   "compression_ratio": 0.8292682926829268,
+   "end": 3.2600000000000002,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady paní zpechá do kapesníku.",
+   "tokens": [
+    314,
+    880,
+    2462,
+    870,
+    710,
+    494,
+    339,
+    842,
+    360,
+    13816,
+    279,
+    28988,
+    5279,
+    13
+   ]
+  }
+ ]
+}

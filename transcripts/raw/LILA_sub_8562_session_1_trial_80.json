@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A můžete takhle vyházet sílu, jak první.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.839195671423857,
+   "compression_ratio": 0.8363636363636363,
+   "end": 4.22,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A můžete takhle vyházet sílu, jak první.",
+   "tokens": [
+    316,
+    275,
+    23241,
+    9159,
+    3498,
+    991,
+    71,
+    306,
+    44766,
+    71,
+    842,
+    40399,
+    8600,
+    2781,
+    11,
+    4207,
+    582,
+    85,
+    28988,
+    13
+   ]
+  }
+ ]
+}

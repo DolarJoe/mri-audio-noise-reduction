@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Koukej mající se manželé, svědčí i ostry.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7442437934875489,
+   "compression_ratio": 0.875,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Koukej mající se manželé, svědčí i ostry.",
+   "tokens": [
+    591,
+    263,
+    330,
+    73,
+    13673,
+    870,
+    66,
+    870,
+    369,
+    587,
+    9159,
+    338,
+    526,
+    11,
+    17342,
+    9648,
+    67,
+    10236,
+    870,
+    741,
+    32946,
+    627,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_21.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Luská nové vesmírná.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0498498068856341,
+   "compression_ratio": 0.7352941176470589,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Luská nové vesmírná.",
+   "tokens": [
+    441,
+    301,
+    74,
+    842,
+    572,
+    15797,
+    28274,
+    76,
+    31338,
+    77,
+    842,
+    13
+   ]
+  }
+ ]
+}

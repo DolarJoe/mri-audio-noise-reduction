@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_14.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Starší muž sadí na židli.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.28825292181080353,
+   "compression_ratio": 0.8157894736842105,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Starší muž sadí na židli.",
+   "tokens": [
+    5705,
+    48651,
+    2992,
+    9159,
+    4227,
+    870,
+    1667,
+    17305,
+    327,
+    2081,
+    13
+   ]
+  }
+ ]
+}

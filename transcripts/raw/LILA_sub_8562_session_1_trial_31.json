@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_31.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Počekaj, počekaj, počekaj, počekaj, počekaj.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.26849237410836696,
+   "compression_ratio": 2.1739130434782608,
+   "end": 5.0600000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Počekaj, počekaj, počekaj, počekaj, počekaj.",
+   "tokens": [
+    6165,
+    10236,
+    916,
+    1805,
+    11,
+    714,
+    10236,
+    916,
+    1805,
+    11,
+    714,
+    10236,
+    916,
+    1805,
+    11,
+    714,
+    10236,
+    916,
+    1805,
+    11,
+    714,
+    10236,
+    916,
+    1805,
+    13
+   ]
+  }
+ ]
+}

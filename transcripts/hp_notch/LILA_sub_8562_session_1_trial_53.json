@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_53.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zároveň přijeli čem do země daleko lenker.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7295991587369437,
+   "compression_ratio": 0.8421052631578947,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zároveň přijeli čem do země daleko lenker.",
+   "tokens": [
+    1176,
+    842,
+    32467,
+    129,
+    230,
+    31631,
+    1718,
+    10148,
+    22392,
+    443,
+    360,
+    710,
+    443,
+    9648,
+    11702,
+    34241,
+    40116,
+    5767,
+    13
+   ]
+  }
+ ]
+}

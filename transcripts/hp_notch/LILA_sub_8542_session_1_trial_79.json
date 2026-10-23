@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_79.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je nějaký pár, stará ostrov a zcpírá jabuka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4201840505193104,
+   "compression_ratio": 0.8888888888888888,
+   "end": 4.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je nějaký pár, stará ostrov a zcpírá jabuka.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    46911,
+    36230,
+    11822,
+    280,
+    20335,
+    11,
+    3543,
+    842,
+    32946,
+    24088,
+    257,
+    710,
+    66,
+    79,
+    870,
+    30218,
+    33475,
+    13599,
+    13
+   ]
+  }
+ ]
+}

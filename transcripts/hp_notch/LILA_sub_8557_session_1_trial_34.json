@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_34.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "No a dažená cvičí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.68712261966161,
+   "compression_ratio": 0.71875,
+   "end": 3.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " No a dažená cvičí.",
+   "tokens": [
+    883,
+    257,
+    1120,
+    9159,
+    268,
+    842,
+    269,
+    4917,
+    10236,
+    870,
+    13
+   ]
+  }
+ ]
+}

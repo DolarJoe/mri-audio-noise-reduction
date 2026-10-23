@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_9.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Klavec slavek Raula.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6547823615372181,
+   "compression_ratio": 0.8076923076923077,
+   "end": 3.2600000000000002,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Klavec slavek Raula.",
+   "tokens": [
+    591,
+    27995,
+    66,
+    14777,
+    74,
+    7591,
+    3780,
+    13
+   ]
+  }
+ ]
+}

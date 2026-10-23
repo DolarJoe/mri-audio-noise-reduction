@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Maminka žehlí věce na želbici prtmě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4678268459780763,
+   "compression_ratio": 0.875,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Maminka žehlí věce na želbici prtmě.",
+   "tokens": [
+    19899,
+    38989,
+    17305,
+    13301,
+    75,
+    870,
+    371,
+    9648,
+    384,
+    1667,
+    17305,
+    338,
+    65,
+    8787,
+    582,
+    83,
+    76,
+    9648,
+    13
+   ]
+  }
+ ]
+}

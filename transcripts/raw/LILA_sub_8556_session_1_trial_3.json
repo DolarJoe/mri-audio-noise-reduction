@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_3.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Hloučička spočítá, spočítá, jen naprosto.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5953743314708118,
+   "compression_ratio": 1.0638297872340425,
+   "end": 5.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Hloučička spočítá, spočítá, jen naprosto.",
+   "tokens": [
+    389,
+    75,
+    263,
+    10236,
+    72,
+    10236,
+    2330,
+    8243,
+    10236,
+    6712,
+    842,
+    11,
+    8243,
+    10236,
+    6712,
+    842,
+    11,
+    361,
+    268,
+    9296,
+    81,
+    22756,
+    13
+   ]
+  }
+ ]
+}

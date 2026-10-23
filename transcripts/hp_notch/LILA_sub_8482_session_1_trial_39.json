@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_39.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan balí něco do krabic.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.268458733112008,
+   "compression_ratio": 0.7714285714285715,
+   "end": 3.56,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan balí něco do krabic.",
+   "tokens": [
+    7557,
+    3119,
+    870,
+    46911,
+    1291,
+    360,
+    350,
+    5305,
+    299,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_55.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pap, pap, pap, pap, pap, pap, pap.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4289572820998728,
+   "compression_ratio": 1.9444444444444444,
+   "end": 5.34,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pap, pap, pap, pap, pap, pap, pap.",
+   "tokens": [
+    15919,
+    11,
+    5806,
+    11,
+    5806,
+    11,
+    5806,
+    11,
+    5806,
+    11,
+    5806,
+    11,
+    5806,
+    13
+   ]
+  }
+ ]
+}

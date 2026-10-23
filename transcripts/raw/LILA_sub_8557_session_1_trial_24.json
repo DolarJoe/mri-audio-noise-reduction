@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_24.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Par se z lásky ovýmá.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.39843138173231496,
+   "compression_ratio": 0.7575757575757576,
+   "end": 3.46,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Par se z lásky ovýmá.",
+   "tokens": [
+    3457,
+    369,
+    710,
+    287,
+    2490,
+    4133,
+    14187,
+    11822,
+    76,
+    842,
+    13
+   ]
+  }
+ ]
+}

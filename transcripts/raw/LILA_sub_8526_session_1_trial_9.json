@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_9.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Plavec plave kraule.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.29288717261515557,
+   "compression_ratio": 0.8076923076923077,
+   "end": 3.24,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Plavec plave kraule.",
+   "tokens": [
+    19942,
+    303,
+    66,
+    499,
+    946,
+    28248,
+    2271,
+    13
+   ]
+  }
+ ]
+}

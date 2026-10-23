@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_18.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Koučička líže zmrzlýho.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5929991203011014,
+   "compression_ratio": 0.7631578947368421,
+   "end": 3.5,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Koučička líže zmrzlýho.",
+   "tokens": [
+    591,
+    263,
+    10236,
+    72,
+    10236,
+    2330,
+    16118,
+    29913,
+    17020,
+    19390,
+    75,
+    11822,
+    1289,
+    13
+   ]
+  }
+ ]
+}

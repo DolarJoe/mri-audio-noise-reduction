@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_67.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán trhá znovu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4440818769984286,
+   "compression_ratio": 0.6923076923076923,
+   "end": 3.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán trhá znovu.",
+   "tokens": [
+    430,
+    7200,
+    504,
+    71,
+    842,
+    710,
+    4185,
+    84,
+    13
+   ]
+  }
+ ]
+}

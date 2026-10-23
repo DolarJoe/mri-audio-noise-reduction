@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_33.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Hrost je slané ze skalek.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7455323059111834,
+   "compression_ratio": 0.7941176470588235,
+   "end": 5.22,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Hrost je slané ze skalek.",
+   "tokens": [
+    389,
+    27494,
+    1506,
+    1061,
+    282,
+    526,
+    5277,
+    16890,
+    916,
+    13
+   ]
+  }
+ ]
+}

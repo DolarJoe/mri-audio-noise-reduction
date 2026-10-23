@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_5.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná to je zpárovává.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8866606706869788,
+   "compression_ratio": 0.8,
+   "end": 5.84,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná to je zpárovává.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    281,
+    1506,
+    710,
+    79,
+    842,
+    24088,
+    842,
+    85,
+    842,
+    13
+   ]
+  }
+ ]
+}

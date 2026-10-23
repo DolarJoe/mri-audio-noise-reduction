@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_76.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žádná má nejspíš alérgistórii, jmo.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6890318706282414,
+   "compression_ratio": 0.8461538461538461,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žádná má nejspíš alérgistórii, jmo.",
+   "tokens": [
+    4423,
+    121,
+    32512,
+    77,
+    842,
+    12228,
+    408,
+    73,
+    4952,
+    870,
+    7891,
+    419,
+    4198,
+    70,
+    468,
+    812,
+    470,
+    72,
+    11,
+    361,
+    3280,
+    13
+   ]
+  }
+ ]
+}

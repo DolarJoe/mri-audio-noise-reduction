@@ -1,0 +1,27 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_9.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mostro Hasíra.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9287463203072548,
+   "compression_ratio": 0.6666666666666666,
+   "end": 3.4,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mostro Hasíra.",
+   "tokens": [
+    4534,
+    340,
+    8646,
+    870,
+    424,
+    13
+   ]
+  }
+ ]
+}

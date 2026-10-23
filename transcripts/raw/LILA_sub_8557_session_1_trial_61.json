@@ -1,0 +1,28 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_61.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "*světlo*",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.4984114898575678,
+   "compression_ratio": 0.5555555555555556,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " *světlo*",
+   "tokens": [
+    1853,
+    82,
+    85,
+    9648,
+    83,
+    752,
+    9
+   ]
+  }
+ ]
+}

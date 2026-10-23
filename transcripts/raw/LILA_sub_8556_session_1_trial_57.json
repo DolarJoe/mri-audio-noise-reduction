@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_57.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zahraduji tříhle svojí jabloni.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.46267288234084847,
+   "compression_ratio": 0.813953488372093,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zahraduji tříhle svojí jabloni.",
+   "tokens": [
+    1176,
+    5398,
+    345,
+    84,
+    4013,
+    256,
+    15781,
+    870,
+    71,
+    306,
+    262,
+    3080,
+    73,
+    870,
+    33475,
+    14864,
+    72,
+    13
+   ]
+  }
+ ]
+}

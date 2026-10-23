@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_15.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Babička plete z vlny.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2704557931283489,
+   "compression_ratio": 0.7419354838709677,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Babička plete z vlny.",
+   "tokens": [
+    15820,
+    72,
+    10236,
+    2330,
+    499,
+    3498,
+    710,
+    371,
+    75,
+    1634,
+    13
+   ]
+  }
+ ]
+}

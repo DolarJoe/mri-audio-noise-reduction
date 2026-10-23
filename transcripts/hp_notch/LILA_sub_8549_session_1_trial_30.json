@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_30.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mě to palil já se hodně po jiným.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1794054052409004,
+   "compression_ratio": 0.8444444444444444,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mě to palil já se hodně po jiným.",
+   "tokens": [
+    376,
+    9648,
+    281,
+    3984,
+    388,
+    6242,
+    369,
+    276,
+    378,
+    31617,
+    714,
+    43528,
+    11822,
+    76,
+    13
+   ]
+  }
+ ]
+}

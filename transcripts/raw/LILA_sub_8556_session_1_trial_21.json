@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_21.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán Kvapadíru na Lombradě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4397557500188294,
+   "compression_ratio": 0.7894736842105263,
+   "end": 3.34,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán Kvapadíru na Lombradě.",
+   "tokens": [
+    430,
+    7200,
+    591,
+    85,
+    569,
+    345,
+    870,
+    894,
+    1667,
+    441,
+    298,
+    1443,
+    345,
+    9648,
+    13
+   ]
+  }
+ ]
+}

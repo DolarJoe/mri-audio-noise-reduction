@@ -1,0 +1,47 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_69.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Černým se připravej k boji, pravé ruce tě námoč.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6199777681644524,
+   "compression_ratio": 0.8888888888888888,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Černým se připravej k boji, pravé ruce tě námoč.",
+   "tokens": [
+    2127,
+    234,
+    1248,
+    11822,
+    76,
+    369,
+    31631,
+    647,
+    424,
+    303,
+    73,
+    350,
+    748,
+    4013,
+    11,
+    3206,
+    15797,
+    367,
+    4176,
+    256,
+    9648,
+    297,
+    842,
+    3280,
+    10236,
+    13
+   ]
+  }
+ ]
+}

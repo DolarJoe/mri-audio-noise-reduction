@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_74.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Potakam, potakam, potakam, potakam, potakam, potakam.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2675190896541328,
+   "compression_ratio": 2.4545454545454546,
+   "end": 5.28,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Potakam, potakam, potakam, potakam, potakam, potakam.",
+   "tokens": [
+    9145,
+    514,
+    335,
+    11,
+    1847,
+    514,
+    335,
+    11,
+    1847,
+    514,
+    335,
+    11,
+    1847,
+    514,
+    335,
+    11,
+    1847,
+    514,
+    335,
+    11,
+    1847,
+    514,
+    335,
+    13
+   ]
+  }
+ ]
+}

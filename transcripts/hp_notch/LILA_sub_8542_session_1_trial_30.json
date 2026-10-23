@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_30.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Děkujeme za pozornost.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6039323840911189,
+   "compression_ratio": 0.75,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Děkujeme za pozornost.",
+   "tokens": [
+    413,
+    9648,
+    74,
+    4579,
+    5729,
+    7949,
+    21281,
+    1865,
+    555,
+    13
+   ]
+  }
+ ]
+}

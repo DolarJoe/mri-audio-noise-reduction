@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_14.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena věší prádlo na šníru do věku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3125577628787141,
+   "compression_ratio": 0.8775510204081632,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena věší prádlo na šníru do věku.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    371,
+    9648,
+    48651,
+    27300,
+    67,
+    752,
+    1667,
+    22552,
+    28988,
+    894,
+    360,
+    371,
+    9648,
+    5279,
+    13
+   ]
+  }
+ ]
+}

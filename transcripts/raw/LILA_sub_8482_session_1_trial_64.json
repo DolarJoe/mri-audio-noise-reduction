@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan něco fotografuje se stepivem.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3691663780628005,
+   "compression_ratio": 0.8536585365853658,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan něco fotografuje se stepivem.",
+   "tokens": [
+    7557,
+    46911,
+    1291,
+    34341,
+    13008,
+    369,
+    1823,
+    488,
+    76,
+    13
+   ]
+  }
+ ]
+}

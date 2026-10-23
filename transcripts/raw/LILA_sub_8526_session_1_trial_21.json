@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_21.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Chlapec pruslí na kolečkovým pruslí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.419068872584917,
+   "compression_ratio": 0.9534883720930233,
+   "end": 5.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Chlapec pruslí na kolečkovým pruslí.",
+   "tokens": [
+    761,
+    875,
+    494,
+    66,
+    582,
+    301,
+    75,
+    870,
+    1667,
+    18303,
+    10236,
+    33516,
+    11822,
+    76,
+    582,
+    301,
+    75,
+    870,
+    13
+   ]
+  }
+ ]
+}

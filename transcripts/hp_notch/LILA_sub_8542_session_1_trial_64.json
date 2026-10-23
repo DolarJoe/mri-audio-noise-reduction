@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaký člověk plava na vodě někde na závodu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.41652850670150793,
+   "compression_ratio": 0.9344262295081968,
+   "end": 5.34,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaký člověk plava na vodě někde na závodu.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    11822,
+    22392,
+    28257,
+    9648,
+    74,
+    499,
+    4061,
+    1667,
+    371,
+    378,
+    9648,
+    46911,
+    74,
+    1479,
+    1667,
+    710,
+    842,
+    85,
+    378,
+    84,
+    13
+   ]
+  }
+ ]
+}

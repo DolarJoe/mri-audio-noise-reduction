@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_41.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "paní Zama-ta. Zama-ta.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8010977871516454,
+   "compression_ratio": 0.96,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " paní Zama-ta. Zama-ta.",
+   "tokens": [
+    2462,
+    870,
+    1176,
+    2404,
+    12,
+    1328,
+    13,
+    1176,
+    2404,
+    12,
+    1328,
+    13
+   ]
+  }
+ ]
+}

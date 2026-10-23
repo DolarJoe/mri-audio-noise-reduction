@@ -1,0 +1,22 @@
+726 transcripts, 726 to grade (0 cached)
+25/512 pi-graded
+50/512 pi-graded
+75/512 pi-graded
+100/512 pi-graded
+125/512 pi-graded
+150/512 pi-graded
+175/512 pi-graded
+200/512 pi-graded
+225/512 pi-graded
+250/512 pi-graded
+275/512 pi-graded
+300/512 pi-graded
+325/512 pi-graded
+350/512 pi-graded
+375/512 pi-graded
+400/512 pi-graded
+425/512 pi-graded
+450/512 pi-graded
+475/512 pi-graded
+500/512 pi-graded
+done: {'C': 305, 'D': 170, 'B': 161, 'A': 90} -> grades/raw.jsonl

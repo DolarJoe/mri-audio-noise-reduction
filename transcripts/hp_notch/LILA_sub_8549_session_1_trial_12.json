@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_12.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Těch včasoučí počítat.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3569505492960161,
+   "compression_ratio": 0.8285714285714286,
+   "end": 4.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Těch včasoučí počítat.",
+   "tokens": [
+    314,
+    9648,
+    339,
+    371,
+    10236,
+    296,
+    263,
+    10236,
+    870,
+    714,
+    10236,
+    6712,
+    267,
+    13
+   ]
+  }
+ ]
+}

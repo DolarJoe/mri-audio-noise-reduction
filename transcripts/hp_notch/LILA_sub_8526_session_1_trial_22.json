@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_22.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Vyvolej věře objímají.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6761117912418044,
+   "compression_ratio": 0.7941176470588235,
+   "end": 3.24,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Vyvolej věře objímají.",
+   "tokens": [
+    691,
+    88,
+    3080,
+    306,
+    73,
+    371,
+    9648,
+    15781,
+    68,
+    1111,
+    73,
+    14569,
+    1805,
+    870,
+    13
+   ]
+  }
+ ]
+}

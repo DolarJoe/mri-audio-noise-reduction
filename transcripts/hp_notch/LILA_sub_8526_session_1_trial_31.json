@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_31.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena leze nahore lezecké stěně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3656339982031461,
+   "compression_ratio": 0.8780487804878049,
+   "end": 4.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena leze nahore lezecké stěně.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    476,
+    1381,
+    17170,
+    418,
+    476,
+    1381,
+    547,
+    526,
+    342,
+    9648,
+    31617,
+    13
+   ]
+  }
+ ]
+}

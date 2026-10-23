@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_43.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Děvče líže zmrznil.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5075569450190025,
+   "compression_ratio": 0.7272727272727273,
+   "end": 4.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Děvče líže zmrznil.",
+   "tokens": [
+    413,
+    9648,
+    85,
+    10236,
+    68,
+    16118,
+    29913,
+    17020,
+    19390,
+    77,
+    388,
+    13
+   ]
+  }
+ ]
+}

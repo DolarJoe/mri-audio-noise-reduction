@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_57.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zahradí spírá, jablky a siablony.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7165120175729195,
+   "compression_ratio": 0.8409090909090909,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zahradí spírá, jablky a siablony.",
+   "tokens": [
+    1176,
+    5398,
+    345,
+    870,
+    637,
+    870,
+    30218,
+    11,
+    361,
+    32212,
+    4133,
+    257,
+    1511,
+    32212,
+    2526,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_78.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "můžu každé nádhledy srý báječně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7550730196429262,
+   "compression_ratio": 0.7924528301886793,
+   "end": 3.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " můžu každé nádhledy srý báječně.",
+   "tokens": [
+    275,
+    23241,
+    9159,
+    84,
+    6799,
+    9159,
+    67,
+    526,
+    297,
+    32512,
+    71,
+    1493,
+    88,
+    262,
+    81,
+    11822,
+    272,
+    842,
+    2884,
+    10236,
+    31617,
+    13
+   ]
+  }
+ ]
+}

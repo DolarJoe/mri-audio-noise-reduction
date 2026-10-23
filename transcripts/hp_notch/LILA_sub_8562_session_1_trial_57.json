@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_57.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tak se hrají sbírá, jáplochat si a půjenech.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0011069783940911,
+   "compression_ratio": 0.847457627118644,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tak se hrají sbírá, jáplochat si a půjenech.",
+   "tokens": [
+    9118,
+    369,
+    276,
+    48690,
+    870,
+    262,
+    65,
+    870,
+    30218,
+    11,
+    6242,
+    564,
+    8997,
+    267,
+    1511,
+    257,
+    280,
+    23241,
+    73,
+    1450,
+    339,
+    13
+   ]
+  }
+ ]
+}

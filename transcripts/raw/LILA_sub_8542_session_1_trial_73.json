@@ -1,0 +1,48 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaký člověk teď v bruslí, na kolečkových bruslích.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.21496535863542673,
+   "compression_ratio": 0.9571428571428572,
+   "end": 4.1,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaký člověk teď v bruslí, na kolečkových bruslích.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    11822,
+    22392,
+    28257,
+    9648,
+    74,
+    535,
+    45907,
+    371,
+    738,
+    301,
+    75,
+    870,
+    11,
+    1667,
+    18303,
+    10236,
+    33516,
+    41845,
+    738,
+    301,
+    75,
+    30839,
+    13
+   ]
+  }
+ ]
+}

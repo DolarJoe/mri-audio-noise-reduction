@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_14.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "že navěší prádlo naším dvěrcům.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5023938013298903,
+   "compression_ratio": 0.8913043478260869,
+   "end": 5.22,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " že navěší prádlo naším dvěrcům.",
+   "tokens": [
+    25178,
+    5947,
+    9648,
+    48651,
+    27300,
+    67,
+    752,
+    1667,
+    7891,
+    14569,
+    274,
+    85,
+    9648,
+    81,
+    66,
+    23241,
+    76,
+    13
+   ]
+  }
+ ]
+}

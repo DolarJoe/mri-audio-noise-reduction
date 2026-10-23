@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_2.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaké dítě se učí počítat na počítače.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2931590940654412,
+   "compression_ratio": 1.0,
+   "end": 9.98,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaké dítě se učí počítat na počítače.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    526,
+    274,
+    6712,
+    9648,
+    369,
+    344,
+    10236,
+    870,
+    714,
+    10236,
+    6712,
+    267,
+    1667,
+    714,
+    10236,
+    870,
+    1328,
+    10236,
+    68,
+    13
+   ]
+  }
+ ]
+}

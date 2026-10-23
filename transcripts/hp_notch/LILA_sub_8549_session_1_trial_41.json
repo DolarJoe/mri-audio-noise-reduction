@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_41.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "rozvodových právních trhá a manťastovskou hloubu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5544659216852429,
+   "compression_ratio": 0.873015873015873,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " rozvodových právních trhá a manťastovskou hloubu.",
+   "tokens": [
+    9544,
+    85,
+    378,
+    5179,
+    41845,
+    27300,
+    85,
+    28988,
+    339,
+    504,
+    71,
+    842,
+    257,
+    587,
+    27101,
+    525,
+    5179,
+    5161,
+    263,
+    276,
+    75,
+    263,
+    6021,
+    13
+   ]
+  }
+ ]
+}

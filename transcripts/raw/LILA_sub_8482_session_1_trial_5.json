@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_5.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán Šarmů je z Korden.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6061750209579865,
+   "compression_ratio": 0.7647058823529411,
+   "end": 2.66,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán Šarmů je z Korden.",
+   "tokens": [
+    430,
+    7200,
+    49039,
+    4452,
+    23241,
+    1506,
+    710,
+    591,
+    19058,
+    13
+   ]
+  }
+ ]
+}

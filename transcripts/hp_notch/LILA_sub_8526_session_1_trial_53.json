@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_53.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož a žena panší panko.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.538660410218514,
+   "compression_ratio": 0.8235294117647058,
+   "end": 3.5,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož a žena panší panko.",
+   "tokens": [
+    3335,
+    9159,
+    257,
+    17305,
+    4118,
+    2462,
+    48651,
+    280,
+    657,
+    78,
+    13
+   ]
+  }
+ ]
+}

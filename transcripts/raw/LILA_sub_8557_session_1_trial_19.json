@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_19.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Maminka krmí svoje dítě na hřičce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2583306811806324,
+   "compression_ratio": 0.8163265306122449,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Maminka krmí svoje dítě na hřičce.",
+   "tokens": [
+    19899,
+    38989,
+    15913,
+    76,
+    870,
+    262,
+    3080,
+    2884,
+    274,
+    6712,
+    9648,
+    1667,
+    276,
+    15781,
+    72,
+    10236,
+    384,
+    13
+   ]
+  }
+ ]
+}

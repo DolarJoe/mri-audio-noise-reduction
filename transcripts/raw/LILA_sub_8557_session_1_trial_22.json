@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_22.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "... a konečně se na základní škole učí počítat.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5898776368009678,
+   "compression_ratio": 0.9180327868852459,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": "... a konečně se na základní škole učí počítat.",
+   "tokens": [
+    1097,
+    257,
+    350,
+    546,
+    10236,
+    31617,
+    369,
+    1667,
+    710,
+    842,
+    7837,
+    345,
+    28988,
+    22552,
+    4093,
+    306,
+    344,
+    10236,
+    870,
+    714,
+    10236,
+    6712,
+    267,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_57.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zahraduji tříhá svoje blonky.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6851088075261367,
+   "compression_ratio": 0.8048780487804879,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zahraduji tříhá svoje blonky.",
+   "tokens": [
+    1176,
+    5398,
+    345,
+    84,
+    4013,
+    256,
+    15781,
+    870,
+    71,
+    842,
+    262,
+    3080,
+    2884,
+    888,
+    266,
+    4133,
+    13
+   ]
+  }
+ ]
+}

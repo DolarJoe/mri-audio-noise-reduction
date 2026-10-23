@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "žena do ženy obočiny.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.67346476453046,
+   "compression_ratio": 0.8064516129032258,
+   "end": 5.3,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " žena do ženy obočiny.",
+   "tokens": [
+    17305,
+    4118,
+    360,
+    17305,
+    43100,
+    1111,
+    78,
+    10236,
+    3519,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_39.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "pár tančí a plasa.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5583202356197448,
+   "compression_ratio": 0.7333333333333333,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " pár tančí a plasa.",
+   "tokens": [
+    280,
+    20335,
+    7603,
+    10236,
+    870,
+    257,
+    499,
+    9994,
+    13
+   ]
+  }
+ ]
+}

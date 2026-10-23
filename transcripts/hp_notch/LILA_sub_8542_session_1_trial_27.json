@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_27.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady paní Kuprízí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5562285965716001,
+   "compression_ratio": 0.7333333333333333,
+   "end": 2.52,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady paní Kuprízí.",
+   "tokens": [
+    314,
+    880,
+    2462,
+    870,
+    591,
+    1010,
+    40577,
+    89,
+    870,
+    13
+   ]
+  }
+ ]
+}

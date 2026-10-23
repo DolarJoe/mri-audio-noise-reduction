@@ -1,0 +1,19 @@
+{
+ "input_dir": "transfer_340619_files_84dc77d0/Records_for_VUT_analysis",
+ "sessions": [
+  "LILA_sub_8482_session_1",
+  "LILA_sub_8496_session_1",
+  "LILA_sub_8526_session_1",
+  "LILA_sub_8538_session_1",
+  "LILA_sub_8542_session_1",
+  "LILA_sub_8549_session_1",
+  "LILA_sub_8556_session_1",
+  "LILA_sub_8557_session_1",
+  "LILA_sub_8561_session_1",
+  "LILA_sub_8562_session_1"
+ ],
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "files": 726,
+ "time": "2026-10-21 16:34:27"
+}

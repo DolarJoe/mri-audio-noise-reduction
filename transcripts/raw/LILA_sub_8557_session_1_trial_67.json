@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_67.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můž si zapisuje do sešiku poznamky.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.45904714619631276,
+   "compression_ratio": 0.8297872340425532,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můž si zapisuje do sešiku poznamky.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    1511,
+    14223,
+    271,
+    13008,
+    360,
+    369,
+    7891,
+    24320,
+    21281,
+    5378,
+    4133,
+    13
+   ]
+  }
+ ]
+}

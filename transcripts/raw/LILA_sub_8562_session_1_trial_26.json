@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mladá maminka chrmí své pafele.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.40553931329015863,
+   "compression_ratio": 0.813953488372093,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mladá maminka chrmí své pafele.",
+   "tokens": [
+    376,
+    9290,
+    842,
+    13524,
+    38989,
+    417,
+    81,
+    76,
+    870,
+    262,
+    15797,
+    2502,
+    2106,
+    306,
+    13
+   ]
+  }
+ ]
+}

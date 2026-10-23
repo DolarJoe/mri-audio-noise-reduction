@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_68.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "modl roztrává papír ve jího hůru.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6813955636462197,
+   "compression_ratio": 0.8125,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " modl roztrává papír ve jího hůru.",
+   "tokens": [
+    1072,
+    75,
+    744,
+    2682,
+    30218,
+    85,
+    842,
+    5806,
+    31338,
+    1241,
+    361,
+    870,
+    1289,
+    276,
+    23241,
+    894,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mámenka žehlí věce na želmici prtina.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7251312906578691,
+   "compression_ratio": 0.8775510204081632,
+   "end": 4.84,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mámenka žehlí věce na želmici prtina.",
+   "tokens": [
+    376,
+    842,
+    2558,
+    2330,
+    17305,
+    13301,
+    75,
+    870,
+    371,
+    9648,
+    384,
+    1667,
+    17305,
+    338,
+    76,
+    8787,
+    582,
+    83,
+    1426,
+    13
+   ]
+  }
+ ]
+}

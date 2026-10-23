@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Páně, co píše, domotrso.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4982753511721967,
+   "compression_ratio": 0.7631578947368421,
+   "end": 2.7800000000000002,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Páně, co píše, domotrso.",
+   "tokens": [
+    430,
+    7200,
+    9648,
+    11,
+    598,
+    280,
+    870,
+    42717,
+    11,
+    3285,
+    310,
+    81,
+    539,
+    13
+   ]
+  }
+ ]
+}

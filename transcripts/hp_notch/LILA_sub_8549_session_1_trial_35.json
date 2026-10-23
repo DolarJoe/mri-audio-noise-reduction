@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_35.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena krpí malé hlasaté dítě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.28593044312179294,
+   "compression_ratio": 0.813953488372093,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena krpí malé hlasaté dítě.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    15913,
+    79,
+    870,
+    2806,
+    526,
+    276,
+    7743,
+    267,
+    526,
+    274,
+    6712,
+    9648,
+    13
+   ]
+  }
+ ]
+}

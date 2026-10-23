@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_52.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Vyhledá to jako zvuk zvukového zvuku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0976159850304776,
+   "compression_ratio": 0.975609756097561,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Vyhledá to jako zvuk zvukového zvuku.",
+   "tokens": [
+    691,
+    88,
+    71,
+    1493,
+    842,
+    281,
+    17123,
+    710,
+    85,
+    2034,
+    710,
+    85,
+    2034,
+    5179,
+    526,
+    1289,
+    710,
+    85,
+    24164,
+    13
+   ]
+  }
+ ]
+}

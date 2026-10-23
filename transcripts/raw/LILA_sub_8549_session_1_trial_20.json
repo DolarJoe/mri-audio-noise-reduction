@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná kolem bruslých.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4102252076397865,
+   "compression_ratio": 0.7575757575757576,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná kolem bruslých.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    18303,
+    76,
+    738,
+    301,
+    75,
+    41845,
+    13
+   ]
+  }
+ ]
+}

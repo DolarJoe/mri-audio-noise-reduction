@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_32.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můž lepí další kýtní znolepu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8204599863261377,
+   "compression_ratio": 0.8809523809523809,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můž lepí další kýtní znolepu.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    476,
+    79,
+    870,
+    11702,
+    48651,
+    350,
+    11822,
+    83,
+    28988,
+    710,
+    1771,
+    306,
+    34859,
+    13
+   ]
+  }
+ ]
+}

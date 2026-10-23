@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_5.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Stojící dívka je zamišlená, popradou má ruku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.27355980142116704,
+   "compression_ratio": 0.8524590163934426,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Stojící dívka je zamišlená, popradou má ruku.",
+   "tokens": [
+    745,
+    37224,
+    870,
+    66,
+    870,
+    274,
+    45096,
+    2330,
+    1506,
+    710,
+    4526,
+    7891,
+    6698,
+    842,
+    11,
+    1665,
+    6206,
+    263,
+    12228,
+    367,
+    24164,
+    13
+   ]
+  }
+ ]
+}

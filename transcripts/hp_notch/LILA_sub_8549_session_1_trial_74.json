@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_74.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu plavit kraulá, bazéně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7059331497944453,
+   "compression_ratio": 0.7857142857142857,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu plavit kraulá, bazéně.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    499,
+    706,
+    270,
+    350,
+    25074,
+    842,
+    11,
+    27147,
+    3516,
+    9648,
+    13
+   ]
+  }
+ ]
+}

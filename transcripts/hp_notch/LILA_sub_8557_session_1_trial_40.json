@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_40.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zvláda jež dnes dlouhým copem přemýšlím.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6092491318037597,
+   "compression_ratio": 0.8421052631578947,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zvláda jež dnes dlouhým copem přemýšlím.",
+   "tokens": [
+    1176,
+    42977,
+    842,
+    2675,
+    1506,
+    9159,
+    274,
+    4081,
+    37873,
+    263,
+    71,
+    11822,
+    76,
+    2971,
+    443,
+    31631,
+    443,
+    11822,
+    7891,
+    75,
+    14569,
+    13
+   ]
+  }
+ ]
+}

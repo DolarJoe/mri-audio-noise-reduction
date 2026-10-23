@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_46.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu sbírat ovoce na zahradě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.42597599181126017,
+   "compression_ratio": 0.7906976744186046,
+   "end": 4.5,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu sbírat ovoce na zahradě.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    262,
+    65,
+    870,
+    4481,
+    277,
+    3080,
+    384,
+    1667,
+    710,
+    5398,
+    345,
+    9648,
+    13
+   ]
+  }
+ ]
+}

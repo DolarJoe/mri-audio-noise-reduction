@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_35.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady paní něco velmi pro mě plete, možná háčkuje.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.26013663215446287,
+   "compression_ratio": 0.8636363636363636,
+   "end": 4.72,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady paní něco velmi pro mě plete, možná háčkuje.",
+   "tokens": [
+    314,
+    880,
+    2462,
+    870,
+    46911,
+    1291,
+    14610,
+    3057,
+    447,
+    275,
+    9648,
+    499,
+    3498,
+    11,
+    705,
+    9159,
+    77,
+    842,
+    16448,
+    10236,
+    5279,
+    2884,
+    13
+   ]
+  }
+ ]
+}

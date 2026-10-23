@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_78.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "muž a žena tam slíbačí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5645023870747536,
+   "compression_ratio": 0.7631578947368421,
+   "end": 3.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " muž a žena tam slíbačí.",
+   "tokens": [
+    2992,
+    9159,
+    257,
+    17305,
+    4118,
+    7677,
+    1061,
+    870,
+    4231,
+    10236,
+    870,
+    13
+   ]
+  }
+ ]
+}

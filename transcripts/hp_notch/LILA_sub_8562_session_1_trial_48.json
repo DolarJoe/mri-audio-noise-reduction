@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Je odzim a smakající žena dává kapustníku co proto.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4386291586328298,
+   "compression_ratio": 0.8656716417910447,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Je odzim a smakající žena dává kapustníku co proto.",
+   "tokens": [
+    2588,
+    3611,
+    89,
+    332,
+    257,
+    899,
+    514,
+    1805,
+    870,
+    66,
+    870,
+    17305,
+    4118,
+    14401,
+    85,
+    842,
+    13816,
+    381,
+    28988,
+    5279,
+    598,
+    47896,
+    13
+   ]
+  }
+ ]
+}

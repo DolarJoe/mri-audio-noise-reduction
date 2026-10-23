@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_74.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zde se jiné židi.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.979969148337841,
+   "compression_ratio": 0.7142857142857143,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zde se jiné židi.",
+   "tokens": [
+    1176,
+    1479,
+    369,
+    43528,
+    526,
+    17305,
+    12716,
+    13
+   ]
+  }
+ ]
+}

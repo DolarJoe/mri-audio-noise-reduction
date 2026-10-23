@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_39.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "*Šepetek, špetek, špetek, špetek, špetek*",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7093230286985636,
+   "compression_ratio": 1.88,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " *Šepetek, špetek, špetek, špetek, špetek*",
+   "tokens": [
+    1853,
+    129,
+    254,
+    595,
+    302,
+    916,
+    11,
+    22552,
+    7275,
+    916,
+    11,
+    22552,
+    7275,
+    916,
+    11,
+    22552,
+    7275,
+    916,
+    11,
+    22552,
+    7275,
+    916,
+    9
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_55.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady někdo zahradičí vrchu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5109875414564158,
+   "compression_ratio": 0.7948717948717948,
+   "end": 3.02,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady někdo zahradičí vrchu.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    74,
+    2595,
+    710,
+    5398,
+    5688,
+    10236,
+    870,
+    371,
+    81,
+    29013,
+    13
+   ]
+  }
+ ]
+}

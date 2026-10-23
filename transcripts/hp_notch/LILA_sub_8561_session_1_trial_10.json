@@ -1,0 +1,28 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_10.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Lovex lovex raul.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7624167104562124,
+   "compression_ratio": 0.8181818181818182,
+   "end": 4.58,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Lovex lovex raul.",
+   "tokens": [
+    5956,
+    87,
+    959,
+    87,
+    3342,
+    425,
+    13
+   ]
+  }
+ ]
+}

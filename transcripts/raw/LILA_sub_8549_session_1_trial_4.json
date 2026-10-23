@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_4.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná by se to zjistilo.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0845760025217064,
+   "compression_ratio": 0.7714285714285715,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná by se to zjistilo.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    538,
+    369,
+    281,
+    710,
+    73,
+    468,
+    10720,
+    13
+   ]
+  }
+ ]
+}

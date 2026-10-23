@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A pan stojí se založeným rukama v kapsách.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.38176332793029194,
+   "compression_ratio": 0.8392857142857143,
+   "end": 4.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A pan stojí se založeným rukama v kapsách.",
+   "tokens": [
+    316,
+    2462,
+    22784,
+    73,
+    870,
+    369,
+    710,
+    10334,
+    9159,
+    268,
+    11822,
+    76,
+    367,
+    2034,
+    2404,
+    371,
+    350,
+    2382,
+    39569,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_35.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Boxe stojí v přípravném postoji.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.289522211497088,
+   "compression_ratio": 0.8409090909090909,
+   "end": 5.8,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Boxe stojí v přípravném postoji.",
+   "tokens": [
+    15112,
+    68,
+    22784,
+    73,
+    870,
+    371,
+    31631,
+    28236,
+    13404,
+    77,
+    4011,
+    2183,
+    78,
+    4013,
+    13
+   ]
+  }
+ ]
+}

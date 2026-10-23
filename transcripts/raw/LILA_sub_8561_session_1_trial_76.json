@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_76.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena o něčem přemýšlí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4088482156221289,
+   "compression_ratio": 0.7692307692307693,
+   "end": 4.8,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena o něčem přemýšlí.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    277,
+    46911,
+    10236,
+    443,
+    31631,
+    443,
+    11822,
+    7891,
+    75,
+    870,
+    13
+   ]
+  }
+ ]
+}

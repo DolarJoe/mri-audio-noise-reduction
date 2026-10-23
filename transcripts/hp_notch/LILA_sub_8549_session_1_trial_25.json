@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_25.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Matka, matka, matka, matka, matka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3241091521614341,
+   "compression_ratio": 1.75,
+   "end": 5.5,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Matka, matka, matka, matka, matka.",
+   "tokens": [
+    6789,
+    2330,
+    11,
+    3803,
+    2330,
+    11,
+    3803,
+    2330,
+    11,
+    3803,
+    2330,
+    11,
+    3803,
+    2330,
+    13
+   ]
+  }
+ ]
+}

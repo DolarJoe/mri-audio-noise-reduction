@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_79.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je nějaký pán, asi stará o strom, asi zbírá jabłka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3536871280327129,
+   "compression_ratio": 0.9696969696969697,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je nějaký pán, asi stará o strom, asi zbírá jabłka.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    46911,
+    36230,
+    11822,
+    280,
+    7200,
+    11,
+    28644,
+    3543,
+    842,
+    277,
+    1056,
+    298,
+    11,
+    28644,
+    710,
+    65,
+    870,
+    30218,
+    33475,
+    1221,
+    2330,
+    13
+   ]
+  }
+ ]
+}

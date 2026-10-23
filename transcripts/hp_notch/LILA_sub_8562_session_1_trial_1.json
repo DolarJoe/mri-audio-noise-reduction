@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž má ruce v kapsách, je oděn v svetru.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.35428303190773086,
+   "compression_ratio": 0.8490566037735849,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž má ruce v kapsách, je oděn v svetru.",
+   "tokens": [
+    15601,
+    9159,
+    12228,
+    367,
+    4176,
+    371,
+    350,
+    2382,
+    39569,
+    11,
+    1506,
+    3611,
+    9648,
+    77,
+    371,
+    262,
+    9771,
+    894,
+    13
+   ]
+  }
+ ]
+}

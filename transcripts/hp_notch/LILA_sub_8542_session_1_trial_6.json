@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_6.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady se paní opaluje kromě brody na slunci.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6122570359255309,
+   "compression_ratio": 0.8679245283018868,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady se paní opaluje kromě brody na slunci.",
+   "tokens": [
+    314,
+    880,
+    369,
+    2462,
+    870,
+    999,
+    4929,
+    2884,
+    350,
+    4397,
+    9648,
+    2006,
+    3173,
+    1667,
+    1061,
+    11228,
+    13
+   ]
+  }
+ ]
+}

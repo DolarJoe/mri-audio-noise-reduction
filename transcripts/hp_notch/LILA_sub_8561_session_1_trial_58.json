@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_58.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Moc se káví.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0016616970300674,
+   "compression_ratio": 0.6521739130434783,
+   "end": 2.56,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Moc se káví.",
+   "tokens": [
+    376,
+    905,
+    369,
+    350,
+    842,
+    85,
+    870,
+    13
+   ]
+  }
+ ]
+}

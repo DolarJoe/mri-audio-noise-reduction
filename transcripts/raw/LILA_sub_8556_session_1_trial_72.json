@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_72.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "paní sázní květiny.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.634349464139502,
+   "compression_ratio": 0.8,
+   "end": 3.2600000000000002,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " paní sázní květiny.",
+   "tokens": [
+    2462,
+    870,
+    262,
+    842,
+    22672,
+    870,
+    350,
+    85,
+    9648,
+    83,
+    3519,
+    13
+   ]
+  }
+ ]
+}

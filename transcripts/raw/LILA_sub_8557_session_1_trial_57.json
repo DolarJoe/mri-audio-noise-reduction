@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_57.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "*papaká papaká papaká papaká papaká papaká*",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7121435272426385,
+   "compression_ratio": 2.380952380952381,
+   "end": 5.6000000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " *papaká papaká papaká papaká papaká papaká*",
+   "tokens": [
+    1853,
+    79,
+    569,
+    514,
+    842,
+    5806,
+    514,
+    842,
+    5806,
+    514,
+    842,
+    5806,
+    514,
+    842,
+    5806,
+    514,
+    842,
+    5806,
+    514,
+    842,
+    9
+   ]
+  }
+ ]
+}

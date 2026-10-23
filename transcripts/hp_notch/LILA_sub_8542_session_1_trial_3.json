@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_3.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady pár tančí společenský tanec dohromady.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3090864310453815,
+   "compression_ratio": 0.8909090909090909,
+   "end": 4.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady pár tančí společenský tanec dohromady.",
+   "tokens": [
+    314,
+    880,
+    280,
+    20335,
+    7603,
+    10236,
+    870,
+    637,
+    4812,
+    10236,
+    694,
+    74,
+    11822,
+    23233,
+    66,
+    360,
+    1703,
+    298,
+    880,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaká sločná postolka ze sluchátky nějakou hudbu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4123861841982472,
+   "compression_ratio": 1.0,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaká sločná postolka ze sluchátky nějakou hudbu.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    842,
+    262,
+    752,
+    10236,
+    77,
+    842,
+    2183,
+    401,
+    2330,
+    5277,
+    1061,
+    625,
+    7656,
+    4133,
+    46911,
+    36230,
+    263,
+    276,
+    532,
+    6021,
+    13
+   ]
+  }
+ ]
+}

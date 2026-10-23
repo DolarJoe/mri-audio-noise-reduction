@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_45.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu tady krabet se?",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5897449233318464,
+   "compression_ratio": 0.7419354838709677,
+   "end": 3.46,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu tady krabet se?",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    256,
+    880,
+    350,
+    5305,
+    302,
+    369,
+    30
+   ]
+  }
+ ]
+}

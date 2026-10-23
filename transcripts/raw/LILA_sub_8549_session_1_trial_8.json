@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož ukáže někam...",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5878402024041861,
+   "compression_ratio": 0.71875,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož ukáže někam...",
+   "tokens": [
+    3335,
+    9159,
+    26769,
+    842,
+    29913,
+    46911,
+    39917,
+    485
+   ]
+  }
+ ]
+}

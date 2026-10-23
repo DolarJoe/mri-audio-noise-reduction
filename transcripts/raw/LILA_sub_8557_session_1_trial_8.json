@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "To je věc, která by měla vědět.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8626358363156518,
+   "compression_ratio": 0.8409090909090909,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " To je věc, která by měla vědět.",
+   "tokens": [
+    1407,
+    1506,
+    371,
+    9648,
+    66,
+    11,
+    350,
+    391,
+    842,
+    538,
+    275,
+    9648,
+    875,
+    371,
+    9648,
+    67,
+    9648,
+    83,
+    13
+   ]
+  }
+ ]
+}

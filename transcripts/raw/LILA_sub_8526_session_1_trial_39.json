@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_39.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tatakat, tatakat, tatakat, tatakat.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.41963405187966096,
+   "compression_ratio": 1.6363636363636365,
+   "end": 3.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tatakat, tatakat, tatakat, tatakat.",
+   "tokens": [
+    19645,
+    514,
+    267,
+    11,
+    9600,
+    514,
+    267,
+    11,
+    9600,
+    514,
+    267,
+    11,
+    9600,
+    514,
+    267,
+    13
+   ]
+  }
+ ]
+}

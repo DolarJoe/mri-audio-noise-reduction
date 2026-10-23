@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_32.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž lepí balíky k níž nolepu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6073164960059027,
+   "compression_ratio": 0.8536585365853658,
+   "end": 3.3200000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž lepí balíky k níž nolepu.",
+   "tokens": [
+    15601,
+    9159,
+    476,
+    79,
+    870,
+    3119,
+    870,
+    4133,
+    350,
+    297,
+    870,
+    9159,
+    572,
+    306,
+    34859,
+    13
+   ]
+  }
+ ]
+}

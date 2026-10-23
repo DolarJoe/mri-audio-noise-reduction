@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_31.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Slečno, srchle, melce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9580724040667216,
+   "compression_ratio": 0.75,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Slečno, srchle, melce.",
+   "tokens": [
+    318,
+    306,
+    10236,
+    1771,
+    11,
+    262,
+    81,
+    339,
+    306,
+    11,
+    4795,
+    384,
+    13
+   ]
+  }
+ ]
+}

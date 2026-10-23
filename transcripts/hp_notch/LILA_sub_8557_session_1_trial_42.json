@@ -1,0 +1,53 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pa taka, pa taka, pa taka, pa taka, pa taka, pa taka, pa taka, pa taka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.26615739063024246,
+   "compression_ratio": 3.272727272727273,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pa taka, pa taka, pa taka, pa taka, pa taka, pa taka, pa taka, pa taka.",
+   "tokens": [
+    3426,
+    991,
+    64,
+    11,
+    2502,
+    991,
+    64,
+    11,
+    2502,
+    991,
+    64,
+    11,
+    2502,
+    991,
+    64,
+    11,
+    2502,
+    991,
+    64,
+    11,
+    2502,
+    991,
+    64,
+    11,
+    2502,
+    991,
+    64,
+    11,
+    2502,
+    991,
+    64,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_46.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můj zvířat ovoce na zvářadě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5745908493796984,
+   "compression_ratio": 0.8536585365853658,
+   "end": 4.5200000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můj zvířat ovoce na zvářadě.",
+   "tokens": [
+    376,
+    23241,
+    73,
+    710,
+    85,
+    870,
+    15781,
+    267,
+    277,
+    3080,
+    384,
+    1667,
+    710,
+    85,
+    842,
+    15781,
+    345,
+    9648,
+    13
+   ]
+  }
+ ]
+}

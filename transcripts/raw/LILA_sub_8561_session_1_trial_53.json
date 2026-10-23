@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_53.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Malý kluk sedí na stoličce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.15520116340693285,
+   "compression_ratio": 0.7948717948717948,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Malý kluk sedí na stoličce.",
+   "tokens": [
+    5746,
+    11822,
+    9671,
+    2034,
+    9643,
+    870,
+    1667,
+    342,
+    9384,
+    10236,
+    384,
+    13
+   ]
+  }
+ ]
+}

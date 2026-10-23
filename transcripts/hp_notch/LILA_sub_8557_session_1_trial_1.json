@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Četící auta.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5899062829028646,
+   "compression_ratio": 0.6666666666666666,
+   "end": 3.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Četící auta.",
+   "tokens": [
+    2127,
+    234,
+    302,
+    870,
+    66,
+    870,
+    1476,
+    64,
+    13
+   ]
+  }
+ ]
+}

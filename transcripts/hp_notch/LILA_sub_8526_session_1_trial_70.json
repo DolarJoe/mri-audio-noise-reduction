@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_70.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu ukazovat prostému.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5551728554377665,
+   "compression_ratio": 0.7714285714285715,
+   "end": 3.6,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu ukazovat prostému.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    26769,
+    921,
+    5179,
+    267,
+    10293,
+    4011,
+    84,
+    13
+   ]
+  }
+ ]
+}

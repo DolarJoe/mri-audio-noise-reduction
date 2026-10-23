@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_59.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná z toho, jak to opadlo je.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8111780910369228,
+   "compression_ratio": 0.8292682926829268,
+   "end": 4.84,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná z toho, jak to opadlo je.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    710,
+    281,
+    1289,
+    11,
+    4207,
+    281,
+    999,
+    345,
+    752,
+    1506,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_18.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "žena se opaluje na deset.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4035899631805175,
+   "compression_ratio": 0.7941176470588235,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " žena se opaluje na deset.",
+   "tokens": [
+    17305,
+    4118,
+    369,
+    999,
+    4929,
+    2884,
+    1667,
+    730,
+    302,
+    13
+   ]
+  }
+ ]
+}

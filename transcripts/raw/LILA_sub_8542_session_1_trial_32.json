@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_32.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady paní smrká do kabezníku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4447967189377831,
+   "compression_ratio": 0.825,
+   "end": 3.24,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady paní smrká do kabezníku.",
+   "tokens": [
+    314,
+    880,
+    2462,
+    870,
+    899,
+    81,
+    74,
+    842,
+    360,
+    350,
+    4488,
+    89,
+    28988,
+    5279,
+    13
+   ]
+  }
+ ]
+}

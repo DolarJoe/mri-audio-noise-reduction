@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní uniksuje veselače.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.45658763394189567,
+   "compression_ratio": 0.7647058823529411,
+   "end": 4.0600000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní uniksuje veselače.",
+   "tokens": [
+    7557,
+    870,
+    517,
+    1035,
+    15091,
+    2884,
+    28274,
+    4053,
+    10236,
+    68,
+    13
+   ]
+  }
+ ]
+}

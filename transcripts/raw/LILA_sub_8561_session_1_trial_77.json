@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu vyhazovat tam količkové kníži do vzduchu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4679776860435528,
+   "compression_ratio": 0.8548387096774194,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu vyhazovat tam količkové kníži do vzduchu.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    44766,
+    71,
+    921,
+    5179,
+    267,
+    7677,
+    350,
+    9384,
+    10236,
+    4093,
+    15797,
+    444,
+    870,
+    9159,
+    72,
+    360,
+    371,
+    31278,
+    625,
+    84,
+    13
+   ]
+  }
+ ]
+}

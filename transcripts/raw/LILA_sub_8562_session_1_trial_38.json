@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_38.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Obrnění bruslaž bruslina lepká po vrchu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.519958944424339,
+   "compression_ratio": 0.9183673469387755,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Obrnění bruslaž bruslina lepká po vrchu.",
+   "tokens": [
+    422,
+    1443,
+    31617,
+    28988,
+    738,
+    301,
+    875,
+    9159,
+    738,
+    301,
+    75,
+    1426,
+    476,
+    79,
+    74,
+    842,
+    714,
+    371,
+    81,
+    29013,
+    13
+   ]
+  }
+ ]
+}

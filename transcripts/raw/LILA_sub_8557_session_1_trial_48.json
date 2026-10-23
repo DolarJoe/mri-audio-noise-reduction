@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mladý člověk brusní na inline brusničku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.36890139147761236,
+   "compression_ratio": 0.9019607843137255,
+   "end": 5.24,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mladý člověk brusní na inline brusničku.",
+   "tokens": [
+    376,
+    9290,
+    11822,
+    22392,
+    28257,
+    9648,
+    74,
+    738,
+    301,
+    28988,
+    1667,
+    294,
+    1889,
+    738,
+    301,
+    3722,
+    10236,
+    5279,
+    13
+   ]
+  }
+ ]
+}

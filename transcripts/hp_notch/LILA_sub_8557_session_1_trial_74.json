@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_74.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Těžce jdi na žitý.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6292205705092504,
+   "compression_ratio": 0.71875,
+   "end": 2.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Těžce jdi na žitý.",
+   "tokens": [
+    314,
+    9648,
+    9159,
+    384,
+    361,
+    4504,
+    1667,
+    17305,
+    270,
+    11822,
+    13
+   ]
+  }
+ ]
+}

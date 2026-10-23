@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_14.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Vždycky poslouchá hudbu ve sluchátkách.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.28962448926454054,
+   "compression_ratio": 0.8979591836734694,
+   "end": 6.72,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Vždycky poslouchá hudbu ve sluchátkách.",
+   "tokens": [
+    691,
+    9159,
+    3173,
+    547,
+    88,
+    1366,
+    75,
+    2220,
+    842,
+    276,
+    532,
+    6021,
+    1241,
+    1061,
+    625,
+    7656,
+    74,
+    39569,
+    13
+   ]
+  }
+ ]
+}

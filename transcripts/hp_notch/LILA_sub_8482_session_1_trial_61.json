@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_61.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan Rěk Ríčen.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7244154905731027,
+   "compression_ratio": 0.6923076923076923,
+   "end": 2.98,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan Rěk Ríčen.",
+   "tokens": [
+    7557,
+    497,
+    9648,
+    74,
+    497,
+    870,
+    10236,
+    268,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_74.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Potaka, potaka, potaka, potaka, potaka, potaka, potaka, potaka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.37319599866616326,
+   "compression_ratio": 3.0476190476190474,
+   "end": 4.26,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Potaka, potaka, potaka, potaka, potaka, potaka, potaka, potaka.",
+   "tokens": [
+    9145,
+    7849,
+    11,
+    1847,
+    7849,
+    11,
+    1847,
+    7849,
+    11,
+    1847,
+    7849,
+    11,
+    1847,
+    7849,
+    11,
+    1847,
+    7849,
+    11,
+    1847,
+    7849,
+    11,
+    1847,
+    7849,
+    13
+   ]
+  }
+ ]
+}

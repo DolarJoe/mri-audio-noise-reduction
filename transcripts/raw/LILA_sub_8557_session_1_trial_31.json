@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_31.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Fotografka Fatý z celé rýtří rodě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6971630110508866,
+   "compression_ratio": 0.82,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Fotografka Fatý z celé rýtří rodě.",
+   "tokens": [
+    46771,
+    19815,
+    2330,
+    16948,
+    11822,
+    710,
+    9277,
+    526,
+    367,
+    11822,
+    83,
+    15781,
+    870,
+    8685,
+    9648,
+    13
+   ]
+  }
+ ]
+}

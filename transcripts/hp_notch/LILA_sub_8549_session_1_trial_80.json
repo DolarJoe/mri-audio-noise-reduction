@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžeme na uklízečka a se zemetat.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.49985981243662536,
+   "compression_ratio": 0.8444444444444444,
+   "end": 5.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžeme na uklízečka a se zemetat.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    5729,
+    1667,
+    344,
+    7837,
+    870,
+    1381,
+    10236,
+    2330,
+    257,
+    369,
+    710,
+    24370,
+    267,
+    13
+   ]
+  }
+ ]
+}

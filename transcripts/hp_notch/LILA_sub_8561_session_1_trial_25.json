@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_25.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena vysává poblahu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2938187531679152,
+   "compression_ratio": 0.75,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena vysává poblahu.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    371,
+    749,
+    842,
+    85,
+    842,
+    30548,
+    12156,
+    13
+   ]
+  }
+ ]
+}

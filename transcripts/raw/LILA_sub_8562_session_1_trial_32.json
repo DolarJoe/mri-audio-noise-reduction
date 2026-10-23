@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_32.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "No a dítka napočítala prstečkám.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7861146854702383,
+   "compression_ratio": 0.8444444444444444,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " No a dítka napočítala prstečkám.",
+   "tokens": [
+    883,
+    257,
+    274,
+    6712,
+    2330,
+    9296,
+    78,
+    10236,
+    6712,
+    5159,
+    582,
+    2941,
+    10236,
+    74,
+    19524,
+    13
+   ]
+  }
+ ]
+}

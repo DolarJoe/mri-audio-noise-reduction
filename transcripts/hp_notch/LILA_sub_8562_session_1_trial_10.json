@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_10.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Dívka zaleva je...",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9256182028446347,
+   "compression_ratio": 0.7142857142857143,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Dívka zaleva je...",
+   "tokens": [
+    413,
+    45096,
+    2330,
+    710,
+    1220,
+    2757,
+    1506,
+    485
+   ]
+  }
+ ]
+}

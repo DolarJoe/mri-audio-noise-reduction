@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_68.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož se káčí, se krou na chalpe.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.437256849060456,
+   "compression_ratio": 0.8780487804878049,
+   "end": 3.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož se káčí, se krou na chalpe.",
+   "tokens": [
+    3335,
+    9159,
+    369,
+    350,
+    842,
+    10236,
+    870,
+    11,
+    369,
+    15913,
+    263,
+    1667,
+    417,
+    304,
+    494,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_65.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Je to na vás.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.9327165335416794,
+   "compression_ratio": 0.6521739130434783,
+   "end": 3.88,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Je to na vás.",
+   "tokens": [
+    2588,
+    281,
+    1667,
+    371,
+    2490,
+    13
+   ]
+  }
+ ]
+}

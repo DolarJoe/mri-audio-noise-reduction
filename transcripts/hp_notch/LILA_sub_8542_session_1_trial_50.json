@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_50.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a měl kápaň i kvízi i vysava.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8628270909804476,
+   "compression_ratio": 0.8292682926829268,
+   "end": 2.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a měl kápaň i kvízi i vysava.",
+   "tokens": [
+    257,
+    275,
+    9648,
+    75,
+    350,
+    842,
+    4306,
+    129,
+    230,
+    741,
+    350,
+    85,
+    870,
+    3992,
+    741,
+    371,
+    749,
+    4061,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Šermíř a renoješer.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5126359285070345,
+   "compression_ratio": 0.7272727272727273,
+   "end": 4.12,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Šermíř a renoješer.",
+   "tokens": [
+    49039,
+    966,
+    870,
+    15781,
+    257,
+    319,
+    1771,
+    2884,
+    7891,
+    260,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_56.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady tento člověk potom už jenom stojí s kapsama v ruku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.24631287002530708,
+   "compression_ratio": 0.8970588235294118,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady tento člověk potom už jenom stojí s kapsama v ruku.",
+   "tokens": [
+    314,
+    880,
+    7054,
+    78,
+    22392,
+    28257,
+    9648,
+    74,
+    1847,
+    298,
+    46803,
+    361,
+    268,
+    298,
+    22784,
+    73,
+    870,
+    262,
+    350,
+    2382,
+    2404,
+    371,
+    367,
+    24164,
+    13
+   ]
+  }
+ ]
+}

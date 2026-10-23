@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_67.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ještě nás potíž fotografuje.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6512440276731338,
+   "compression_ratio": 0.7906976744186046,
+   "end": 4.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ještě nás potíž fotografuje.",
+   "tokens": [
+    2588,
+    7891,
+    83,
+    9648,
+    297,
+    2490,
+    1847,
+    870,
+    9159,
+    34341,
+    13008,
+    13
+   ]
+  }
+ ]
+}

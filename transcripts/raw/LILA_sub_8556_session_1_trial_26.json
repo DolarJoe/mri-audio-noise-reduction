@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Slečná horloze asi venky.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5210916636860929,
+   "compression_ratio": 0.7777777777777778,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Slečná horloze asi venky.",
+   "tokens": [
+    318,
+    306,
+    10236,
+    77,
+    842,
+    2569,
+    752,
+    1381,
+    28644,
+    6138,
+    4133,
+    13
+   ]
+  }
+ ]
+}

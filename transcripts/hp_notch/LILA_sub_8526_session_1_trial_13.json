@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_13.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu si i autoboční volantem.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6369450276936678,
+   "compression_ratio": 0.7906976744186046,
+   "end": 4.8,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu si i autoboční volantem.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    1511,
+    741,
+    1476,
+    996,
+    78,
+    10236,
+    28988,
+    1996,
+    394,
+    443,
+    13
+   ]
+  }
+ ]
+}

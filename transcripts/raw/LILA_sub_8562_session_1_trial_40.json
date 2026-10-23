@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_40.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Přísně možká, že?",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.32875774070047414,
+   "compression_ratio": 0.7272727272727273,
+   "end": 3.88,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Přísně možká, že?",
+   "tokens": [
+    430,
+    15781,
+    5113,
+    31617,
+    705,
+    9159,
+    74,
+    842,
+    11,
+    25178,
+    30
+   ]
+  }
+ ]
+}

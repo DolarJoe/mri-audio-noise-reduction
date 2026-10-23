@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_7.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Očička hladí po celém.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.42219157247538014,
+   "compression_ratio": 0.7714285714285715,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Očička hladí po celém.",
+   "tokens": [
+    422,
+    10236,
+    72,
+    10236,
+    2330,
+    276,
+    9290,
+    870,
+    714,
+    9277,
+    4011,
+    13
+   ]
+  }
+ ]
+}

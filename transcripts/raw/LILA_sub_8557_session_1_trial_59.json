@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_59.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž v obleku trhá papír.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.13692195247442993,
+   "compression_ratio": 0.7777777777777778,
+   "end": 4.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž v obleku trhá papír.",
+   "tokens": [
+    15601,
+    9159,
+    371,
+    277,
+    638,
+    5279,
+    504,
+    71,
+    842,
+    5806,
+    31338,
+    13
+   ]
+  }
+ ]
+}

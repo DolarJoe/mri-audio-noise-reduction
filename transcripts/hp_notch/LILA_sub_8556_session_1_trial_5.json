@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_5.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a bruslina, kolečku i bruslina.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7735990761669681,
+   "compression_ratio": 0.9705882352941176,
+   "end": 4.72,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a bruslina, kolečku i bruslina.",
+   "tokens": [
+    257,
+    738,
+    301,
+    75,
+    1426,
+    11,
+    18303,
+    10236,
+    5279,
+    741,
+    738,
+    301,
+    75,
+    1426,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Už jen na vesík brálo, na šíru.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5936804365452477,
+   "compression_ratio": 0.8409090909090909,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Už jen na vesík brálo, na šíru.",
+   "tokens": [
+    624,
+    9159,
+    361,
+    268,
+    1667,
+    28274,
+    870,
+    74,
+    738,
+    842,
+    752,
+    11,
+    1667,
+    22552,
+    870,
+    894,
+    13
+   ]
+  }
+ ]
+}

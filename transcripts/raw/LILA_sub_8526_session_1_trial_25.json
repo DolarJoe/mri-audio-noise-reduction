@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_25.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena serpuje na serfu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.33928007424886647,
+   "compression_ratio": 0.8571428571428571,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena serpuje na serfu.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    816,
+    79,
+    13008,
+    1667,
+    816,
+    14127,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je nějaký zedník, se snaží postavit zaň.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.29629338154002954,
+   "compression_ratio": 0.8524590163934426,
+   "end": 3.8000000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je nějaký zedník, se snaží postavit zaň.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    46911,
+    36230,
+    11822,
+    710,
+    292,
+    28988,
+    74,
+    11,
+    369,
+    14528,
+    9159,
+    870,
+    2183,
+    706,
+    270,
+    7949,
+    129,
+    230,
+    13
+   ]
+  }
+ ]
+}

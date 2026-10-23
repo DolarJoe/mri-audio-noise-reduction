@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_51.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Je tady nějaká celá stříňka?",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1557027865201235,
+   "compression_ratio": 0.8333333333333334,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Je tady nějaká celá stříňka?",
+   "tokens": [
+    2588,
+    256,
+    880,
+    46911,
+    36230,
+    842,
+    9277,
+    842,
+    342,
+    15781,
+    870,
+    129,
+    230,
+    2330,
+    30
+   ]
+  }
+ ]
+}

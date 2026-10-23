@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní věší prádlo na šmůru.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4807562076493923,
+   "compression_ratio": 0.8095238095238095,
+   "end": 3.3200000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní věší prádlo na šmůru.",
+   "tokens": [
+    7557,
+    870,
+    371,
+    9648,
+    48651,
+    27300,
+    67,
+    752,
+    1667,
+    22552,
+    76,
+    23241,
+    894,
+    13
+   ]
+  }
+ ]
+}

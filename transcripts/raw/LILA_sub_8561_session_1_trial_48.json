@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "žena žehlí oblačení.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.45225925338257056,
+   "compression_ratio": 0.7878787878787878,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " žena žehlí oblačení.",
+   "tokens": [
+    17305,
+    4118,
+    17305,
+    13301,
+    75,
+    870,
+    1111,
+    875,
+    10236,
+    268,
+    870,
+    13
+   ]
+  }
+ ]
+}

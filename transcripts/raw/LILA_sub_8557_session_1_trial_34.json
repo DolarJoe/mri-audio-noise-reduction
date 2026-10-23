@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_34.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "No a režena cvičí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.40211623736346763,
+   "compression_ratio": 0.7333333333333333,
+   "end": 3.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " No a režena cvičí.",
+   "tokens": [
+    883,
+    257,
+    319,
+    9159,
+    4118,
+    269,
+    4917,
+    10236,
+    870,
+    13
+   ]
+  }
+ ]
+}

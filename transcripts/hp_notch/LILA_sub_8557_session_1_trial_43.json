@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_43.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Děvčeli žež mrzný rok.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8431605025660247,
+   "compression_ratio": 0.7567567567567568,
+   "end": 4.26,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Děvčeli žež mrzný rok.",
+   "tokens": [
+    413,
+    9648,
+    85,
+    10236,
+    10148,
+    25178,
+    9159,
+    275,
+    19390,
+    77,
+    11822,
+    35135,
+    13
+   ]
+  }
+ ]
+}

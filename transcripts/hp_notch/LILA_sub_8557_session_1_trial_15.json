@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_15.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Člověk stojí na ulici v normální poze.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.26407737929271424,
+   "compression_ratio": 0.8627450980392157,
+   "end": 4.74,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Člověk stojí na ulici v normální poze.",
+   "tokens": [
+    2127,
+    234,
+    28257,
+    9648,
+    74,
+    22784,
+    73,
+    870,
+    1667,
+    344,
+    1050,
+    72,
+    371,
+    2026,
+    11447,
+    28988,
+    714,
+    1381,
+    13
+   ]
+  }
+ ]
+}

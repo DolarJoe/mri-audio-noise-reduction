@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_72.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Páni plave v bazénu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.29036742900886264,
+   "compression_ratio": 0.7419354838709677,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Páni plave v bazénu.",
+   "tokens": [
+    430,
+    842,
+    3722,
+    499,
+    946,
+    371,
+    27147,
+    3516,
+    84,
+    13
+   ]
+  }
+ ]
+}

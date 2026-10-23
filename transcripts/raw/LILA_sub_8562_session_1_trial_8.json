@@ -1,0 +1,47 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Dostupnout, dostupnout, dostupnout, dostupnout, dostupnout.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.33052576522511246,
+   "compression_ratio": 2.4,
+   "end": 5.32,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Dostupnout, dostupnout, dostupnout, dostupnout, dostupnout.",
+   "tokens": [
+    413,
+    555,
+    1010,
+    77,
+    346,
+    11,
+    20568,
+    1010,
+    77,
+    346,
+    11,
+    20568,
+    1010,
+    77,
+    346,
+    11,
+    20568,
+    1010,
+    77,
+    346,
+    11,
+    20568,
+    1010,
+    77,
+    346,
+    13
+   ]
+  }
+ ]
+}

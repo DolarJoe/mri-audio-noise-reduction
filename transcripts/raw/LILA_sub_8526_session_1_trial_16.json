@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_16.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena chýchá a zpětí do kapesky.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.612126082332045,
+   "compression_ratio": 0.8409090909090909,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena chýchá a zpětí do kapesky.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    417,
+    41845,
+    842,
+    257,
+    710,
+    79,
+    9648,
+    83,
+    870,
+    360,
+    13816,
+    279,
+    4133,
+    13
+   ]
+  }
+ ]
+}

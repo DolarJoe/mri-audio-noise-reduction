@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_50.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Moj boh se skýme rukavy co ne.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9858363377861679,
+   "compression_ratio": 0.8,
+   "end": 5.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Moj boh se skýme rukavy co ne.",
+   "tokens": [
+    3335,
+    73,
+    748,
+    71,
+    369,
+    1110,
+    11822,
+    1398,
+    367,
+    2034,
+    15498,
+    598,
+    408,
+    13
+   ]
+  }
+ ]
+}

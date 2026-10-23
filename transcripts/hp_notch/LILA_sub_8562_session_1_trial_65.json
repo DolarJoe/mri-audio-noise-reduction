@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_65.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Fotografka z akce v září není.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6967295071226545,
+   "compression_ratio": 0.7954545454545454,
+   "end": 3.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Fotografka z akce v září není.",
+   "tokens": [
+    46771,
+    19815,
+    2330,
+    710,
+    9308,
+    384,
+    371,
+    710,
+    842,
+    15781,
+    870,
+    16399,
+    870,
+    13
+   ]
+  }
+ ]
+}

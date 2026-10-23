@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_13.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pani přemýšlej nad mě činí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.398003766176236,
+   "compression_ratio": 0.7906976744186046,
+   "end": 3.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pani přemýšlej nad mě činí.",
+   "tokens": [
+    430,
+    3782,
+    31631,
+    443,
+    11822,
+    7891,
+    306,
+    73,
+    12617,
+    275,
+    9648,
+    22392,
+    259,
+    870,
+    13
+   ]
+  }
+ ]
+}

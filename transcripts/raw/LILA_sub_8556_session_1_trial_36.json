@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_36.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan Stroha a nás Strohadla.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9232826810330153,
+   "compression_ratio": 0.90625,
+   "end": 3.8200000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan Stroha a nás Strohadla.",
+   "tokens": [
+    7557,
+    42196,
+    1641,
+    257,
+    297,
+    2490,
+    42196,
+    26326,
+    875,
+    13
+   ]
+  }
+ ]
+}

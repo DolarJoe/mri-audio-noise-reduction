@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Most drhá papír na půl.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.368033085591518,
+   "compression_ratio": 0.7714285714285715,
+   "end": 3.54,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Most drhá papír na půl.",
+   "tokens": [
+    4534,
+    1224,
+    71,
+    842,
+    5806,
+    31338,
+    1667,
+    280,
+    23241,
+    75,
+    13
+   ]
+  }
+ ]
+}

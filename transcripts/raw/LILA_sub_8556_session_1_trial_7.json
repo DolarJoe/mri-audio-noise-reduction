@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_7.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Očička hladí oceora.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7160147263618585,
+   "compression_ratio": 0.75,
+   "end": 3.3200000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Očička hladí oceora.",
+   "tokens": [
+    422,
+    10236,
+    72,
+    10236,
+    2330,
+    276,
+    9290,
+    870,
+    277,
+    384,
+    3252,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_33.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Hrlaské slany ze skaly.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.865505365224985,
+   "compression_ratio": 0.7575757575757576,
+   "end": 5.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Hrlaské slany ze skaly.",
+   "tokens": [
+    389,
+    81,
+    75,
+    3863,
+    526,
+    1061,
+    1325,
+    5277,
+    1110,
+    5222,
+    13
+   ]
+  }
+ ]
+}

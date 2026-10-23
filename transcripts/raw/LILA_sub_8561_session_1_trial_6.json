@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_6.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž v zásteře strouhá sír.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.30637620049802694,
+   "compression_ratio": 0.7804878048780488,
+   "end": 5.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž v zásteře strouhá sír.",
+   "tokens": [
+    15601,
+    9159,
+    371,
+    710,
+    842,
+    2941,
+    15781,
+    68,
+    1056,
+    263,
+    71,
+    842,
+    8600,
+    81,
+    13
+   ]
+  }
+ ]
+}

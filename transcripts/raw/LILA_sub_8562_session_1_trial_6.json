@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_6.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mladý kasetíc, mladý kočičku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3975134115470083,
+   "compression_ratio": 0.9210526315789473,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mladý kasetíc, mladý kočičku.",
+   "tokens": [
+    376,
+    9290,
+    11822,
+    19173,
+    302,
+    870,
+    66,
+    11,
+    275,
+    9290,
+    11822,
+    8384,
+    10236,
+    72,
+    10236,
+    5279,
+    13
+   ]
+  }
+ ]
+}

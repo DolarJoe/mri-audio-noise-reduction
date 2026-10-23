@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_76.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Stačí na posloucha hudbu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4444121548284394,
+   "compression_ratio": 0.7777777777777778,
+   "end": 3.18,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Stačí na posloucha hudbu.",
+   "tokens": [
+    16959,
+    10236,
+    870,
+    1667,
+    1366,
+    75,
+    2220,
+    64,
+    276,
+    532,
+    6021,
+    13
+   ]
+  }
+ ]
+}

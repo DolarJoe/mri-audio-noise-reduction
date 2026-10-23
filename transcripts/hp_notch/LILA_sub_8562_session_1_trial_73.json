@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Babička byla pětsmě pro svoji množství.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5711218922127349,
+   "compression_ratio": 0.8333333333333334,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Babička byla pětsmě pro svoji množství.",
+   "tokens": [
+    15820,
+    72,
+    10236,
+    2330,
+    538,
+    875,
+    280,
+    9648,
+    1373,
+    76,
+    9648,
+    447,
+    262,
+    3080,
+    4013,
+    275,
+    1771,
+    9159,
+    372,
+    85,
+    870,
+    13
+   ]
+  }
+ ]
+}

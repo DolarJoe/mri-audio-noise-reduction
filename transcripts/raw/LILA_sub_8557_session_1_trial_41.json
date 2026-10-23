@@ -1,0 +1,49 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_41.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pa pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5785371751834949,
+   "compression_ratio": 4.315789473684211,
+   "end": 5.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pa pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka pa ka.",
+   "tokens": [
+    3426,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    2502,
+    6799,
+    13
+   ]
+  }
+ ]
+}

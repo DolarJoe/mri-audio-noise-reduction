@@ -1,0 +1,54 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_28.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "i se rozhlasujete svojeho kličku.  Dneska.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.862957643241518,
+   "compression_ratio": 0.813953488372093,
+   "end": 5.0200000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " i se rozhlasujete svojeho kličku.",
+   "tokens": [
+    741,
+    369,
+    9544,
+    71,
+    7743,
+    4579,
+    3498,
+    262,
+    3080,
+    2884,
+    1289,
+    350,
+    2081,
+    10236,
+    5279,
+    13
+   ]
+  },
+  {
+   "id": 1,
+   "avg_logprob": -0.9047997457285722,
+   "compression_ratio": 0.5,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 5.0200000000000005,
+   "temperature": 0.0,
+   "text": " Dneska.",
+   "tokens": [
+    413,
+    4081,
+    2330,
+    13
+   ]
+  }
+ ]
+}

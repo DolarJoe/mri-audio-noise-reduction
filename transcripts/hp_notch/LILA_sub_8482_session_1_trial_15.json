@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_15.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan ukazuje na něco postavit.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.45567454921547323,
+   "compression_ratio": 0.7948717948717948,
+   "end": 3.3200000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan ukazuje na něco postavit.",
+   "tokens": [
+    7557,
+    26769,
+    43317,
+    1667,
+    46911,
+    1291,
+    2183,
+    706,
+    270,
+    13
+   ]
+  }
+ ]
+}

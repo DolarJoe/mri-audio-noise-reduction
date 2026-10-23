@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož strouhá sěrna strouhátko.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3745108228952934,
+   "compression_ratio": 0.9714285714285714,
+   "end": 4.54,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož strouhá sěrna strouhátko.",
+   "tokens": [
+    3335,
+    9159,
+    1056,
+    263,
+    71,
+    842,
+    262,
+    9648,
+    81,
+    629,
+    1056,
+    263,
+    71,
+    7656,
+    4093,
+    13
+   ]
+  }
+ ]
+}

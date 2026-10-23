@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Kluk sedí na židličce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.15006827493086278,
+   "compression_ratio": 0.7647058823529411,
+   "end": 9.98,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Kluk sedí na židličce.",
+   "tokens": [
+    16053,
+    2034,
+    9643,
+    870,
+    1667,
+    17305,
+    327,
+    2081,
+    10236,
+    384,
+    13
+   ]
+  }
+ ]
+}

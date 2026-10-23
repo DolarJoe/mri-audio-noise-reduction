@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "paní věšník rádla na šníru.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5535917196881629,
+   "compression_ratio": 0.8974358974358975,
+   "end": 3.3000000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " paní věšník rádla na šníru.",
+   "tokens": [
+    2462,
+    870,
+    371,
+    9648,
+    7891,
+    28988,
+    74,
+    367,
+    32512,
+    875,
+    1667,
+    22552,
+    28988,
+    894,
+    13
+   ]
+  }
+ ]
+}

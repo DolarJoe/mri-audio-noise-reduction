@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_35.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Hlapek sedí na stoličce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4727265598395696,
+   "compression_ratio": 0.7714285714285715,
+   "end": 3.68,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Hlapek sedí na stoličce.",
+   "tokens": [
+    389,
+    875,
+    32659,
+    9643,
+    870,
+    1667,
+    342,
+    9384,
+    10236,
+    384,
+    13
+   ]
+  }
+ ]
+}

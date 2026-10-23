@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_38.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a pro něj prosíláš, prosílíme o lékař povrchu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8733940185910022,
+   "compression_ratio": 1.0,
+   "end": 5.76,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a pro něj prosíláš, prosílíme o lékař povrchu.",
+   "tokens": [
+    257,
+    447,
+    46911,
+    73,
+    6267,
+    870,
+    75,
+    842,
+    7891,
+    11,
+    6267,
+    870,
+    75,
+    870,
+    1398,
+    277,
+    287,
+    526,
+    2330,
+    15781,
+    714,
+    85,
+    81,
+    29013,
+    13
+   ]
+  }
+ ]
+}

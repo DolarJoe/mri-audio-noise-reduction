@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_76.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žádná máme skutečně velký story, jimou...",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7288042195670476,
+   "compression_ratio": 0.8448275862068966,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žádná máme skutečně velký story, jimou...",
+   "tokens": [
+    4423,
+    121,
+    32512,
+    77,
+    842,
+    12228,
+    1398,
+    1110,
+    1169,
+    10236,
+    31617,
+    14610,
+    74,
+    11822,
+    1657,
+    11,
+    361,
+    332,
+    263,
+    485
+   ]
+  }
+ ]
+}

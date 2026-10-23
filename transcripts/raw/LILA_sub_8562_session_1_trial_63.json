@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můj důvod je, aby se měl způsobit na mě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.241451968308538,
+   "compression_ratio": 0.8679245283018868,
+   "end": 4.26,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můj důvod je, aby se měl způsobit na mě.",
+   "tokens": [
+    376,
+    23241,
+    73,
+    274,
+    23241,
+    85,
+    378,
+    1506,
+    11,
+    24457,
+    369,
+    275,
+    9648,
+    75,
+    710,
+    79,
+    23241,
+    539,
+    5260,
+    1667,
+    275,
+    9648,
+    13
+   ]
+  }
+ ]
+}

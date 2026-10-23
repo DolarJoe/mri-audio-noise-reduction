@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_47.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Šermíz Braňgárt.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7740107696239041,
+   "compression_ratio": 0.7,
+   "end": 5.8,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Šermíz Braňgárt.",
+   "tokens": [
+    49039,
+    966,
+    44551,
+    4991,
+    129,
+    230,
+    70,
+    842,
+    17721,
+    13
+   ]
+  }
+ ]
+}

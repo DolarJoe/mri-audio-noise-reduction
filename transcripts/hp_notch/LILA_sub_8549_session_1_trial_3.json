@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_3.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a žená po celká hudba.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0667815559676714,
+   "compression_ratio": 0.7878787878787878,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a žená po celká hudba.",
+   "tokens": [
+    257,
+    17305,
+    268,
+    842,
+    714,
+    9277,
+    74,
+    842,
+    276,
+    532,
+    4231,
+    13
+   ]
+  }
+ ]
+}

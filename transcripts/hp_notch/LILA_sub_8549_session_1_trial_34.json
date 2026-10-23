@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_34.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "že nás surfuje na surfu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6943690480495041,
+   "compression_ratio": 0.9,
+   "end": 4.44,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " že nás surfuje na surfu.",
+   "tokens": [
+    25178,
+    297,
+    2490,
+    9684,
+    13008,
+    1667,
+    9684,
+    84,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_16.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž stojí v papučích s rukami v kapsách.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2410396408383912,
+   "compression_ratio": 0.8518518518518519,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž stojí v papučích s rukami v kapsách.",
+   "tokens": [
+    15601,
+    9159,
+    22784,
+    73,
+    870,
+    371,
+    5806,
+    84,
+    10236,
+    30839,
+    262,
+    367,
+    2034,
+    4526,
+    371,
+    350,
+    2382,
+    39569,
+    13
+   ]
+  }
+ ]
+}

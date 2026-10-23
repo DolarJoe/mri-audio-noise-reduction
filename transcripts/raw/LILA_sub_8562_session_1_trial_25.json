@@ -1,0 +1,48 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_25.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž seká dřevo na vysokém špálku. Prava ruce nesekl.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2651649707936329,
+   "compression_ratio": 0.8805970149253731,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž seká dřevo na vysokém špálku. Prava ruce nesekl.",
+   "tokens": [
+    15601,
+    9159,
+    17215,
+    842,
+    274,
+    15781,
+    68,
+    3080,
+    1667,
+    371,
+    749,
+    453,
+    4011,
+    22552,
+    79,
+    11447,
+    5279,
+    13,
+    12133,
+    2757,
+    367,
+    4176,
+    297,
+    279,
+    916,
+    75,
+    13
+   ]
+  }
+ ]
+}

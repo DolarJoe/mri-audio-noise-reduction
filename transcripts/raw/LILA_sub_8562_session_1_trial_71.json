@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_71.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Polonohý boxer stojí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.43475746221586387,
+   "compression_ratio": 0.75,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Polonohý boxer stojí.",
+   "tokens": [
+    3635,
+    266,
+    1445,
+    11822,
+    47252,
+    22784,
+    73,
+    870,
+    13
+   ]
+  }
+ ]
+}

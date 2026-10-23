@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_17.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Slačené lížečky po klišky znotu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7934505982324481,
+   "compression_ratio": 0.8297872340425532,
+   "end": 3.64,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Slačené lížečky po klišky znotu.",
+   "tokens": [
+    318,
+    875,
+    10236,
+    268,
+    526,
+    16118,
+    29913,
+    10236,
+    4133,
+    714,
+    350,
+    2081,
+    7891,
+    4133,
+    710,
+    2247,
+    84,
+    13
+   ]
+  }
+ ]
+}

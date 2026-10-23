@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_16.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pataka pataka pataka pataka pataka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.514996821526438,
+   "compression_ratio": 1.8,
+   "end": 5.6000000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pataka pataka pataka pataka pataka.",
+   "tokens": [
+    4379,
+    7849,
+    1947,
+    7849,
+    1947,
+    7849,
+    1947,
+    7849,
+    1947,
+    7849,
+    13
+   ]
+  }
+ ]
+}

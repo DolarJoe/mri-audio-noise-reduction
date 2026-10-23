@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_55.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Takže si bavíme, takže si nebavíme.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8802171123863541,
+   "compression_ratio": 1.1111111111111112,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Takže si bavíme, takže si nebavíme.",
+   "tokens": [
+    9118,
+    29913,
+    1511,
+    272,
+    706,
+    870,
+    1398,
+    11,
+    991,
+    29913,
+    1511,
+    408,
+    65,
+    706,
+    870,
+    1398,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_22.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena vzbyčí s tím kamení.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4901572027216282,
+   "compression_ratio": 0.775,
+   "end": 4.4,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena vzbyčí s tím kamení.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    371,
+    89,
+    2322,
+    10236,
+    870,
+    262,
+    256,
+    14569,
+    9727,
+    268,
+    870,
+    13
+   ]
+  }
+ ]
+}

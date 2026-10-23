@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pani zametá koště ten práh.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.29881570003926755,
+   "compression_ratio": 0.7804878048780488,
+   "end": 3.8000000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pani zametá koště ten práh.",
+   "tokens": [
+    430,
+    3782,
+    19876,
+    302,
+    842,
+    8384,
+    7891,
+    83,
+    9648,
+    2064,
+    27300,
+    71,
+    13
+   ]
+  }
+ ]
+}

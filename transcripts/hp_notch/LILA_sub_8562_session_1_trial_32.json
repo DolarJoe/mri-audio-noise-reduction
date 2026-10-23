@@ -1,0 +1,48 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_32.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "No a dítka, na kterou čítám, prostě čekám, když čítám.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9689800894401711,
+   "compression_ratio": 1.064516129032258,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " No a dítka, na kterou čítám, prostě čekám, když čítám.",
+   "tokens": [
+    883,
+    257,
+    274,
+    6712,
+    2330,
+    11,
+    1667,
+    350,
+    391,
+    263,
+    22392,
+    6712,
+    19524,
+    11,
+    10293,
+    9648,
+    22392,
+    916,
+    19524,
+    11,
+    350,
+    3173,
+    9159,
+    22392,
+    6712,
+    19524,
+    13
+   ]
+  }
+ ]
+}

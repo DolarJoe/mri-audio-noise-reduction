@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a žena zahradí či asi.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.49838340642432183,
+   "compression_ratio": 0.7647058823529411,
+   "end": 5.2,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a žena zahradí či asi.",
+   "tokens": [
+    257,
+    17305,
+    4118,
+    710,
+    5398,
+    345,
+    870,
+    22392,
+    72,
+    28644,
+    13
+   ]
+  }
+ ]
+}

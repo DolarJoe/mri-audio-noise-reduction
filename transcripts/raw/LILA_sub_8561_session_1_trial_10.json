@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_10.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Plavec plave hravo.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.562510432082821,
+   "compression_ratio": 0.8,
+   "end": 4.6000000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Plavec plave hravo.",
+   "tokens": [
+    2149,
+    946,
+    66,
+    499,
+    946,
+    276,
+    424,
+    3080,
+    13
+   ]
+  }
+ ]
+}

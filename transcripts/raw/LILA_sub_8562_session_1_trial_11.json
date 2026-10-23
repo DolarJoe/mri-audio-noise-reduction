@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_11.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Posilující žena dělá hypnóz.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3291199833352278,
+   "compression_ratio": 0.7954545454545454,
+   "end": 5.64,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Posilující žena dělá hypnóz.",
+   "tokens": [
+    25906,
+    388,
+    4579,
+    870,
+    66,
+    870,
+    17305,
+    4118,
+    274,
+    9648,
+    75,
+    842,
+    7420,
+    77,
+    812,
+    89,
+    13
+   ]
+  }
+ ]
+}

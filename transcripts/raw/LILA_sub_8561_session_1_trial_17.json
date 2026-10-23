@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_17.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž v zástěře zametá podlahu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.29316594989573147,
+   "compression_ratio": 0.7954545454545454,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž v zástěře zametá podlahu.",
+   "tokens": [
+    15601,
+    9159,
+    371,
+    710,
+    25952,
+    9648,
+    15781,
+    68,
+    19876,
+    302,
+    842,
+    2497,
+    75,
+    12156,
+    13
+   ]
+  }
+ ]
+}

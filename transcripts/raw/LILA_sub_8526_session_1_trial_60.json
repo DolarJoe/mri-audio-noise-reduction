@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_60.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "žena, zametál nebo kánek",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5776725414638909,
+   "compression_ratio": 0.7777777777777778,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " žena, zametál nebo kánek",
+   "tokens": [
+    17305,
+    4118,
+    11,
+    19876,
+    302,
+    11447,
+    408,
+    1763,
+    350,
+    842,
+    23255
+   ]
+  }
+ ]
+}

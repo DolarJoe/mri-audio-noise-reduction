@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_69.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaká paníka mi svej je vylav.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7799203675240278,
+   "compression_ratio": 0.8333333333333334,
+   "end": 4.24,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaká paníka mi svej je vylav.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    842,
+    2462,
+    870,
+    2330,
+    2752,
+    262,
+    303,
+    73,
+    1506,
+    371,
+    5088,
+    706,
+    13
+   ]
+  }
+ ]
+}

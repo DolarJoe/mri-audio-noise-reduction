@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_52.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Půjcheř strouhá sír na strouhé uvěr.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7062983694283859,
+   "compression_ratio": 0.9347826086956522,
+   "end": 4.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Půjcheř strouhá sír na strouhé uvěr.",
+   "tokens": [
+    430,
+    23241,
+    73,
+    1876,
+    15781,
+    1056,
+    263,
+    71,
+    842,
+    8600,
+    81,
+    1667,
+    1056,
+    263,
+    71,
+    526,
+    344,
+    85,
+    9648,
+    81,
+    13
+   ]
+  }
+ ]
+}

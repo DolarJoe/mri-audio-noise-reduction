@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_2.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "muž a žena se objímají.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.23959075555540038,
+   "compression_ratio": 0.8,
+   "end": 4.44,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " muž a žena se objímají.",
+   "tokens": [
+    2992,
+    9159,
+    257,
+    17305,
+    4118,
+    369,
+    1111,
+    73,
+    870,
+    1696,
+    73,
+    870,
+    13
+   ]
+  }
+ ]
+}

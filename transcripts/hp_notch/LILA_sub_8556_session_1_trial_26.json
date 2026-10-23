@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Slečná horóze o Syvánku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.842265156985377,
+   "compression_ratio": 0.7631578947368421,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Slečná horóze o Syvánku.",
+   "tokens": [
+    318,
+    306,
+    10236,
+    77,
+    842,
+    2569,
+    812,
+    1381,
+    277,
+    3902,
+    85,
+    7200,
+    5279,
+    13
+   ]
+  }
+ ]
+}

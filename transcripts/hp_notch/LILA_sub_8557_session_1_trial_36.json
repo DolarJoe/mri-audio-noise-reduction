@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_36.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ženo surfuje na veřejných.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.856721397090171,
+   "compression_ratio": 0.7894736842105263,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ženo surfuje na veřejných.",
+   "tokens": [
+    4423,
+    121,
+    5808,
+    9684,
+    13008,
+    1667,
+    1241,
+    15781,
+    40779,
+    77,
+    41845,
+    13
+   ]
+  }
+ ]
+}

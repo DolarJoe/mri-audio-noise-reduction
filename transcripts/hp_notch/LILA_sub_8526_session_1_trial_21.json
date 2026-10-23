@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_21.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Hladec o kruslí na kolečkových kruslích.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6302052249555432,
+   "compression_ratio": 0.9574468085106383,
+   "end": 5.12,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Hladec o kruslí na kolečkových kruslích.",
+   "tokens": [
+    389,
+    75,
+    762,
+    66,
+    277,
+    350,
+    13783,
+    75,
+    870,
+    1667,
+    18303,
+    10236,
+    33516,
+    41845,
+    350,
+    13783,
+    75,
+    30839,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_36.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan Stroha nás povedl. Děkujeme.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9599912403260961,
+   "compression_ratio": 0.813953488372093,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan Stroha nás povedl. Děkujeme.",
+   "tokens": [
+    7557,
+    42196,
+    1641,
+    297,
+    2490,
+    714,
+    937,
+    75,
+    13,
+    413,
+    9648,
+    74,
+    4579,
+    5729,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_78.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A pan ukazuje sněh.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4923864422831684,
+   "compression_ratio": 0.7241379310344828,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A pan ukazuje sněh.",
+   "tokens": [
+    316,
+    2462,
+    26769,
+    43317,
+    2406,
+    9648,
+    71,
+    13
+   ]
+  }
+ ]
+}

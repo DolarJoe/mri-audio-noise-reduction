@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_28.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán sametal zahradu listy.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5659191685595683,
+   "compression_ratio": 0.7777777777777778,
+   "end": 5.24,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán sametal zahradu listy.",
+   "tokens": [
+    430,
+    7200,
+    3247,
+    302,
+    304,
+    710,
+    5398,
+    345,
+    84,
+    1329,
+    88,
+    13
+   ]
+  }
+ ]
+}

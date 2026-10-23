@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_9.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Moj strohá síra.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5389561794698239,
+   "compression_ratio": 0.7037037037037037,
+   "end": 3.38,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Moj strohá síra.",
+   "tokens": [
+    3335,
+    73,
+    8959,
+    71,
+    842,
+    8600,
+    424,
+    13
+   ]
+  }
+ ]
+}

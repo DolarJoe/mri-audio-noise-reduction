@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_21.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán Kvapadíru na zóngadě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7706711705609718,
+   "compression_ratio": 0.7692307692307693,
+   "end": 3.3200000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán Kvapadíru na zóngadě.",
+   "tokens": [
+    430,
+    7200,
+    591,
+    85,
+    569,
+    345,
+    870,
+    894,
+    1667,
+    710,
+    812,
+    872,
+    345,
+    9648,
+    13
+   ]
+  }
+ ]
+}

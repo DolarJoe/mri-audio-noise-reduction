@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_75.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tatínek letím v boxy, aby je mohl poslat po škole.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3729768062687733,
+   "compression_ratio": 0.9,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tatínek letím v boxy, aby je mohl poslat po škole.",
+   "tokens": [
+    19645,
+    870,
+    23255,
+    718,
+    14569,
+    371,
+    2424,
+    88,
+    11,
+    24457,
+    1506,
+    705,
+    22950,
+    1366,
+    14087,
+    714,
+    22552,
+    4093,
+    306,
+    13
+   ]
+  }
+ ]
+}

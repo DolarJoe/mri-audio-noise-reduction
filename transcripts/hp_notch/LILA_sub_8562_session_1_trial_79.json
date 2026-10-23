@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_79.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Že jdu s tím mám volán, ale bezpečně zapeč.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.730093971680617,
+   "compression_ratio": 0.8793103448275862,
+   "end": 5.66,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Že jdu s tím mám volán, ale bezpečně zapeč.",
+   "tokens": [
+    4423,
+    121,
+    68,
+    361,
+    769,
+    262,
+    256,
+    14569,
+    12228,
+    76,
+    1996,
+    7200,
+    11,
+    6775,
+    10782,
+    494,
+    10236,
+    31617,
+    7949,
+    494,
+    10236,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_46.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Dělník nejstavný.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7052250266008612,
+   "compression_ratio": 0.7241379310344828,
+   "end": 3.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Dělník nejstavný.",
+   "tokens": [
+    413,
+    9648,
+    75,
+    28988,
+    74,
+    408,
+    73,
+    372,
+    706,
+    77,
+    11822,
+    13
+   ]
+  }
+ ]
+}

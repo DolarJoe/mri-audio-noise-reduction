@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Jen akademie mi nejde k vlahu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1099189360936483,
+   "compression_ratio": 0.7948717948717948,
+   "end": 3.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Jen akademie mi nejde k vlahu.",
+   "tokens": [
+    9228,
+    9308,
+    345,
+    32163,
+    2752,
+    408,
+    73,
+    1479,
+    350,
+    371,
+    75,
+    12156,
+    13
+   ]
+  }
+ ]
+}

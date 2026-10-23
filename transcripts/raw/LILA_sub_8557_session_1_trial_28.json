@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_28.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mus a žena tančí na bále.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4370344709480248,
+   "compression_ratio": 0.8108108108108109,
+   "end": 4.0600000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mus a žena tančí na bále.",
+   "tokens": [
+    3569,
+    257,
+    17305,
+    4118,
+    7603,
+    10236,
+    870,
+    1667,
+    272,
+    842,
+    306,
+    13
+   ]
+  }
+ ]
+}

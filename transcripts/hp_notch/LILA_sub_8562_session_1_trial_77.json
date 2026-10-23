@@ -1,0 +1,50 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Chlapec sledí na štok kryly a sleduje, co dělají jeho rodiče.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.21704434770852518,
+   "compression_ratio": 0.9436619718309859,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Chlapec sledí na štok kryly a sleduje, co dělají jeho rodiče.",
+   "tokens": [
+    761,
+    875,
+    494,
+    66,
+    46242,
+    870,
+    1667,
+    22552,
+    83,
+    453,
+    34847,
+    356,
+    257,
+    46242,
+    13008,
+    11,
+    598,
+    274,
+    9648,
+    875,
+    73,
+    870,
+    1506,
+    1289,
+    744,
+    4504,
+    10236,
+    68,
+    13
+   ]
+  }
+ ]
+}

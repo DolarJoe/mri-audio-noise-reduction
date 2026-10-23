@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_17.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady někdo něco rozhazuje nad hlaví, nebo znám, co to je.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.32100293115721656,
+   "compression_ratio": 0.9253731343283582,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady někdo něco rozhazuje nad hlaví, nebo znám, co to je.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    74,
+    2595,
+    46911,
+    1291,
+    9544,
+    71,
+    43317,
+    12617,
+    276,
+    36243,
+    870,
+    11,
+    408,
+    1763,
+    15397,
+    19524,
+    11,
+    598,
+    281,
+    1506,
+    13
+   ]
+  }
+ ]
+}

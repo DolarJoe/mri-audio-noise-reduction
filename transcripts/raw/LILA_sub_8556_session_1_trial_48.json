@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "On můj kamarád myslel, že nebudu spol.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.39557080386882826,
+   "compression_ratio": 0.84,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " On můj kamarád myslel, že nebudu spol.",
+   "tokens": [
+    1282,
+    275,
+    23241,
+    73,
+    9727,
+    21534,
+    67,
+    452,
+    82,
+    306,
+    75,
+    11,
+    25178,
+    408,
+    18281,
+    84,
+    637,
+    401,
+    13
+   ]
+  }
+ ]
+}

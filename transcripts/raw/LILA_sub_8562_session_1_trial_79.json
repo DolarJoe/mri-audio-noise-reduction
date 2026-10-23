@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_79.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Živící má volant, ale bezpečně zatačí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6308678843739802,
+   "compression_ratio": 0.8392857142857143,
+   "end": 5.82,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Živící má volant, ale bezpečně zatačí.",
+   "tokens": [
+    4423,
+    121,
+    592,
+    870,
+    66,
+    870,
+    12228,
+    1996,
+    394,
+    11,
+    6775,
+    10782,
+    494,
+    10236,
+    31617,
+    710,
+    3274,
+    10236,
+    870,
+    13
+   ]
+  }
+ ]
+}

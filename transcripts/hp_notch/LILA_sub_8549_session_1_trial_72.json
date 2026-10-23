@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_72.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena žehlí právno.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.36880204124519456,
+   "compression_ratio": 0.71875,
+   "end": 3.6,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena žehlí právno.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    17305,
+    13301,
+    75,
+    870,
+    27300,
+    85,
+    1771,
+    13
+   ]
+  }
+ ]
+}

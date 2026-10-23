@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_17.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Slačina líže, překopišky zmrzly.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7656694348460358,
+   "compression_ratio": 0.8085106382978723,
+   "end": 3.72,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Slačina líže, překopišky zmrzly.",
+   "tokens": [
+    318,
+    875,
+    10236,
+    1426,
+    16118,
+    29913,
+    11,
+    31631,
+    916,
+    404,
+    72,
+    7891,
+    4133,
+    17020,
+    19390,
+    356,
+    13
+   ]
+  }
+ ]
+}

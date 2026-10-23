@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mladá kývka odzve zmarzenou.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5064471040455186,
+   "compression_ratio": 0.7948717948717948,
+   "end": 4.18,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mladá kývka odzve zmarzenou.",
+   "tokens": [
+    376,
+    9290,
+    842,
+    350,
+    11822,
+    85,
+    2330,
+    3611,
+    89,
+    303,
+    710,
+    6209,
+    2904,
+    263,
+    13
+   ]
+  }
+ ]
+}

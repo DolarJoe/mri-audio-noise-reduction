@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_27.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je paní uplíží.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7053335752391902,
+   "compression_ratio": 0.7352941176470589,
+   "end": 2.5,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je paní uplíží.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    2462,
+    870,
+    493,
+    75,
+    870,
+    9159,
+    870,
+    13
+   ]
+  }
+ ]
+}

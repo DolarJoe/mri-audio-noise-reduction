@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_72.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní sávníky.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.069421032257378,
+   "compression_ratio": 0.7083333333333334,
+   "end": 3.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní sávníky.",
+   "tokens": [
+    7557,
+    870,
+    262,
+    842,
+    85,
+    28988,
+    4133,
+    13
+   ]
+  }
+ ]
+}

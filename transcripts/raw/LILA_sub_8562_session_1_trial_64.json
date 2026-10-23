@@ -1,0 +1,47 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Objímající se manželé svědčí vědělosti.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5158437194768339,
+   "compression_ratio": 0.9433962264150944,
+   "end": 5.12,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Objímající se manželé svědčí vědělosti.",
+   "tokens": [
+    4075,
+    73,
+    870,
+    1696,
+    73,
+    870,
+    66,
+    870,
+    369,
+    587,
+    9159,
+    338,
+    526,
+    17342,
+    9648,
+    67,
+    10236,
+    870,
+    371,
+    9648,
+    67,
+    9648,
+    75,
+    555,
+    72,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_14.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Létec leze po stěně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6074770267766255,
+   "compression_ratio": 0.75,
+   "end": 4.24,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Létec leze po stěně.",
+   "tokens": [
+    441,
+    526,
+    975,
+    66,
+    476,
+    1381,
+    714,
+    342,
+    9648,
+    31617,
+    13
+   ]
+  }
+ ]
+}

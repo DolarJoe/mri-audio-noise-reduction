@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_60.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Uchlízečka zamotá zem a má rukavice.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.18412432481418364,
+   "compression_ratio": 0.8541666666666666,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Uchlízečka zamotá zem a má rukavice.",
+   "tokens": [
+    624,
+    11439,
+    870,
+    1381,
+    10236,
+    2330,
+    19876,
+    310,
+    842,
+    710,
+    443,
+    257,
+    12228,
+    367,
+    2034,
+    706,
+    573,
+    13
+   ]
+  }
+ ]
+}

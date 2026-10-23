@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_30.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tím to pálí, to je jasnou, že tím méně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9425017877947539,
+   "compression_ratio": 0.9038461538461539,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tím to pálí, to je jasnou, že tím méně.",
+   "tokens": [
+    314,
+    14569,
+    281,
+    280,
+    11447,
+    870,
+    11,
+    281,
+    1506,
+    361,
+    296,
+    77,
+    263,
+    11,
+    25178,
+    256,
+    14569,
+    275,
+    3516,
+    9648,
+    13
+   ]
+  }
+ ]
+}

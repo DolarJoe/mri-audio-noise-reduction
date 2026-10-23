@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_15.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ještě hladí ketuzka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3349893096780691,
+   "compression_ratio": 0.75,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ještě hladí ketuzka.",
+   "tokens": [
+    2588,
+    7891,
+    83,
+    9648,
+    276,
+    9290,
+    870,
+    14979,
+    3334,
+    2330,
+    13
+   ]
+  }
+ ]
+}

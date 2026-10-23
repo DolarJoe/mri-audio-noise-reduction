@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Šermíř a préluje šer.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5308298448530527,
+   "compression_ratio": 0.75,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Šermíř a préluje šer.",
+   "tokens": [
+    49039,
+    966,
+    870,
+    15781,
+    257,
+    11127,
+    2781,
+    2884,
+    22552,
+    260,
+    13
+   ]
+  }
+ ]
+}

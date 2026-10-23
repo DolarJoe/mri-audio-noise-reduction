@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_40.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "No a další dva z dvou, co budeme přemýšlet.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8519815338569804,
+   "compression_ratio": 0.8596491228070176,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " No a další dva z dvou, co budeme přemýšlet.",
+   "tokens": [
+    883,
+    257,
+    11702,
+    48651,
+    274,
+    2757,
+    710,
+    274,
+    85,
+    263,
+    11,
+    598,
+    3265,
+    5729,
+    31631,
+    443,
+    11822,
+    7891,
+    2631,
+    13
+   ]
+  }
+ ]
+}

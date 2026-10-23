@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_76.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "*světlá hlasování*",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9985490942994754,
+   "compression_ratio": 0.71875,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " *světlá hlasování*",
+   "tokens": [
+    1853,
+    82,
+    85,
+    9648,
+    83,
+    75,
+    842,
+    276,
+    7743,
+    5179,
+    7200,
+    870,
+    9
+   ]
+  }
+ ]
+}

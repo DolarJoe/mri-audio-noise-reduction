@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_29.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní Hačku je z Lidička.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5303757068135643,
+   "compression_ratio": 0.8,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní Hačku je z Lidička.",
+   "tokens": [
+    7557,
+    870,
+    4064,
+    10236,
+    5279,
+    1506,
+    710,
+    441,
+    12716,
+    10236,
+    2330,
+    13
+   ]
+  }
+ ]
+}

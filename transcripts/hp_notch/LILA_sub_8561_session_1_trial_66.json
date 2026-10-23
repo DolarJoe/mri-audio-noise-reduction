@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_66.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Patarka, patarka, patarka, patarka, patarka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.30235954889212735,
+   "compression_ratio": 2.0454545454545454,
+   "end": 5.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Patarka, patarka, patarka, patarka, patarka.",
+   "tokens": [
+    4379,
+    809,
+    64,
+    11,
+    1947,
+    809,
+    64,
+    11,
+    1947,
+    809,
+    64,
+    11,
+    1947,
+    809,
+    64,
+    11,
+    1947,
+    809,
+    64,
+    13
+   ]
+  }
+ ]
+}

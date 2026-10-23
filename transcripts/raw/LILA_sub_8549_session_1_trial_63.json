@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož balí krabice a si sestřihuje.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4895054339431226,
+   "compression_ratio": 0.8222222222222222,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož balí krabice a si sestřihuje.",
+   "tokens": [
+    3335,
+    9159,
+    3119,
+    870,
+    350,
+    5305,
+    573,
+    257,
+    1511,
+    262,
+    377,
+    15781,
+    4247,
+    13008,
+    13
+   ]
+  }
+ ]
+}

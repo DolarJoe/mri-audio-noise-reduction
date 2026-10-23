@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_16.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní Sazí na zahradě Kletiny.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5590996688479208,
+   "compression_ratio": 0.825,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní Sazí na zahradě Kletiny.",
+   "tokens": [
+    7557,
+    870,
+    318,
+    921,
+    870,
+    1667,
+    710,
+    5398,
+    345,
+    9648,
+    591,
+    2631,
+    3519,
+    13
+   ]
+  }
+ ]
+}

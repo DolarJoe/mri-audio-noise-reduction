@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_3.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mladý člověk v džunglu je.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.40770084316363864,
+   "compression_ratio": 0.775,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mladý člověk v džunglu je.",
+   "tokens": [
+    376,
+    9290,
+    11822,
+    22392,
+    28257,
+    9648,
+    74,
+    371,
+    274,
+    9159,
+    1063,
+    2781,
+    1506,
+    13
+   ]
+  }
+ ]
+}

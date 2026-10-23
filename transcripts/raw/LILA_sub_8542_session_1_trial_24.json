@@ -1,0 +1,47 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_24.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je nějaký a muž ukazuje prstem, možná nějakou jinacího.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2645701892449454,
+   "compression_ratio": 0.9577464788732394,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je nějaký a muž ukazuje prstem, možná nějakou jinacího.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    46911,
+    36230,
+    11822,
+    257,
+    2992,
+    9159,
+    26769,
+    43317,
+    582,
+    1099,
+    11,
+    705,
+    9159,
+    77,
+    842,
+    46911,
+    36230,
+    263,
+    43528,
+    326,
+    870,
+    1289,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu se tamhle plestit.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8904112546671448,
+   "compression_ratio": 0.7647058823529411,
+   "end": 3.56,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu se tamhle plestit.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    369,
+    7677,
+    71,
+    306,
+    499,
+    377,
+    270,
+    13
+   ]
+  }
+ ]
+}

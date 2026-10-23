@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Na obrázku se jí titě na nějaké židly.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.34826832367107274,
+   "compression_ratio": 0.8333333333333334,
+   "end": 3.46,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Na obrázku se jí titě na nějaké židly.",
+   "tokens": [
+    6056,
+    1111,
+    30218,
+    89,
+    5279,
+    369,
+    361,
+    870,
+    3459,
+    9648,
+    1667,
+    46911,
+    36230,
+    526,
+    17305,
+    327,
+    356,
+    13
+   ]
+  }
+ ]
+}

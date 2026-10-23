@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_6.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mládí kašeky, smládí kočičku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.730589240312665,
+   "compression_ratio": 0.925,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mládí kašeky, smládí kočičku.",
+   "tokens": [
+    376,
+    75,
+    32512,
+    870,
+    6799,
+    7891,
+    916,
+    88,
+    11,
+    899,
+    75,
+    32512,
+    870,
+    8384,
+    10236,
+    72,
+    10236,
+    5279,
+    13
+   ]
+  }
+ ]
+}

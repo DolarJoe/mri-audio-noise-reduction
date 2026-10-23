@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_68.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž roztrhává papír.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2899605379352579,
+   "compression_ratio": 0.7352941176470589,
+   "end": 3.46,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž roztrhává papír.",
+   "tokens": [
+    15601,
+    9159,
+    744,
+    2682,
+    48759,
+    842,
+    85,
+    842,
+    5806,
+    31338,
+    13
+   ]
+  }
+ ]
+}

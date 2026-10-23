@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_46.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Papaham, papaham, papaham, papaham, papaham.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.32618308236123994,
+   "compression_ratio": 2.0454545454545454,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Papaham, papaham, papaham, papaham, papaham.",
+   "tokens": [
+    15919,
+    545,
+    335,
+    11,
+    5806,
+    545,
+    335,
+    11,
+    5806,
+    545,
+    335,
+    11,
+    5806,
+    545,
+    335,
+    11,
+    5806,
+    545,
+    335,
+    13
+   ]
+  }
+ ]
+}

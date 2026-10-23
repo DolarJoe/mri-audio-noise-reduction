@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_2.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan je nemocná, Marino.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.41258284511908033,
+   "compression_ratio": 0.7575757575757576,
+   "end": 3.44,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan je nemocná, Marino.",
+   "tokens": [
+    7557,
+    1506,
+    9939,
+    905,
+    77,
+    842,
+    11,
+    2039,
+    2982,
+    13
+   ]
+  }
+ ]
+}

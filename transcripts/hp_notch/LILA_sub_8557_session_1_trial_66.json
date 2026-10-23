@@ -1,0 +1,27 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_66.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Kostrohasí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8501657051965594,
+   "compression_ratio": 0.6190476190476191,
+   "end": 3.18,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Kostrohasí.",
+   "tokens": [
+    591,
+    555,
+    340,
+    12438,
+    870,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_22.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Vybíjte objemy.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8890764030317465,
+   "compression_ratio": 0.68,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Vybíjte objemy.",
+   "tokens": [
+    691,
+    88,
+    65,
+    870,
+    73,
+    975,
+    1111,
+    73,
+    3633,
+    13
+   ]
+  }
+ ]
+}

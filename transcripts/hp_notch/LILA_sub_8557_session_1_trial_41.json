@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_41.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "*Šepětí*",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.4619413256645202,
+   "compression_ratio": 0.6,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " *Šepětí*",
+   "tokens": [
+    1853,
+    129,
+    254,
+    595,
+    9648,
+    83,
+    870,
+    9
+   ]
+  }
+ ]
+}

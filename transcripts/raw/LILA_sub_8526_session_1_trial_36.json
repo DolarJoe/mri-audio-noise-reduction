@@ -1,0 +1,66 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_36.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Už jená ve sába a ve sabače.  Už jená ve sába a ve sabače.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5195652712330533,
+   "compression_ratio": 0.868421052631579,
+   "end": 3.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Už jená ve sába a ve sabače.",
+   "tokens": [
+    624,
+    9159,
+    361,
+    268,
+    842,
+    1241,
+    262,
+    842,
+    4231,
+    257,
+    1241,
+    262,
+    5509,
+    10236,
+    68,
+    13
+   ]
+  },
+  {
+   "id": 1,
+   "avg_logprob": -0.09869802570190384,
+   "compression_ratio": 0.868421052631579,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 3.94,
+   "temperature": 0.0,
+   "text": " Už jená ve sába a ve sabače.",
+   "tokens": [
+    624,
+    9159,
+    361,
+    268,
+    842,
+    1241,
+    262,
+    842,
+    4231,
+    257,
+    1241,
+    262,
+    5509,
+    10236,
+    68,
+    13
+   ]
+  }
+ ]
+}

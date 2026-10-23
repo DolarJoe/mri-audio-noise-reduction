@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_43.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Šéf zničil výpověď zaměstnance.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.1972475376100192,
+   "compression_ratio": 0.8125,
+   "end": 5.82,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Šéf zničil výpověď zaměstnance.",
+   "tokens": [
+    49039,
+    38821,
+    710,
+    3722,
+    10236,
+    388,
+    371,
+    11822,
+    2259,
+    85,
+    9648,
+    45907,
+    19876,
+    9648,
+    372,
+    77,
+    719,
+    13
+   ]
+  }
+ ]
+}

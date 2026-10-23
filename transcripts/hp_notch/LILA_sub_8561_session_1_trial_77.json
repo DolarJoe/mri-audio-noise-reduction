@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžeme jezdit na konečné mířky.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.022426117832462,
+   "compression_ratio": 0.8085106382978723,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžeme jezdit na konečné mířky.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    5729,
+    1506,
+    89,
+    17975,
+    1667,
+    350,
+    546,
+    10236,
+    15055,
+    14692,
+    15781,
+    4133,
+    13
+   ]
+  }
+ ]
+}

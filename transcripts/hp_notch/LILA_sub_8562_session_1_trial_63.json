@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mlá dítka, se důleží na mě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9766889726252932,
+   "compression_ratio": 0.7906976744186046,
+   "end": 4.3,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mlá dítka, se důleží na mě.",
+   "tokens": [
+    376,
+    75,
+    842,
+    274,
+    6712,
+    2330,
+    11,
+    369,
+    274,
+    23241,
+    306,
+    9159,
+    870,
+    1667,
+    275,
+    9648,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_51.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "...o... pan z Jonglejské místě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1963232178241014,
+   "compression_ratio": 0.8095238095238095,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": "...o... pan z Jonglejské místě.",
+   "tokens": [
+    1097,
+    78,
+    485,
+    2462,
+    710,
+    19589,
+    306,
+    73,
+    5161,
+    526,
+    14692,
+    372,
+    9648,
+    13
+   ]
+  }
+ ]
+}

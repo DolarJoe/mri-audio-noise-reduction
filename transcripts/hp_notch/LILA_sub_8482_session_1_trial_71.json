@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_71.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A pan jezdí na kolečkovi v Rusli.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3470384664251469,
+   "compression_ratio": 0.8181818181818182,
+   "end": 3.84,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A pan jezdí na kolečkovi v Rusli.",
+   "tokens": [
+    316,
+    2462,
+    1506,
+    31278,
+    870,
+    1667,
+    18303,
+    10236,
+    4093,
+    4917,
+    371,
+    13155,
+    2081,
+    13
+   ]
+  }
+ ]
+}

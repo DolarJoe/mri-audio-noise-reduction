@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_23.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Maminka žehlí na prtně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.32467348609442037,
+   "compression_ratio": 0.7714285714285715,
+   "end": 3.64,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Maminka žehlí na prtně.",
+   "tokens": [
+    19899,
+    38989,
+    17305,
+    13301,
+    75,
+    870,
+    1667,
+    582,
+    83,
+    31617,
+    13
+   ]
+  }
+ ]
+}

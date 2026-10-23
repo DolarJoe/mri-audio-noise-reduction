@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_66.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná by jí zjistil.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5025980802518981,
+   "compression_ratio": 0.75,
+   "end": 3.58,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná by jí zjistil.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    538,
+    361,
+    870,
+    710,
+    73,
+    468,
+    388,
+    13
+   ]
+  }
+ ]
+}

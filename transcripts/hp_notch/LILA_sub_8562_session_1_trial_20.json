@@ -1,0 +1,25 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Lovit.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9464370558659235,
+   "compression_ratio": 0.4666666666666667,
+   "end": 1.78,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Lovit.",
+   "tokens": [
+    441,
+    5179,
+    270,
+    13
+   ]
+  }
+ ]
+}

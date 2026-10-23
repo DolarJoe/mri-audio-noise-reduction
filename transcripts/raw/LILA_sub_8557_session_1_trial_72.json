@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_72.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "... a když člověk poslouká hudbu vleže na posteli.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.49060028171795866,
+   "compression_ratio": 0.8870967741935484,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": "... a když člověk poslouká hudbu vleže na posteli.",
+   "tokens": [
+    1097,
+    257,
+    350,
+    3173,
+    9159,
+    22392,
+    28257,
+    9648,
+    74,
+    1366,
+    75,
+    263,
+    74,
+    842,
+    276,
+    532,
+    6021,
+    371,
+    306,
+    29913,
+    1667,
+    2183,
+    10148,
+    13
+   ]
+  }
+ ]
+}

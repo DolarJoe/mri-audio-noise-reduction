@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_61.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějakým už vrhá papír na půl.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3745059775384633,
+   "compression_ratio": 0.82,
+   "end": 3.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějakým už vrhá papír na půl.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    11822,
+    76,
+    46803,
+    371,
+    48759,
+    842,
+    5806,
+    31338,
+    1667,
+    280,
+    23241,
+    75,
+    13
+   ]
+  }
+ ]
+}

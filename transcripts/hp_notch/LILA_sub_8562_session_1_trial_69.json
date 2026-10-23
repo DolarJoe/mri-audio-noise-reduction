@@ -1,0 +1,50 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_69.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Černým jsem připravoval dvoj, pravém těm tři námoč.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6920837753737766,
+   "compression_ratio": 0.9375,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Černým jsem připravoval dvoj, pravém těm tři námoč.",
+   "tokens": [
+    2127,
+    234,
+    1248,
+    11822,
+    76,
+    47784,
+    31631,
+    647,
+    424,
+    3080,
+    3337,
+    274,
+    3080,
+    73,
+    11,
+    3206,
+    85,
+    4011,
+    256,
+    9648,
+    76,
+    256,
+    15781,
+    72,
+    297,
+    842,
+    3280,
+    10236,
+    13
+   ]
+  }
+ ]
+}

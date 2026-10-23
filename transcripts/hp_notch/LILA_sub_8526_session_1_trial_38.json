@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_38.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán Skrýzy, Jablka ze stromu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.55995014948113,
+   "compression_ratio": 0.8,
+   "end": 6.16,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán Skrýzy, Jablka ze stromu.",
+   "tokens": [
+    430,
+    7200,
+    7324,
+    81,
+    11822,
+    1229,
+    11,
+    508,
+    32212,
+    2330,
+    5277,
+    1056,
+    298,
+    84,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_12.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Děvče se učí počítat.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.1625721391501429,
+   "compression_ratio": 0.8235294117647058,
+   "end": 4.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Děvče se učí počítat.",
+   "tokens": [
+    413,
+    9648,
+    85,
+    10236,
+    68,
+    369,
+    344,
+    10236,
+    870,
+    714,
+    10236,
+    6712,
+    267,
+    13
+   ]
+  }
+ ]
+}

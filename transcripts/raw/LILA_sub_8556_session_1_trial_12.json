@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_12.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní smrka do papestí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.849248688085936,
+   "compression_ratio": 0.7575757575757576,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní smrka do papestí.",
+   "tokens": [
+    7557,
+    870,
+    899,
+    81,
+    2330,
+    360,
+    5806,
+    377,
+    870,
+    13
+   ]
+  }
+ ]
+}

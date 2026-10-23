@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_4.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "*zvuky zvuků*",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.2850651256740093,
+   "compression_ratio": 0.7142857142857143,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " *zvuky zvuků*",
+   "tokens": [
+    1853,
+    89,
+    85,
+    2034,
+    88,
+    710,
+    85,
+    2034,
+    23241,
+    9
+   ]
+  }
+ ]
+}

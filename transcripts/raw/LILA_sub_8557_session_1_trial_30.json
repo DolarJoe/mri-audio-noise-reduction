@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_30.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "můžu kvizí věcí na záhradě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6981829253851347,
+   "compression_ratio": 0.813953488372093,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " můžu kvizí věcí na záhradě.",
+   "tokens": [
+    275,
+    23241,
+    9159,
+    84,
+    350,
+    85,
+    590,
+    870,
+    371,
+    9648,
+    66,
+    870,
+    1667,
+    710,
+    842,
+    1703,
+    345,
+    9648,
+    13
+   ]
+  }
+ ]
+}

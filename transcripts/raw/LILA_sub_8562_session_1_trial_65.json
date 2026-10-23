@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_65.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Fotografka zakacují obzácně na mějící.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7972685750150545,
+   "compression_ratio": 0.8490566037735849,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Fotografka zakacují obzácně na mějící.",
+   "tokens": [
+    46771,
+    19815,
+    2330,
+    23810,
+    326,
+    4579,
+    870,
+    1111,
+    89,
+    842,
+    16279,
+    9648,
+    1667,
+    275,
+    9648,
+    73,
+    870,
+    66,
+    870,
+    13
+   ]
+  }
+ ]
+}

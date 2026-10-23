@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_25.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pani Smrká, dotka posmíchku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6393256060546264,
+   "compression_ratio": 0.7948717948717948,
+   "end": 3.2,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pani Smrká, dotka posmíchku.",
+   "tokens": [
+    430,
+    3782,
+    3915,
+    81,
+    74,
+    842,
+    11,
+    5893,
+    2330,
+    1366,
+    76,
+    30839,
+    5279,
+    13
+   ]
+  }
+ ]
+}

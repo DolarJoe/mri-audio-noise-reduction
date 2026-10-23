@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_70.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož ukazuje prostému.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6180873822420836,
+   "compression_ratio": 0.75,
+   "end": 3.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož ukazuje prostému.",
+   "tokens": [
+    3335,
+    9159,
+    26769,
+    43317,
+    10293,
+    4011,
+    84,
+    13
+   ]
+  }
+ ]
+}

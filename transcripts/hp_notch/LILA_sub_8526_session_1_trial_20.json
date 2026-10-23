@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož strouhá sěrna z Trováctu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5717617164512998,
+   "compression_ratio": 0.7906976744186046,
+   "end": 4.58,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož strouhá sěrna z Trováctu.",
+   "tokens": [
+    3335,
+    9159,
+    1056,
+    263,
+    71,
+    842,
+    262,
+    9648,
+    81,
+    629,
+    710,
+    19406,
+    85,
+    842,
+    349,
+    84,
+    13
+   ]
+  }
+ ]
+}

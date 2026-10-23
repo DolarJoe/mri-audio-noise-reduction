@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "*světlá hudba*",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0854528833610506,
+   "compression_ratio": 0.68,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " *světlá hudba*",
+   "tokens": [
+    1853,
+    82,
+    85,
+    9648,
+    83,
+    75,
+    842,
+    276,
+    532,
+    4231,
+    9
+   ]
+  }
+ ]
+}

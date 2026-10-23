@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_3.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Počítá, počítá, zpočítá, jenom naprosto.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.48576373679796236,
+   "compression_ratio": 1.2195121951219512,
+   "end": 5.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Počítá, počítá, zpočítá, jenom naprosto.",
+   "tokens": [
+    6165,
+    10236,
+    6712,
+    842,
+    11,
+    714,
+    10236,
+    6712,
+    842,
+    11,
+    710,
+    2259,
+    10236,
+    6712,
+    842,
+    11,
+    361,
+    268,
+    298,
+    9296,
+    81,
+    22756,
+    13
+   ]
+  }
+ ]
+}

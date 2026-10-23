@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_65.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Činnost se poje na volán.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.985631135578912,
+   "compression_ratio": 0.7777777777777778,
+   "end": 3.88,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Činnost se poje na volán.",
+   "tokens": [
+    2127,
+    234,
+    7729,
+    555,
+    369,
+    714,
+    2884,
+    1667,
+    1996,
+    7200,
+    13
+   ]
+  }
+ ]
+}

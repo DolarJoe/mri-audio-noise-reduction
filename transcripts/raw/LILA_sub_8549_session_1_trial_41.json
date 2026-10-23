@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_41.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "rozvodových právních v Prahá, Manchesteru, Spolu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5074774547564712,
+   "compression_ratio": 0.8852459016393442,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " rozvodových právních v Prahá, Manchesteru, Spolu.",
+   "tokens": [
+    9544,
+    85,
+    378,
+    5179,
+    41845,
+    27300,
+    85,
+    28988,
+    339,
+    371,
+    12133,
+    71,
+    842,
+    11,
+    27180,
+    84,
+    11,
+    1738,
+    39754,
+    13
+   ]
+  }
+ ]
+}

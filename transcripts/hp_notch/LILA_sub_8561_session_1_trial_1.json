@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "muž zalopuje krabicami.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5010521813140562,
+   "compression_ratio": 0.7575757575757576,
+   "end": 5.2,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " muž zalopuje krabicami.",
+   "tokens": [
+    2992,
+    9159,
+    29599,
+    404,
+    13008,
+    350,
+    5305,
+    299,
+    4526,
+    13
+   ]
+  }
+ ]
+}

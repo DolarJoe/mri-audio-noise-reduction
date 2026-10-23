@@ -1,0 +1,61 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_72.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "... nebo nějaká paní žihlí... ... něco na žihlícím prkně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6830878298341607,
+   "compression_ratio": 0.7906976744186046,
+   "end": 3.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": "... nebo nějaká paní žihlí...",
+   "tokens": [
+    1097,
+    408,
+    1763,
+    46911,
+    36230,
+    842,
+    2462,
+    870,
+    17305,
+    4247,
+    75,
+    870,
+    485
+   ]
+  },
+  {
+   "id": 1,
+   "avg_logprob": -0.3107159259961918,
+   "compression_ratio": 0.8,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 3.0,
+   "temperature": 0.0,
+   "text": "... něco na žihlícím prkně.",
+   "tokens": [
+    1097,
+    46911,
+    1291,
+    1667,
+    17305,
+    4247,
+    75,
+    870,
+    66,
+    14569,
+    582,
+    5457,
+    9648,
+    13
+   ]
+  }
+ ]
+}

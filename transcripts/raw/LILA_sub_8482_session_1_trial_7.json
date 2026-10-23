@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_7.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán saká dříví.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2718607988843525,
+   "compression_ratio": 0.7,
+   "end": 2.8000000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán saká dříví.",
+   "tokens": [
+    430,
+    7200,
+    23366,
+    842,
+    274,
+    15781,
+    45096,
+    870,
+    13
+   ]
+  }
+ ]
+}

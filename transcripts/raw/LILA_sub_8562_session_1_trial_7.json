@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_7.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Posluchaj, posluchaj, posluchaj, posluchaj, posluchaj.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2104512906789077,
+   "compression_ratio": 2.2916666666666665,
+   "end": 5.7,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Posluchaj, posluchaj, posluchaj, posluchaj, posluchaj.",
+   "tokens": [
+    25906,
+    75,
+    625,
+    1805,
+    11,
+    1366,
+    75,
+    625,
+    1805,
+    11,
+    1366,
+    75,
+    625,
+    1805,
+    11,
+    1366,
+    75,
+    625,
+    1805,
+    11,
+    1366,
+    75,
+    625,
+    1805,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_53.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Papacha, papacha, papacha, papacha, papacha.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3124721806277247,
+   "compression_ratio": 2.0454545454545454,
+   "end": 5.2,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Papacha, papacha, papacha, papacha, papacha.",
+   "tokens": [
+    15919,
+    27442,
+    11,
+    5806,
+    27442,
+    11,
+    5806,
+    27442,
+    11,
+    5806,
+    27442,
+    11,
+    5806,
+    27442,
+    13
+   ]
+  }
+ ]
+}

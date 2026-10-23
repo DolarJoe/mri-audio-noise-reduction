@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_54.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Je včas celý kyrížez a mrzlino.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6468483146868254,
+   "compression_ratio": 0.8,
+   "end": 4.3,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Je včas celý kyrížez a mrzlino.",
+   "tokens": [
+    2588,
+    371,
+    10236,
+    296,
+    9277,
+    11822,
+    350,
+    6016,
+    870,
+    9159,
+    4371,
+    257,
+    275,
+    19390,
+    75,
+    2982,
+    13
+   ]
+  }
+ ]
+}

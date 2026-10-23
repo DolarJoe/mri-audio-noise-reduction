@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_33.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zklačená cvičí s činkami.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7514763712174232,
+   "compression_ratio": 0.775,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zklačená cvičí s činkami.",
+   "tokens": [
+    1176,
+    74,
+    875,
+    10236,
+    268,
+    842,
+    269,
+    4917,
+    10236,
+    870,
+    262,
+    22392,
+    475,
+    4526,
+    13
+   ]
+  }
+ ]
+}

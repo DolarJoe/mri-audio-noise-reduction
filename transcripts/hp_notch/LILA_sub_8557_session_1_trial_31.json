@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_31.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Fotografka Fatý z celé ryly v přírodě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.39844140247027504,
+   "compression_ratio": 0.8301886792452831,
+   "end": 4.62,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Fotografka Fatý z celé ryly v přírodě.",
+   "tokens": [
+    46771,
+    19815,
+    2330,
+    16948,
+    11822,
+    710,
+    9277,
+    526,
+    20791,
+    356,
+    371,
+    31631,
+    870,
+    11452,
+    9648,
+    13
+   ]
+  }
+ ]
+}

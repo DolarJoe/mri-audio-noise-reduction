@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_10.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Už je na se sluň.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.898451479036036,
+   "compression_ratio": 0.7142857142857143,
+   "end": 3.16,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Už je na se sluň.",
+   "tokens": [
+    624,
+    9159,
+    1506,
+    1667,
+    369,
+    1061,
+    84,
+    129,
+    230,
+    13
+   ]
+  }
+ ]
+}

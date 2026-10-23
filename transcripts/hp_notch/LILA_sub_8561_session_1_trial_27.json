@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_27.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu... uh... zký... uh... jedna ať mám... ne.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.5200918506210048,
+   "compression_ratio": 1.0833333333333333,
+   "end": 7.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu... uh... zký... uh... jedna ať mám... ne.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    485,
+    2232,
+    485,
+    710,
+    74,
+    11822,
+    485,
+    2232,
+    485,
+    5232,
+    629,
+    257,
+    27101,
+    12228,
+    76,
+    485,
+    408,
+    13
+   ]
+  }
+ ]
+}

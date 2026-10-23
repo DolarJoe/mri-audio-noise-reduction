@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Děnak vědění.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1678980698978358,
+   "compression_ratio": 0.72,
+   "end": 2.24,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Děnak vědění.",
+   "tokens": [
+    413,
+    9648,
+    16852,
+    371,
+    9648,
+    67,
+    9648,
+    28988,
+    13
+   ]
+  }
+ ]
+}

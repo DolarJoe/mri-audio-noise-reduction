@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_68.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Oni se zamýšlí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.48232470147989015,
+   "compression_ratio": 0.7037037037037037,
+   "end": 2.54,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Oni se zamýšlí.",
+   "tokens": [
+    1282,
+    72,
+    369,
+    19876,
+    11822,
+    7891,
+    75,
+    870,
+    13
+   ]
+  }
+ ]
+}

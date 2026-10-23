@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_13.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena vyšší prádo.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4579655090981925,
+   "compression_ratio": 0.71875,
+   "end": 3.2600000000000002,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena vyšší prádo.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    44766,
+    7891,
+    48651,
+    27300,
+    2595,
+    13
+   ]
+  }
+ ]
+}

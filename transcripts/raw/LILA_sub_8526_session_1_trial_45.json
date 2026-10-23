@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_45.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž balí krabice.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4483045104891062,
+   "compression_ratio": 0.7142857142857143,
+   "end": 3.38,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž balí krabice.",
+   "tokens": [
+    15601,
+    9159,
+    3119,
+    870,
+    350,
+    5305,
+    573,
+    13
+   ]
+  }
+ ]
+}

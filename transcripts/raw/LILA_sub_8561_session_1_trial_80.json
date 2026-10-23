@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můž sklíží jablky a pká se stromou.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8114529694007202,
+   "compression_ratio": 0.8235294117647058,
+   "end": 4.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můž sklíží jablky a pká se stromou.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    1110,
+    75,
+    870,
+    9159,
+    870,
+    33475,
+    75,
+    4133,
+    257,
+    280,
+    74,
+    842,
+    369,
+    1056,
+    298,
+    263,
+    13
+   ]
+  }
+ ]
+}

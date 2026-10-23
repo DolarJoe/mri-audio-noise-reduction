@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "můžu ukazovat nekam.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6423942865087435,
+   "compression_ratio": 0.7419354838709677,
+   "end": 3.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " můžu ukazovat nekam.",
+   "tokens": [
+    275,
+    23241,
+    9159,
+    84,
+    26769,
+    921,
+    5179,
+    267,
+    408,
+    39917,
+    13
+   ]
+  }
+ ]
+}

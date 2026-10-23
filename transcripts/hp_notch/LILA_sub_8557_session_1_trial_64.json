@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Maminka věší košily na šíru.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3829580474644899,
+   "compression_ratio": 0.8536585365853658,
+   "end": 5.44,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Maminka věší košily na šíru.",
+   "tokens": [
+    19899,
+    38989,
+    371,
+    9648,
+    48651,
+    8384,
+    7891,
+    953,
+    1667,
+    22552,
+    870,
+    894,
+    13
+   ]
+  }
+ ]
+}

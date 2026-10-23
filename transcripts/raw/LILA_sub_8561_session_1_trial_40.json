@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_40.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Holčička hladí točku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.35107303626136854,
+   "compression_ratio": 0.7878787878787878,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Holčička hladí točku.",
+   "tokens": [
+    11086,
+    10236,
+    72,
+    10236,
+    2330,
+    276,
+    9290,
+    870,
+    281,
+    10236,
+    5279,
+    13
+   ]
+  }
+ ]
+}

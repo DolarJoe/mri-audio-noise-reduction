@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu si zaletuje krabica.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8031544350087643,
+   "compression_ratio": 0.7777777777777778,
+   "end": 4.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu si zaletuje krabica.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    1511,
+    29599,
+    302,
+    13008,
+    350,
+    5305,
+    2262,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_60.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Po takhle, po takhle, po takhle, po takhle, po takhle, po takhle.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.23126867472683443,
+   "compression_ratio": 2.75,
+   "end": 5.12,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Po takhle, po takhle, po takhle, po takhle, po takhle, po takhle.",
+   "tokens": [
+    6165,
+    991,
+    71,
+    306,
+    11,
+    714,
+    991,
+    71,
+    306,
+    11,
+    714,
+    991,
+    71,
+    306,
+    11,
+    714,
+    991,
+    71,
+    306,
+    11,
+    714,
+    991,
+    71,
+    306,
+    11,
+    714,
+    991,
+    71,
+    306,
+    13
+   ]
+  }
+ ]
+}

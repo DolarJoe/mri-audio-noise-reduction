@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Jongleš, jongleš, šesky, sepnevičky.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6183422931603023,
+   "compression_ratio": 0.9761904761904762,
+   "end": 5.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Jongleš, jongleš, šesky, sepnevičky.",
+   "tokens": [
+    19589,
+    306,
+    7891,
+    11,
+    38678,
+    306,
+    7891,
+    11,
+    22552,
+    279,
+    4133,
+    11,
+    369,
+    79,
+    716,
+    4917,
+    10236,
+    4133,
+    13
+   ]
+  }
+ ]
+}

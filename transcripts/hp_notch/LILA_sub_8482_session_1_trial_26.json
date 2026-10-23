@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pani posluje s činkama.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.24446016798416773,
+   "compression_ratio": 0.7575757575757576,
+   "end": 3.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pani posluje s činkama.",
+   "tokens": [
+    430,
+    3782,
+    1366,
+    2781,
+    2884,
+    262,
+    22392,
+    475,
+    2404,
+    13
+   ]
+  }
+ ]
+}

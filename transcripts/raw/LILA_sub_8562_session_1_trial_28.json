@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_28.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A se rozhlasujeme svojeho kličku zpánu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9913227615708654,
+   "compression_ratio": 0.84,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A se rozhlasujeme svojeho kličku zpánu.",
+   "tokens": [
+    316,
+    369,
+    9544,
+    71,
+    7743,
+    4579,
+    5729,
+    262,
+    3080,
+    2884,
+    1289,
+    350,
+    2081,
+    10236,
+    5279,
+    710,
+    79,
+    7200,
+    84,
+    13
+   ]
+  }
+ ]
+}

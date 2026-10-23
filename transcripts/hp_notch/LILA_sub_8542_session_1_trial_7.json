@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_7.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je bojovník, který je připraven na zápas.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.23087315259605626,
+   "compression_ratio": 0.8793103448275862,
+   "end": 3.86,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je bojovník, který je připraven na zápas.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    748,
+    5134,
+    85,
+    28988,
+    74,
+    11,
+    350,
+    391,
+    11822,
+    1506,
+    31631,
+    647,
+    424,
+    553,
+    1667,
+    710,
+    15059,
+    296,
+    13
+   ]
+  }
+ ]
+}

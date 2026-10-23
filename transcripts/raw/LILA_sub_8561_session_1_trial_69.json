@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_69.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu něco zapisovat, barem.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7781405567802722,
+   "compression_ratio": 0.7948717948717948,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu něco zapisovat, barem.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    46911,
+    1291,
+    14223,
+    271,
+    5179,
+    267,
+    11,
+    6949,
+    76,
+    13
+   ]
+  }
+ ]
+}

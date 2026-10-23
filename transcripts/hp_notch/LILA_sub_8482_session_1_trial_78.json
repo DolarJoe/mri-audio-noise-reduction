@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_78.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan a moje stánoji.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7093747027218342,
+   "compression_ratio": 0.7241379310344828,
+   "end": 3.14,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan a moje stánoji.",
+   "tokens": [
+    7557,
+    257,
+    36383,
+    342,
+    842,
+    1771,
+    4013,
+    13
+   ]
+  }
+ ]
+}

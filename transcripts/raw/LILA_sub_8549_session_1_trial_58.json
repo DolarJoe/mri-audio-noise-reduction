@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_58.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a žena kleté sklubička.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5146812362441172,
+   "compression_ratio": 0.7714285714285715,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a žena kleté sklubička.",
+   "tokens": [
+    257,
+    17305,
+    4118,
+    350,
+    2631,
+    526,
+    1110,
+    75,
+    836,
+    72,
+    10236,
+    2330,
+    13
+   ]
+  }
+ ]
+}

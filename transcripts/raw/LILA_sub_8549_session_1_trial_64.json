@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Proč má ten muž ven skvělé boty?",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3888612207774713,
+   "compression_ratio": 0.8260869565217391,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Proč má ten muž ven skvělé boty?",
+   "tokens": [
+    1705,
+    10236,
+    12228,
+    2064,
+    2992,
+    9159,
+    6138,
+    1110,
+    85,
+    9648,
+    29728,
+    272,
+    6737,
+    30
+   ]
+  }
+ ]
+}

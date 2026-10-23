@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_30.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná bychom kvělili s ní na zahradě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7357724029064664,
+   "compression_ratio": 0.8269230769230769,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná bychom kvělili s ní na zahradě.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    538,
+    339,
+    298,
+    350,
+    85,
+    9648,
+    75,
+    2312,
+    262,
+    297,
+    870,
+    1667,
+    710,
+    5398,
+    345,
+    9648,
+    13
+   ]
+  }
+ ]
+}

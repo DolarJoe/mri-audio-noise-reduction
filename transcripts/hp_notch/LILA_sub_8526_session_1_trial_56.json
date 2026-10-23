@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_56.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož si něco zapisuje do denníku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3092879173578694,
+   "compression_ratio": 0.8181818181818182,
+   "end": 3.86,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož si něco zapisuje do denníku.",
+   "tokens": [
+    3335,
+    9159,
+    1511,
+    46911,
+    1291,
+    14223,
+    271,
+    13008,
+    360,
+    10471,
+    870,
+    5279,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
++ .venv/bin/python denoise.py --output-dir denoised/hp_notch --num-sessions 10 --method hp,notch
+50/726
+100/726
+150/726
+200/726
+250/726
+300/726
+350/726
+400/726
+450/726
+500/726
+550/726
+600/726
+650/726
+700/726
+done: 726 files -> denoised/hp_notch
++ .venv/bin/python transcribe.py --input-dir denoised/hp_notch --output-dir transcripts/hp_notch --num-sessions 10
+726 files, 726 to transcribe (0 cached)
+50/726
+100/726
+150/726
+200/726
+250/726
+300/726
+350/726
+400/726
+450/726
+500/726
+550/726
+600/726
+650/726
+700/726
+done: 726 transcripts -> transcripts/hp_notch/all.jsonl, 0 errors
++ .venv/bin/python grade.py --transcripts transcripts/hp_notch/all.jsonl --output grades/hp_notch.jsonl
+726 transcripts, 726 to grade (0 cached)
+25/419 pi-graded
+50/419 pi-graded
+75/419 pi-graded
+100/419 pi-graded
+125/419 pi-graded
+150/419 pi-graded
+175/419 pi-graded
+200/419 pi-graded
+225/419 pi-graded
+250/419 pi-graded
+275/419 pi-graded
+300/419 pi-graded
+325/419 pi-graded
+350/419 pi-graded
+375/419 pi-graded
+400/419 pi-graded
+done: {'C': 442, 'D': 82, 'A': 70, 'B': 132} -> grades/hp_notch.jsonl
++ .venv/bin/python compare.py --baseline grades/raw.jsonl --variant grades/hp_notch.jsonl --output reports/hp_notch_vs_raw.md
+# hp_notch vs raw
+
+files compared: 726
+
+## Grade distribution (raw → variant)
+
+| grade | raw | variant |
+|---|---|---|
+| A | 90 | 70 |
+| B | 161 | 132 |
+| C | 305 | 442 |
+| D | 170 | 82 |
+
+score (A=3,B=2,D&C... see below): raw=762, variant=556  (A=3,B=2,D=1,C=1)
+
+## Transitions (non-pataka)
+
+improved (to better grade): 49
+worsened: 121
+D→not-D lost: 102
+pataka survival: 68/170
+
+-> reports/hp_notch_vs_raw.md

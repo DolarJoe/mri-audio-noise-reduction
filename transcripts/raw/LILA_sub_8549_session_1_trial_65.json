@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_65.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Patakap, patakap, patakap, patakap, patakap.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.35650772691759114,
+   "compression_ratio": 2.0454545454545454,
+   "end": 5.32,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Patakap, patakap, patakap, patakap, patakap.",
+   "tokens": [
+    4379,
+    49904,
+    11,
+    1947,
+    49904,
+    11,
+    1947,
+    49904,
+    11,
+    1947,
+    49904,
+    11,
+    1947,
+    49904,
+    13
+   ]
+  }
+ ]
+}

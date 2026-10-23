@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_53.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tedy nějaký člověk jede na lodi a pozná nějaké...",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4326536832538651,
+   "compression_ratio": 0.95,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tedy nějaký člověk jede na lodi a pozná nějaké...",
+   "tokens": [
+    314,
+    6038,
+    46911,
+    36230,
+    11822,
+    22392,
+    28257,
+    9648,
+    74,
+    34039,
+    1667,
+    287,
+    30727,
+    257,
+    21281,
+    77,
+    842,
+    46911,
+    36230,
+    526,
+    485
+   ]
+  }
+ ]
+}

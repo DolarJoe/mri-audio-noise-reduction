@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "muž sklízí a politi a pká se stromou.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6809119925019331,
+   "compression_ratio": 0.875,
+   "end": 4.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " muž sklízí a politi a pká se stromou.",
+   "tokens": [
+    2992,
+    9159,
+    1110,
+    75,
+    44551,
+    870,
+    257,
+    2453,
+    72,
+    257,
+    280,
+    74,
+    842,
+    369,
+    1056,
+    298,
+    263,
+    13
+   ]
+  }
+ ]
+}

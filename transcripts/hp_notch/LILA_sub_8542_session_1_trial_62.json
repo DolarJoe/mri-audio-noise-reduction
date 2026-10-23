@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_62.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaký člověk fotí něco z objektiva.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.28187169617049224,
+   "compression_ratio": 0.8727272727272727,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaký člověk fotí něco z objektiva.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    11822,
+    22392,
+    28257,
+    9648,
+    74,
+    15418,
+    870,
+    46911,
+    1291,
+    710,
+    1111,
+    14930,
+    5931,
+    13
+   ]
+  }
+ ]
+}

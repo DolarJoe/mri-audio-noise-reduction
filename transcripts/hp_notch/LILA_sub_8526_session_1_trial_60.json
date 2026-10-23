@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_60.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena zametá nepokánek.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.33109719859651077,
+   "compression_ratio": 0.7647058823529411,
+   "end": 4.86,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena zametá nepokánek.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    19876,
+    302,
+    842,
+    24901,
+    453,
+    842,
+    23255,
+    13
+   ]
+  }
+ ]
+}

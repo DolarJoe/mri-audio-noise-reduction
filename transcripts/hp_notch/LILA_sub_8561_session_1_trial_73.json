@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mladá knižka, pojď se zpastuj.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9385326730185434,
+   "compression_ratio": 0.8095238095238095,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mladá knižka, pojď se zpastuj.",
+   "tokens": [
+    376,
+    9290,
+    842,
+    444,
+    72,
+    9159,
+    2330,
+    11,
+    714,
+    73,
+    45907,
+    369,
+    710,
+    79,
+    525,
+    4579,
+    13
+   ]
+  }
+ ]
+}

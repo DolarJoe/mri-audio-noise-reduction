@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_13.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena veší prádo.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5742117150686681,
+   "compression_ratio": 0.7,
+   "end": 3.2600000000000002,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena veší prádo.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    1241,
+    48651,
+    27300,
+    2595,
+    13
+   ]
+  }
+ ]
+}

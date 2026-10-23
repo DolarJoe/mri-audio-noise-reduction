@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_59.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan se káčká volnozen.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9747101847942059,
+   "compression_ratio": 0.7878787878787878,
+   "end": 3.34,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan se káčká volnozen.",
+   "tokens": [
+    7557,
+    369,
+    350,
+    842,
+    10236,
+    74,
+    842,
+    1996,
+    1771,
+    2904,
+    13
+   ]
+  }
+ ]
+}

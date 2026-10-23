@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_21.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán Spany, dančí tango.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5640929507879684,
+   "compression_ratio": 0.7714285714285715,
+   "end": 3.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán Spany, dančí tango.",
+   "tokens": [
+    430,
+    7200,
+    1738,
+    1325,
+    11,
+    3277,
+    10236,
+    870,
+    10266,
+    78,
+    13
+   ]
+  }
+ ]
+}

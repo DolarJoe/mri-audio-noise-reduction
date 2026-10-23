@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_2.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž a žena se ovímají.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2886549860527988,
+   "compression_ratio": 0.75,
+   "end": 4.44,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž a žena se ovímají.",
+   "tokens": [
+    15601,
+    9159,
+    257,
+    17305,
+    4118,
+    369,
+    14187,
+    870,
+    1696,
+    73,
+    870,
+    13
+   ]
+  }
+ ]
+}

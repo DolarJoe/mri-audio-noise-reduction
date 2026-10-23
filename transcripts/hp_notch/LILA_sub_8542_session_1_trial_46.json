@@ -1,0 +1,51 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_46.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A tady nějaký muž si pro něco poznačuje, něco píše a papír do napísku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.23803414688518387,
+   "compression_ratio": 1.051948051948052,
+   "end": 5.32,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A tady nějaký muž si pro něco poznačuje, něco píše a papír do napísku.",
+   "tokens": [
+    316,
+    256,
+    880,
+    46911,
+    36230,
+    11822,
+    2992,
+    9159,
+    1511,
+    447,
+    46911,
+    1291,
+    21281,
+    629,
+    10236,
+    13008,
+    11,
+    46911,
+    1291,
+    280,
+    870,
+    42717,
+    257,
+    5806,
+    31338,
+    360,
+    9296,
+    5113,
+    5279,
+    13
+   ]
+  }
+ ]
+}

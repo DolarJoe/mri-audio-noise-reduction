@@ -1,0 +1,28 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_66.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Kastrohasír.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0882295469443004,
+   "compression_ratio": 0.6363636363636364,
+   "end": 3.3200000000000003,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Kastrohasír.",
+   "tokens": [
+    591,
+    525,
+    340,
+    12438,
+    870,
+    81,
+    13
+   ]
+  }
+ ]
+}

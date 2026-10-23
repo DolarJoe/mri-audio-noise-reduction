@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_70.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Lípka z neděně poslouchá na velkých sluchátkách hry.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.48910347413038835,
+   "compression_ratio": 0.9230769230769231,
+   "end": 5.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Lípka z neděně poslouchá na velkých sluchátkách hry.",
+   "tokens": [
+    441,
+    28236,
+    2330,
+    710,
+    25614,
+    9648,
+    31617,
+    1366,
+    75,
+    2220,
+    842,
+    1667,
+    14610,
+    74,
+    41845,
+    1061,
+    625,
+    7656,
+    74,
+    39569,
+    276,
+    627,
+    13
+   ]
+  }
+ ]
+}

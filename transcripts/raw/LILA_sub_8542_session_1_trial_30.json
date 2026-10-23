@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_30.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady paní věší něco na šňůru, nějaké prádlo.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2923527362663299,
+   "compression_ratio": 0.9032258064516129,
+   "end": 4.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady paní věší něco na šňůru, nějaké prádlo.",
+   "tokens": [
+    314,
+    880,
+    2462,
+    870,
+    371,
+    9648,
+    48651,
+    46911,
+    1291,
+    1667,
+    22552,
+    129,
+    230,
+    23241,
+    894,
+    11,
+    46911,
+    36230,
+    526,
+    27300,
+    67,
+    752,
+    13
+   ]
+  }
+ ]
+}

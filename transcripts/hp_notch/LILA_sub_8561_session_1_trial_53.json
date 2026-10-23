@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_53.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mlavý krok setí nás tohle čas.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9899999141279194,
+   "compression_ratio": 0.7954545454545454,
+   "end": 5.4,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mlavý krok setí nás tohle čas.",
+   "tokens": [
+    376,
+    75,
+    706,
+    11822,
+    350,
+    31621,
+    992,
+    870,
+    297,
+    2490,
+    281,
+    71,
+    306,
+    22392,
+    296,
+    13
+   ]
+  }
+ ]
+}

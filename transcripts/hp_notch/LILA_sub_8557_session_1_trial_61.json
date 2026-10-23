@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_61.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "*máška zvoní*",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.684302568435669,
+   "compression_ratio": 0.68,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " *máška zvoní*",
+   "tokens": [
+    1853,
+    76,
+    842,
+    7891,
+    2330,
+    710,
+    85,
+    266,
+    870,
+    9
+   ]
+  }
+ ]
+}

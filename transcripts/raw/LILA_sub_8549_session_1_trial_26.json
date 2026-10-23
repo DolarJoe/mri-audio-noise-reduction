@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ježiš, já mám dáva hrolo se z kesty, měl.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8890342855011113,
+   "compression_ratio": 0.8421052631578947,
+   "end": 9.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ježiš, já mám dáva hrolo se z kesty, měl.",
+   "tokens": [
+    2588,
+    9159,
+    72,
+    7891,
+    11,
+    6242,
+    12228,
+    76,
+    14401,
+    2757,
+    276,
+    340,
+    752,
+    369,
+    710,
+    350,
+    7819,
+    11,
+    275,
+    9648,
+    75,
+    13
+   ]
+  }
+ ]
+}

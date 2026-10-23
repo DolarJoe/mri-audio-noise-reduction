@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_18.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena Vesava, Vesava či zapojím vzal se v tě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5783744999696501,
+   "compression_ratio": 0.9423076923076923,
+   "end": 4.88,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena Vesava, Vesava či zapojím vzal se v tě.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    691,
+    279,
+    4061,
+    11,
+    691,
+    279,
+    4061,
+    22392,
+    72,
+    14223,
+    37224,
+    14569,
+    371,
+    89,
+    304,
+    369,
+    371,
+    256,
+    9648,
+    13
+   ]
+  }
+ ]
+}

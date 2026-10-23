@@ -1,0 +1,47 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Je podzim a smrkající žena dává kaposlíku coproto.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3271073381100515,
+   "compression_ratio": 0.8636363636363636,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Je podzim a smrkající žena dává kaposlíku coproto.",
+   "tokens": [
+    2588,
+    2497,
+    89,
+    332,
+    257,
+    899,
+    81,
+    74,
+    1805,
+    870,
+    66,
+    870,
+    17305,
+    4118,
+    14401,
+    85,
+    842,
+    13816,
+    329,
+    75,
+    870,
+    5279,
+    2971,
+    81,
+    6738,
+    13
+   ]
+  }
+ ]
+}
