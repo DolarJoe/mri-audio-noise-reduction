@@ -1,0 +1,33 @@
+{
+ "file": "original.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a můžu jít ahoře.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1514257772692613,
+   "compression_ratio": 0.7096774193548387,
+   "end": 2.4,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a můžu jít ahoře.",
+   "tokens": [
+    257,
+    275,
+    23241,
+    9159,
+    84,
+    361,
+    6712,
+    257,
+    1289,
+    15781,
+    68,
+    13
+   ]
+  }
+ ]
+}

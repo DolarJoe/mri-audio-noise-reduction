@@ -1,0 +1,32 @@
+{
+ "file": "CS.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a ještě děkujeme.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.106083066350458,
+   "compression_ratio": 0.7241379310344828,
+   "end": 2.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a ještě děkujeme.",
+   "tokens": [
+    257,
+    1506,
+    7891,
+    83,
+    9648,
+    274,
+    9648,
+    74,
+    4579,
+    5729,
+    13
+   ]
+  }
+ ]
+}

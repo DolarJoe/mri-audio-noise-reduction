@@ -1,8 +1,8 @@
 # large data (keep out of git)
-transfer_340619_files_84dc77d0/
-denoised/
-runs/
-runs.zip
+/transfer_340619_files_84dc77d0/
+/denoised/
+/runs/
+/runs.zip
 
 # env / cache
 .venv/

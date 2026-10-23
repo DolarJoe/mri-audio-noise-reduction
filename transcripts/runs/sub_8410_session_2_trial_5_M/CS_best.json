@@ -1,0 +1,33 @@
+{
+ "file": "CS_best.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a měl jsem všechny auta.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.920476322727544,
+   "compression_ratio": 0.7714285714285715,
+   "end": 4.96,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a měl jsem všechny auta.",
+   "tokens": [
+    257,
+    275,
+    9648,
+    75,
+    47784,
+    371,
+    42717,
+    1377,
+    88,
+    1476,
+    64,
+    13
+   ]
+  }
+ ]
+}

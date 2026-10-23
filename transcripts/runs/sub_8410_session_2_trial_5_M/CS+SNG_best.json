@@ -1,0 +1,24 @@
+{
+ "file": "CS+SNG_best.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "🎵🎵🎵",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5088041633367538,
+   "compression_ratio": 0.8666666666666667,
+   "end": 4.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " 🎵🎵🎵",
+   "tokens": [
+    25674,
+    38830,
+    38830
+   ]
+  }
+ ]
+}
