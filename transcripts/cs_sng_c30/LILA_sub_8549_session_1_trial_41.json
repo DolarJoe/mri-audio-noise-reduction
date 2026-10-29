@@ -1,0 +1,121 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_41.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a na testovskou hudbu.  A rozvodový práv  na testovskou hudbu.  Praha na testovskou hudbu.  A na testovskou hudbu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9606406659974406,
+   "compression_ratio": 0.7419354838709677,
+   "end": 1.4000000000000001,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a na testovskou hudbu.",
+   "tokens": [
+    257,
+    1667,
+    1500,
+    5179,
+    5161,
+    263,
+    276,
+    532,
+    6021,
+    13
+   ]
+  },
+  {
+   "id": 1,
+   "avg_logprob": -0.20870726564899086,
+   "compression_ratio": 0.7037037037037037,
+   "end": 4.32,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 2.66,
+   "temperature": 0.0,
+   "text": " A rozvodový práv",
+   "tokens": [
+    316,
+    9544,
+    85,
+    378,
+    5179,
+    11822,
+    27300,
+    85
+   ]
+  },
+  {
+   "id": 2,
+   "avg_logprob": -0.22025524040989033,
+   "compression_ratio": 0.7241379310344828,
+   "end": 5.28,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 4.32,
+   "temperature": 0.0,
+   "text": " na testovskou hudbu.",
+   "tokens": [
+    1667,
+    1500,
+    5179,
+    5161,
+    263,
+    276,
+    532,
+    6021,
+    13
+   ]
+  },
+  {
+   "id": 3,
+   "avg_logprob": -0.23418019162475573,
+   "compression_ratio": 0.7714285714285715,
+   "end": 7.28,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 5.46,
+   "temperature": 0.0,
+   "text": " Praha na testovskou hudbu.",
+   "tokens": [
+    12133,
+    1641,
+    1667,
+    1500,
+    5179,
+    5161,
+    263,
+    276,
+    532,
+    6021,
+    13
+   ]
+  },
+  {
+   "id": 4,
+   "avg_logprob": -0.13221776493833204,
+   "compression_ratio": 0.7419354838709677,
+   "end": 9.200000000000001,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 7.9,
+   "temperature": 0.0,
+   "text": " A na testovskou hudbu.",
+   "tokens": [
+    316,
+    1667,
+    1500,
+    5179,
+    5161,
+    263,
+    276,
+    532,
+    6021,
+    13
+   ]
+  }
+ ]
+}

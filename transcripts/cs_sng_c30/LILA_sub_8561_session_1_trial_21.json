@@ -1,0 +1,48 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_21.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "mužkáno i res.  Pár hodin.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0495475612580776,
+   "compression_ratio": 0.68,
+   "end": 3.84,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " mužkáno i res.",
+   "tokens": [
+    2992,
+    9159,
+    74,
+    842,
+    1771,
+    741,
+    725,
+    13
+   ]
+  },
+  {
+   "id": 1,
+   "avg_logprob": -0.5958603067847434,
+   "compression_ratio": 0.6,
+   "end": 5.72,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 5.16,
+   "temperature": 0.0,
+   "text": " Pár hodin.",
+   "tokens": [
+    430,
+    20335,
+    276,
+    378,
+    259,
+    13
+   ]
+  }
+ ]
+}

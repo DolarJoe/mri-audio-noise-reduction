@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_49.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž pracuje zvíčem.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5593729513542106,
+   "compression_ratio": 0.7419354838709677,
+   "end": 4.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž pracuje zvíčem.",
+   "tokens": [
+    15601,
+    9159,
+    22404,
+    13008,
+    710,
+    85,
+    870,
+    10236,
+    443,
+    13
+   ]
+  }
+ ]
+}

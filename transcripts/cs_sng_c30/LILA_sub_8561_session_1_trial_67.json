@@ -1,0 +1,28 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_67.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Starší žena plete.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.32598372178876567,
+   "compression_ratio": 0.7333333333333333,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Starší žena plete.",
+   "tokens": [
+    5705,
+    48651,
+    17305,
+    4118,
+    499,
+    3498,
+    13
+   ]
+  }
+ ]
+}

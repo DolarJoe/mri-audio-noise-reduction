@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_54.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Momenka, jak to víc védětě?",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8039264185354114,
+   "compression_ratio": 0.8205128205128205,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Momenka, jak to víc védětě?",
+   "tokens": [
+    376,
+    4726,
+    2330,
+    11,
+    4207,
+    281,
+    6153,
+    66,
+    371,
+    7811,
+    9648,
+    83,
+    9648,
+    30
+   ]
+  }
+ ]
+}

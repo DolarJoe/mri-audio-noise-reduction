@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_37.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Místo se pláhvě líže trojku počkává zmarzeně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9748221206720229,
+   "compression_ratio": 0.8333333333333334,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Místo se pláhvě líže trojku počkává zmarzeně.",
+   "tokens": [
+    376,
+    870,
+    20875,
+    369,
+    499,
+    842,
+    71,
+    85,
+    9648,
+    16118,
+    29913,
+    4495,
+    73,
+    5279,
+    714,
+    10236,
+    74,
+    842,
+    85,
+    842,
+    710,
+    6209,
+    2904,
+    9648,
+    13
+   ]
+  }
+ ]
+}

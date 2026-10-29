@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_59.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaká paní leze, poslíží na nějaké stěně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5009692620765418,
+   "compression_ratio": 0.9830508474576272,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaká paní leze, poslíží na nějaké stěně.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    842,
+    2462,
+    870,
+    476,
+    1381,
+    11,
+    1366,
+    75,
+    870,
+    9159,
+    870,
+    1667,
+    46911,
+    36230,
+    526,
+    342,
+    9648,
+    31617,
+    13
+   ]
+  }
+ ]
+}

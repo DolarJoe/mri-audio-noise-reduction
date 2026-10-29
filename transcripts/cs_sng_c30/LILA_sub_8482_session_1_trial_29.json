@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_29.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Těch třeba líže smrsly mu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5049837870465126,
+   "compression_ratio": 0.775,
+   "end": 3.34,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Těch třeba líže smrsly mu.",
+   "tokens": [
+    314,
+    9648,
+    339,
+    256,
+    15781,
+    68,
+    4231,
+    16118,
+    29913,
+    899,
+    22943,
+    356,
+    2992,
+    13
+   ]
+  }
+ ]
+}

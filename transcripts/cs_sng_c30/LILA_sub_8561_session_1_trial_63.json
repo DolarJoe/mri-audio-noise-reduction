@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena leze po trénovací středě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3239120519720018,
+   "compression_ratio": 0.8,
+   "end": 7.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena leze po trénovací středě.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    476,
+    1381,
+    714,
+    504,
+    526,
+    4185,
+    326,
+    870,
+    342,
+    15781,
+    292,
+    9648,
+    13
+   ]
+  }
+ ]
+}

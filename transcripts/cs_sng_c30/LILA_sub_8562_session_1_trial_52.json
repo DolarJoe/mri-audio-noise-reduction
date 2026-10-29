@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_52.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ukaž si stromil si na stromilku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1903095183661208,
+   "compression_ratio": 1.0303030303030303,
+   "end": 4.1,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ukaž si stromil si na stromilku.",
+   "tokens": [
+    624,
+    2330,
+    9159,
+    1511,
+    1056,
+    298,
+    388,
+    1511,
+    1667,
+    1056,
+    298,
+    388,
+    5279,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mladá týždňka olyzuje z marzeného.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6744438237616454,
+   "compression_ratio": 0.8163265306122449,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mladá týždňka olyzuje z marzeného.",
+   "tokens": [
+    376,
+    9290,
+    842,
+    256,
+    11822,
+    9159,
+    67,
+    129,
+    230,
+    2330,
+    277,
+    356,
+    11728,
+    2884,
+    710,
+    1849,
+    2904,
+    526,
+    1289,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_53.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a měli jsme člověk, který měl analogiku, jako znamenka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8539887769147754,
+   "compression_ratio": 0.9242424242424242,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a měli jsme člověk, který měl analogiku, jako znamenka.",
+   "tokens": [
+    257,
+    275,
+    9648,
+    2081,
+    42713,
+    1398,
+    22392,
+    28257,
+    9648,
+    74,
+    11,
+    350,
+    391,
+    11822,
+    275,
+    9648,
+    75,
+    16660,
+    24320,
+    11,
+    17123,
+    710,
+    5378,
+    268,
+    2330,
+    13
+   ]
+  }
+ ]
+}

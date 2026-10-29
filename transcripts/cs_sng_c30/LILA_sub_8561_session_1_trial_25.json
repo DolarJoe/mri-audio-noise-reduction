@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_25.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena vysává podlahu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.36304358410000404,
+   "compression_ratio": 0.75,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena vysává podlahu.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    371,
+    749,
+    842,
+    85,
+    842,
+    2497,
+    75,
+    12156,
+    13
+   ]
+  }
+ ]
+}

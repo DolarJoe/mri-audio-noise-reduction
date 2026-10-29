@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A nevzátek, jak do dní hlavit sílu. Jak to dělat?",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.159435292482376,
+   "compression_ratio": 0.9,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A nevzátek, jak do dní hlavit sílu. Jak to dělat?",
+   "tokens": [
+    316,
+    408,
+    85,
+    89,
+    7656,
+    916,
+    11,
+    4207,
+    360,
+    274,
+    28988,
+    276,
+    36243,
+    270,
+    8600,
+    2781,
+    13,
+    15029,
+    281,
+    274,
+    9648,
+    14087,
+    30
+   ]
+  }
+ ]
+}

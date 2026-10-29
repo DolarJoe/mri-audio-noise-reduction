@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_28.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž a žena tančí na vale.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.23929571296768978,
+   "compression_ratio": 0.8108108108108109,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž a žena tančí na vale.",
+   "tokens": [
+    15601,
+    9159,
+    257,
+    17305,
+    4118,
+    7603,
+    10236,
+    870,
+    1667,
+    15474,
+    13
+   ]
+  }
+ ]
+}

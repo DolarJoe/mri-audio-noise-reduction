@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_50.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž popsuje oskér, pocestí mi rukavy, co mi?",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7686589799228717,
+   "compression_ratio": 0.8888888888888888,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž popsuje oskér, pocestí mi rukavy, co mi?",
+   "tokens": [
+    15601,
+    9159,
+    16795,
+    13008,
+    3003,
+    74,
+    4198,
+    11,
+    714,
+    66,
+    377,
+    870,
+    2752,
+    367,
+    2034,
+    15498,
+    11,
+    598,
+    2752,
+    30
+   ]
+  }
+ ]
+}

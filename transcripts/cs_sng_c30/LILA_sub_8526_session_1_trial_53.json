@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_53.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu až na pančí pěm dvě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7848077432105416,
+   "compression_ratio": 0.7857142857142857,
+   "end": 3.5,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu až na pančí pěm dvě.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    257,
+    9159,
+    1667,
+    2462,
+    10236,
+    870,
+    280,
+    9648,
+    76,
+    274,
+    85,
+    9648,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Takhle, takhle, takhle, takhle, takhle, takhle, takhle.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3188751225003216,
+   "compression_ratio": 2.6666666666666665,
+   "end": 4.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Takhle, takhle, takhle, takhle, takhle, takhle, takhle.",
+   "tokens": [
+    9118,
+    71,
+    306,
+    11,
+    991,
+    71,
+    306,
+    11,
+    991,
+    71,
+    306,
+    11,
+    991,
+    71,
+    306,
+    11,
+    991,
+    71,
+    306,
+    11,
+    991,
+    71,
+    306,
+    11,
+    991,
+    71,
+    306,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ježíš a Ježíši.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.070334789271538,
+   "compression_ratio": 0.9166666666666666,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ježíš a Ježíši.",
+   "tokens": [
+    2588,
+    9159,
+    870,
+    7891,
+    257,
+    2588,
+    9159,
+    870,
+    7891,
+    72,
+    13
+   ]
+  }
+ ]
+}

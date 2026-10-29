@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_13.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu změnit auto počtí volanta?",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6010652196839348,
+   "compression_ratio": 0.8043478260869565,
+   "end": 4.62,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu změnit auto počtí volanta?",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    17020,
+    9648,
+    77,
+    270,
+    8399,
+    714,
+    10236,
+    83,
+    870,
+    1996,
+    5983,
+    30
+   ]
+  }
+ ]
+}

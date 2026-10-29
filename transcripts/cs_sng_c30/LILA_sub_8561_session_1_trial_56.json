@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_56.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná ukazuje na něco.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.44717765114425373,
+   "compression_ratio": 0.7647058823529411,
+   "end": 4.62,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná ukazuje na něco.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    26769,
+    43317,
+    1667,
+    46911,
+    1291,
+    13
+   ]
+  }
+ ]
+}

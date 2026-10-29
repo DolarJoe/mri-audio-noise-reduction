@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_45.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná jí chrapecé.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8768330410655055,
+   "compression_ratio": 0.71875,
+   "end": 3.5,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná jí chrapecé.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    361,
+    870,
+    417,
+    424,
+    494,
+    66,
+    526,
+    13
+   ]
+  }
+ ]
+}

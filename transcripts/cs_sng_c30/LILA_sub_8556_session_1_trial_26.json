@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Slyšná, ono, z... z Sivé.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1330565816929772,
+   "compression_ratio": 0.7837837837837838,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Slyšná, ono, z... z Sivé.",
+   "tokens": [
+    318,
+    356,
+    7891,
+    77,
+    842,
+    11,
+    322,
+    78,
+    11,
+    710,
+    485,
+    710,
+    318,
+    592,
+    526,
+    13
+   ]
+  }
+ ]
+}

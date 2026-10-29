@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_24.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu říct zahrávám všechno.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.687860676465425,
+   "compression_ratio": 0.7954545454545454,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu říct zahrávám všechno.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    4423,
+    247,
+    870,
+    349,
+    710,
+    5398,
+    842,
+    85,
+    19524,
+    371,
+    42717,
+    1377,
+    78,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaká paní se pojede volat na mořího.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7158387301301229,
+   "compression_ratio": 0.8448275862068966,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaká paní se pojede volat na mořího.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    842,
+    2462,
+    870,
+    369,
+    714,
+    73,
+    4858,
+    1996,
+    267,
+    1667,
+    705,
+    15781,
+    870,
+    1289,
+    13
+   ]
+  }
+ ]
+}

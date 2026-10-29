@@ -1,0 +1,51 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Nebo dřeva smokající žena dává to poslouchejícího proti.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7624824510457984,
+   "compression_ratio": 0.9420289855072463,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Nebo dřeva smokající žena dává to poslouchejícího proti.",
+   "tokens": [
+    1734,
+    1763,
+    274,
+    15781,
+    68,
+    2757,
+    899,
+    453,
+    1805,
+    870,
+    66,
+    870,
+    17305,
+    4118,
+    14401,
+    85,
+    842,
+    281,
+    1366,
+    75,
+    263,
+    1876,
+    73,
+    870,
+    66,
+    870,
+    1289,
+    1742,
+    72,
+    13
+   ]
+  }
+ ]
+}

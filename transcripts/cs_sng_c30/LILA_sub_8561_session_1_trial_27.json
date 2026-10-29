@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_27.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu jít na 100.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.2655343447219243,
+   "compression_ratio": 0.7142857142857143,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu jít na 100.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    361,
+    6712,
+    1667,
+    2319,
+    13
+   ]
+  }
+ ]
+}

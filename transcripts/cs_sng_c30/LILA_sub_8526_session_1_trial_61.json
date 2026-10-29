@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_61.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Papaka, papaka, papaka, papaka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.29607393681154853,
+   "compression_ratio": 1.5238095238095237,
+   "end": 3.4,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Papaka, papaka, papaka, papaka.",
+   "tokens": [
+    15919,
+    7849,
+    11,
+    5806,
+    7849,
+    11,
+    5806,
+    7849,
+    11,
+    5806,
+    7849,
+    13
+   ]
+  }
+ ]
+}

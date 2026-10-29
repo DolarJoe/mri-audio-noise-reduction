@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_45.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Moj šer je na zahradě v holitichách.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5151133168166981,
+   "compression_ratio": 0.8333333333333334,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Moj šer je na zahradě v holitichách.",
+   "tokens": [
+    3335,
+    73,
+    22552,
+    260,
+    1506,
+    1667,
+    710,
+    5398,
+    345,
+    9648,
+    371,
+    4091,
+    270,
+    480,
+    39569,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_13.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "že naběší prádo.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6965037092566491,
+   "compression_ratio": 0.7096774193548387,
+   "end": 3.2600000000000002,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " že naběší prádo.",
+   "tokens": [
+    25178,
+    297,
+    455,
+    9648,
+    48651,
+    27300,
+    2595,
+    13
+   ]
+  }
+ ]
+}

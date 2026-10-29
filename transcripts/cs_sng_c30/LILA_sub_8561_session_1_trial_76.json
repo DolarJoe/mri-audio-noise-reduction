@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_76.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena on je černý přeliš.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6687847304024866,
+   "compression_ratio": 0.7692307692307693,
+   "end": 4.54,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena on je černý přeliš.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    322,
+    1506,
+    22392,
+    1248,
+    11822,
+    31631,
+    10148,
+    7891,
+    13
+   ]
+  }
+ ]
+}

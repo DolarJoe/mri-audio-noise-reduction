@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_65.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "že nás se pojela volat.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9770549327755967,
+   "compression_ratio": 0.7647058823529411,
+   "end": 3.86,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " že nás se pojela volat.",
+   "tokens": [
+    25178,
+    297,
+    2490,
+    369,
+    714,
+    73,
+    4053,
+    1996,
+    267,
+    13
+   ]
+  }
+ ]
+}

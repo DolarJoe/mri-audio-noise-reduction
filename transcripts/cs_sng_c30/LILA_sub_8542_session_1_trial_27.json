@@ -1,0 +1,25 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_27.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Konec.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6828694984627267,
+   "compression_ratio": 0.4666666666666667,
+   "end": 2.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Konec.",
+   "tokens": [
+    591,
+    546,
+    66,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_47.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pani poslouchá něco v sluchátkách.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2963381687124424,
+   "compression_ratio": 0.8863636363636364,
+   "end": 4.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pani poslouchá něco v sluchátkách.",
+   "tokens": [
+    430,
+    3782,
+    1366,
+    75,
+    2220,
+    842,
+    46911,
+    1291,
+    371,
+    1061,
+    625,
+    7656,
+    74,
+    39569,
+    13
+   ]
+  }
+ ]
+}

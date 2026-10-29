@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_57.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zahradící rája, pechat si nebleně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7342509795445948,
+   "compression_ratio": 0.8125,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zahradící rája, pechat si nebleně.",
+   "tokens": [
+    1176,
+    5398,
+    345,
+    870,
+    66,
+    870,
+    367,
+    842,
+    2938,
+    11,
+    520,
+    20057,
+    1511,
+    408,
+    5199,
+    268,
+    9648,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_76.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Já námálej, skuš a verj historii, mou.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0243270883247966,
+   "compression_ratio": 0.8269230769230769,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Já námálej, skuš a verj historii, mou.",
+   "tokens": [
+    21237,
+    297,
+    19524,
+    842,
+    306,
+    73,
+    11,
+    1110,
+    84,
+    7891,
+    257,
+    1306,
+    73,
+    4058,
+    5597,
+    11,
+    275,
+    263,
+    13
+   ]
+  }
+ ]
+}

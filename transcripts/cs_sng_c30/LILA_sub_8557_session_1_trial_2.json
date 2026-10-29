@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_2.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní, nemocná marino.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6387924382773539,
+   "compression_ratio": 0.75,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní, nemocná marino.",
+   "tokens": [
+    7557,
+    870,
+    11,
+    9939,
+    905,
+    77,
+    842,
+    1849,
+    2982,
+    13
+   ]
+  }
+ ]
+}

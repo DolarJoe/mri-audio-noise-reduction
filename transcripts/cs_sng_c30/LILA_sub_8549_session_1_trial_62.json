@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_62.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Že na faktě na prý potom.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9894091465643474,
+   "compression_ratio": 0.8285714285714286,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Že na faktě na prý potom.",
+   "tokens": [
+    4423,
+    121,
+    68,
+    1667,
+    21310,
+    9648,
+    1667,
+    582,
+    11822,
+    1847,
+    298,
+    13
+   ]
+  }
+ ]
+}

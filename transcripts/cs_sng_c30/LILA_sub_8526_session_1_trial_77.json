@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Dělá kremý meninko.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9144022862355297,
+   "compression_ratio": 0.7419354838709677,
+   "end": 3.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Dělá kremý meninko.",
+   "tokens": [
+    413,
+    9648,
+    75,
+    842,
+    350,
+    2579,
+    11822,
+    1706,
+    475,
+    78,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_41.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pani Zemeta.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1177303194999695,
+   "compression_ratio": 0.6190476190476191,
+   "end": 3.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pani Zemeta.",
+   "tokens": [
+    430,
+    3782,
+    1176,
+    443,
+    7664,
+    13
+   ]
+  }
+ ]
+}

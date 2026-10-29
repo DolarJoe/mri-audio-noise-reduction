@@ -1,0 +1,53 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_49.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pataká, pataká, pataká, pataká, pataká, pataká, pataká, pataká...",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.14929998020927407,
+   "compression_ratio": 3.0833333333333335,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pataká, pataká, pataká, pataká, pataká, pataká, pataká, pataká...",
+   "tokens": [
+    4379,
+    514,
+    842,
+    11,
+    1947,
+    514,
+    842,
+    11,
+    1947,
+    514,
+    842,
+    11,
+    1947,
+    514,
+    842,
+    11,
+    1947,
+    514,
+    842,
+    11,
+    1947,
+    514,
+    842,
+    11,
+    1947,
+    514,
+    842,
+    11,
+    1947,
+    514,
+    842,
+    485
+   ]
+  }
+ ]
+}

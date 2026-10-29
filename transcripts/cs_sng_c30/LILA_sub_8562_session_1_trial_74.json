@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_74.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Máme něco žehlýho právě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6606572644086555,
+   "compression_ratio": 0.775,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Máme něco žehlýho právě.",
+   "tokens": [
+    376,
+    842,
+    1398,
+    46911,
+    1291,
+    17305,
+    13301,
+    75,
+    11822,
+    1289,
+    27300,
+    85,
+    9648,
+    13
+   ]
+  }
+ ]
+}

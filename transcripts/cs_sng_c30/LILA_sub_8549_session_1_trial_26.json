@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ježelá má horolozeská spěňa.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7404979461181761,
+   "compression_ratio": 0.8536585365853658,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ježelá má horolozeská spěňa.",
+   "tokens": [
+    2588,
+    9159,
+    338,
+    842,
+    12228,
+    2569,
+    7902,
+    12214,
+    74,
+    842,
+    637,
+    9648,
+    129,
+    230,
+    64,
+    13
+   ]
+  }
+ ]
+}

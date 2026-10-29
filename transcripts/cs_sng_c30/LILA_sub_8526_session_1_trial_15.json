@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_15.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Papička plete zvony.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6216698804297872,
+   "compression_ratio": 0.7333333333333333,
+   "end": 4.28,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Papička plete zvony.",
+   "tokens": [
+    15919,
+    72,
+    10236,
+    2330,
+    499,
+    3498,
+    710,
+    85,
+    2526,
+    13
+   ]
+  }
+ ]
+}

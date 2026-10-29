@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_70.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná to je prostě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6810135739770803,
+   "compression_ratio": 0.7419354838709677,
+   "end": 3.4,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná to je prostě.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    281,
+    1506,
+    10293,
+    9648,
+    13
+   ]
+  }
+ ]
+}

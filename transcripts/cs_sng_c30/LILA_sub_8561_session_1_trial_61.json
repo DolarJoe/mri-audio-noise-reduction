@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_61.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A tak a tak a tak a tak a tak a tak a tak a tak.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5201480186446324,
+   "compression_ratio": 2.5789473684210527,
+   "end": 4.38,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A tak a tak a tak a tak a tak a tak a tak a tak.",
+   "tokens": [
+    316,
+    991,
+    257,
+    991,
+    257,
+    991,
+    257,
+    991,
+    257,
+    991,
+    257,
+    991,
+    257,
+    991,
+    257,
+    991,
+    13
+   ]
+  }
+ ]
+}

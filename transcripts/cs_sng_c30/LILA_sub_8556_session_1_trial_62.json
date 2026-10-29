@@ -1,0 +1,28 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_62.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a pančí tango.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5672054030001163,
+   "compression_ratio": 0.68,
+   "end": 3.12,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a pančí tango.",
+   "tokens": [
+    257,
+    2462,
+    10236,
+    870,
+    10266,
+    78,
+    13
+   ]
+  }
+ ]
+}

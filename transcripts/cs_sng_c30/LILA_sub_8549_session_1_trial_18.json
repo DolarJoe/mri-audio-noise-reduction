@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_18.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A nezátopek na olympiádiu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9150832573068328,
+   "compression_ratio": 0.7837837837837838,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A nezátopek na olympiádiu.",
+   "tokens": [
+    316,
+    408,
+    89,
+    842,
+    1353,
+    32659,
+    1667,
+    277,
+    9793,
+    72,
+    842,
+    4504,
+    84,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Černý stov, prénuje černý stov.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9485990381282237,
+   "compression_ratio": 1.0,
+   "end": 4.86,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Černý stov, prénuje černý stov.",
+   "tokens": [
+    2127,
+    234,
+    1248,
+    11822,
+    342,
+    5179,
+    11,
+    582,
+    3516,
+    13008,
+    22392,
+    1248,
+    11822,
+    342,
+    5179,
+    13
+   ]
+  }
+ ]
+}

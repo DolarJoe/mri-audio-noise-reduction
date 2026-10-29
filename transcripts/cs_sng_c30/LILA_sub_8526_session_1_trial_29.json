@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_29.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž seká přebo sekerou.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.44588608565167165,
+   "compression_ratio": 0.8181818181818182,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž seká přebo sekerou.",
+   "tokens": [
+    15601,
+    9159,
+    17215,
+    842,
+    31631,
+    68,
+    1763,
+    369,
+    5767,
+    263,
+    13
+   ]
+  }
+ ]
+}

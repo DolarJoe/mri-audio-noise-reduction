@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_19.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mamiňka krmí svoje dítě na hibličce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2728834956143818,
+   "compression_ratio": 0.8235294117647058,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mamiňka krmí svoje dítě na hibličce.",
+   "tokens": [
+    376,
+    4526,
+    129,
+    230,
+    2330,
+    15913,
+    76,
+    870,
+    262,
+    3080,
+    2884,
+    274,
+    6712,
+    9648,
+    1667,
+    276,
+    897,
+    2081,
+    10236,
+    384,
+    13
+   ]
+  }
+ ]
+}

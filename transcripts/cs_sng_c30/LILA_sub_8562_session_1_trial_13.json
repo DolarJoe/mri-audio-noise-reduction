@@ -1,0 +1,27 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_13.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Aplikovat.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.212009184062481,
+   "compression_ratio": 0.5789473684210527,
+   "end": 2.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Aplikovat.",
+   "tokens": [
+    316,
+    564,
+    1035,
+    5179,
+    267,
+    13
+   ]
+  }
+ ]
+}

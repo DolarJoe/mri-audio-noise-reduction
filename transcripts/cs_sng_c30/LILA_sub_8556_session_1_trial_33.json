@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_33.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zkonečně se činí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.4826286161939304,
+   "compression_ratio": 0.7333333333333333,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zkonečně se činí.",
+   "tokens": [
+    1176,
+    74,
+    546,
+    10236,
+    31617,
+    369,
+    22392,
+    259,
+    870,
+    13
+   ]
+  }
+ ]
+}

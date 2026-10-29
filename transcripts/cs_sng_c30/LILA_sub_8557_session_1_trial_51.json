@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_51.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zahradník dělá díru lopatou na zahradě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.06490209753489277,
+   "compression_ratio": 0.8823529411764706,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zahradník dělá díru lopatou na zahradě.",
+   "tokens": [
+    1176,
+    5398,
+    345,
+    28988,
+    74,
+    274,
+    9648,
+    75,
+    842,
+    274,
+    870,
+    894,
+    287,
+    404,
+    267,
+    263,
+    1667,
+    710,
+    5398,
+    345,
+    9648,
+    13
+   ]
+  }
+ ]
+}

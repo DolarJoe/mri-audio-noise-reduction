@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "můžete na to městit.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6995825548298084,
+   "compression_ratio": 0.75,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " můžete na to městit.",
+   "tokens": [
+    275,
+    23241,
+    9159,
+    3498,
+    1667,
+    281,
+    275,
+    9648,
+    372,
+    270,
+    13
+   ]
+  }
+ ]
+}

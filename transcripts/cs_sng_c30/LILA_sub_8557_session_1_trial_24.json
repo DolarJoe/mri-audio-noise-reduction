@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_24.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Vář se z lásky ovíma.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4215566071340748,
+   "compression_ratio": 0.7428571428571429,
+   "end": 3.4,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Vář se z lásky ovíma.",
+   "tokens": [
+    691,
+    842,
+    15781,
+    369,
+    710,
+    287,
+    2490,
+    4133,
+    14187,
+    870,
+    1696,
+    13
+   ]
+  }
+ ]
+}

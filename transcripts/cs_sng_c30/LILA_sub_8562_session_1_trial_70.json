@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_70.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Nikaz mi by nepošel chlán a ropí se hládka hrdi.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.130240578777515,
+   "compression_ratio": 0.8983050847457628,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Nikaz mi by nepošel chlán a ropí se hládka hrdi.",
+   "tokens": [
+    13969,
+    921,
+    2752,
+    538,
+    408,
+    2259,
+    7891,
+    338,
+    417,
+    75,
+    7200,
+    257,
+    744,
+    79,
+    870,
+    369,
+    276,
+    75,
+    32512,
+    2330,
+    276,
+    81,
+    4504,
+    13
+   ]
+  }
+ ]
+}

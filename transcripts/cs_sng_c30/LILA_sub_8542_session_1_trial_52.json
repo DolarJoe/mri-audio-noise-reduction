@@ -1,0 +1,27 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_52.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pozdravíme.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.009819883853197,
+   "compression_ratio": 0.6190476190476191,
+   "end": 2.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pozdravíme.",
+   "tokens": [
+    6165,
+    31278,
+    13404,
+    870,
+    1398,
+    13
+   ]
+  }
+ ]
+}

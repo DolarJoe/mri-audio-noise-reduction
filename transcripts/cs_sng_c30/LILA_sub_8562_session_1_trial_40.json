@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_40.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Přesně muž kaže.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4368679587813941,
+   "compression_ratio": 0.7,
+   "end": 3.9,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Přesně muž kaže.",
+   "tokens": [
+    430,
+    15781,
+    279,
+    31617,
+    2992,
+    9159,
+    6799,
+    29913,
+    13
+   ]
+  }
+ ]
+}

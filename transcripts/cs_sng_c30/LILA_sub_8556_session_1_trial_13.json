@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_13.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní se opoluje na slunce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5317666196765808,
+   "compression_ratio": 0.7777777777777778,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní se opoluje na slunce.",
+   "tokens": [
+    7557,
+    870,
+    369,
+    999,
+    401,
+    13008,
+    1667,
+    1061,
+    409,
+    384,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_16.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní Sázi na zahradě Kliachiny.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6380762665751664,
+   "compression_ratio": 0.813953488372093,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní Sázi na zahradě Kliachiny.",
+   "tokens": [
+    7557,
+    870,
+    318,
+    842,
+    3992,
+    1667,
+    710,
+    5398,
+    345,
+    9648,
+    591,
+    2081,
+    608,
+    3519,
+    13
+   ]
+  }
+ ]
+}

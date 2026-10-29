@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A tak a pak a pak a pak a pak a pak a pak.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5801433662281317,
+   "compression_ratio": 2.0476190476190474,
+   "end": 3.86,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A tak a pak a pak a pak a pak a pak a pak.",
+   "tokens": [
+    316,
+    991,
+    257,
+    20843,
+    257,
+    20843,
+    257,
+    20843,
+    257,
+    20843,
+    257,
+    20843,
+    257,
+    20843,
+    13
+   ]
+  }
+ ]
+}

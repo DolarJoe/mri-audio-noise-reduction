@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_52.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná bych se nasažil.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.659416396836085,
+   "compression_ratio": 0.7647058823529411,
+   "end": 5.0600000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná bych se nasažil.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    538,
+    339,
+    369,
+    5382,
+    64,
+    9159,
+    388,
+    13
+   ]
+  }
+ ]
+}

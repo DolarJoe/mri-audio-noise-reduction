@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_38.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán Balík krabice páskov.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7440559047141245,
+   "compression_ratio": 0.7837837837837838,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán Balík krabice páskov.",
+   "tokens": [
+    430,
+    7200,
+    13140,
+    870,
+    74,
+    350,
+    5305,
+    573,
+    280,
+    2490,
+    33516,
+    13
+   ]
+  }
+ ]
+}

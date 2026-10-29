@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_32.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a i paní zkaťává, jaká má jsi dělala.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9049831126695094,
+   "compression_ratio": 0.8490566037735849,
+   "end": 3.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a i paní zkaťává, jaká má jsi dělala.",
+   "tokens": [
+    257,
+    741,
+    2462,
+    870,
+    710,
+    2330,
+    27101,
+    842,
+    85,
+    842,
+    11,
+    4207,
+    842,
+    12228,
+    361,
+    7691,
+    274,
+    9648,
+    75,
+    5159,
+    13
+   ]
+  }
+ ]
+}

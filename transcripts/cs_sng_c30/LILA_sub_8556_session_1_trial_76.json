@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_76.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Značné posloucha hudbu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6329913310130776,
+   "compression_ratio": 0.7647058823529411,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Značné posloucha hudbu.",
+   "tokens": [
+    1176,
+    629,
+    10236,
+    15055,
+    1366,
+    75,
+    2220,
+    64,
+    276,
+    532,
+    6021,
+    13
+   ]
+  }
+ ]
+}

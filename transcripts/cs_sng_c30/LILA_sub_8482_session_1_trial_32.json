@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_32.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Potaká, potaká, potaká, potaká, potaká, potaká.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.24146974975323807,
+   "compression_ratio": 2.4545454545454546,
+   "end": 5.44,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Potaká, potaká, potaká, potaká, potaká, potaká.",
+   "tokens": [
+    9145,
+    514,
+    842,
+    11,
+    1847,
+    514,
+    842,
+    11,
+    1847,
+    514,
+    842,
+    11,
+    1847,
+    514,
+    842,
+    11,
+    1847,
+    514,
+    842,
+    11,
+    1847,
+    514,
+    842,
+    13
+   ]
+  }
+ ]
+}

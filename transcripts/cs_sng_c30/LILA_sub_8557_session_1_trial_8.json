@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "... plavec plavem bazénu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8092655298085167,
+   "compression_ratio": 0.8666666666666667,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": "... plavec plavem bazénu.",
+   "tokens": [
+    1097,
+    499,
+    946,
+    66,
+    499,
+    946,
+    76,
+    27147,
+    3516,
+    84,
+    13
+   ]
+  }
+ ]
+}

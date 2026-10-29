@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_51.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zatím způsobíte, že se vám toto video představuje.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.316117836171403,
+   "compression_ratio": 0.8636363636363636,
+   "end": 9.9,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zatím způsobíte, že se vám toto video představuje.",
+   "tokens": [
+    1176,
+    267,
+    14569,
+    710,
+    79,
+    23241,
+    539,
+    65,
+    870,
+    975,
+    11,
+    25178,
+    369,
+    371,
+    19524,
+    281,
+    1353,
+    960,
+    31631,
+    292,
+    372,
+    706,
+    13008,
+    13
+   ]
+  }
+ ]
+}

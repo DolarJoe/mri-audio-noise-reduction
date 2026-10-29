@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_3.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A můžeme odpocentovat na to, co máme.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0961702188826166,
+   "compression_ratio": 0.8367346938775511,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A můžeme odpocentovat na to, co máme.",
+   "tokens": [
+    316,
+    275,
+    23241,
+    9159,
+    5729,
+    3611,
+    79,
+    905,
+    317,
+    5179,
+    267,
+    1667,
+    281,
+    11,
+    598,
+    12228,
+    1398,
+    13
+   ]
+  }
+ ]
+}

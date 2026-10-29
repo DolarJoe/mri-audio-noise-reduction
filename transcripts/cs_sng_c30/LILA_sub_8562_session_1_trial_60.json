@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_60.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Uklížečka zamekla zem a má rukavice.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3767294403597979,
+   "compression_ratio": 0.8541666666666666,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Uklížečka zamekla zem a má rukavice.",
+   "tokens": [
+    9816,
+    75,
+    870,
+    29913,
+    10236,
+    2330,
+    710,
+    529,
+    74,
+    875,
+    710,
+    443,
+    257,
+    12228,
+    367,
+    2034,
+    706,
+    573,
+    13
+   ]
+  }
+ ]
+}

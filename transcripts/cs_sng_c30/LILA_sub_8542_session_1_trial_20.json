@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaká slečná postolka, slyšátky nějakou lidi.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5557049125110587,
+   "compression_ratio": 1.0,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaká slečná postolka, slyšátky nějakou lidi.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    842,
+    2426,
+    10236,
+    77,
+    842,
+    2183,
+    401,
+    2330,
+    11,
+    262,
+    356,
+    7891,
+    7656,
+    4133,
+    46911,
+    36230,
+    263,
+    10252,
+    72,
+    13
+   ]
+  }
+ ]
+}

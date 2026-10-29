@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_75.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní Eliza Návanyet.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6638395621751746,
+   "compression_ratio": 0.7419354838709677,
+   "end": 2.74,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní Eliza Návanyet.",
+   "tokens": [
+    7557,
+    870,
+    11991,
+    64,
+    426,
+    842,
+    85,
+    1325,
+    302,
+    13
+   ]
+  }
+ ]
+}

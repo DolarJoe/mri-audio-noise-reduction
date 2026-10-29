@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Kdyby mající se manžela si věděli jasně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5657064191916067,
+   "compression_ratio": 0.8545454545454545,
+   "end": 5.0600000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Kdyby mající se manžela si věděli jasně.",
+   "tokens": [
+    591,
+    3173,
+    2322,
+    13673,
+    870,
+    66,
+    870,
+    369,
+    587,
+    9159,
+    4053,
+    1511,
+    371,
+    9648,
+    67,
+    9648,
+    2081,
+    361,
+    296,
+    31617,
+    13
+   ]
+  }
+ ]
+}

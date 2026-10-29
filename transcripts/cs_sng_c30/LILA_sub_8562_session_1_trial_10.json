@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_10.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Díka, záleva, je.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6001746041270403,
+   "compression_ratio": 0.7407407407407407,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Díka, záleva, je.",
+   "tokens": [
+    413,
+    870,
+    2330,
+    11,
+    710,
+    842,
+    306,
+    2757,
+    11,
+    1506,
+    13
+   ]
+  }
+ ]
+}

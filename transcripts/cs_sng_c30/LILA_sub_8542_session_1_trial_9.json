@@ -1,0 +1,28 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_9.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Hraje hudba.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1379162085035608,
+   "compression_ratio": 0.6190476190476191,
+   "end": 9.88,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Hraje hudba.",
+   "tokens": [
+    389,
+    424,
+    2884,
+    276,
+    532,
+    4231,
+    13
+   ]
+  }
+ ]
+}

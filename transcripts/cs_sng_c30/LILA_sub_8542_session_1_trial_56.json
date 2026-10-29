@@ -1,0 +1,52 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_56.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "které je podle člověka poplnou šerem svojí s kripsanou hrubou.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7480382264246035,
+   "compression_ratio": 0.9315068493150684,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " které je podle člověka poplnou šerem svojí s kripsanou hrubou.",
+   "tokens": [
+    350,
+    391,
+    526,
+    1506,
+    2497,
+    306,
+    22392,
+    28257,
+    9648,
+    2330,
+    1665,
+    75,
+    77,
+    263,
+    22552,
+    7333,
+    262,
+    3080,
+    73,
+    870,
+    262,
+    350,
+    470,
+    1878,
+    282,
+    263,
+    276,
+    81,
+    836,
+    263,
+    13
+   ]
+  }
+ ]
+}

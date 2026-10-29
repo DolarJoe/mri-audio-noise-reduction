@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_55.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Aplaká, aplaká, aplaká, aplaká, aplaká, aplaká.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.36765957672873306,
+   "compression_ratio": 2.4545454545454546,
+   "end": 5.12,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Aplaká, aplaká, aplaká, aplaká, aplaká, aplaká.",
+   "tokens": [
+    316,
+    564,
+    514,
+    842,
+    11,
+    25522,
+    514,
+    842,
+    11,
+    25522,
+    514,
+    842,
+    11,
+    25522,
+    514,
+    842,
+    11,
+    25522,
+    514,
+    842,
+    11,
+    25522,
+    514,
+    842,
+    13
+   ]
+  }
+ ]
+}

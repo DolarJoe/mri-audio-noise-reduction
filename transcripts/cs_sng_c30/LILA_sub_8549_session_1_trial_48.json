@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žem na přemýšlí nad svými životami.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.43129379898309705,
+   "compression_ratio": 0.8431372549019608,
+   "end": 4.36,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žem na přemýšlí nad svými životami.",
+   "tokens": [
+    4423,
+    121,
+    443,
+    1667,
+    31631,
+    443,
+    11822,
+    7891,
+    75,
+    870,
+    12617,
+    17342,
+    11822,
+    3057,
+    17305,
+    13142,
+    4526,
+    13
+   ]
+  }
+ ]
+}

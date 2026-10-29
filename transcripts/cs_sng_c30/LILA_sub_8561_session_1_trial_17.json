@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_17.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžu vzástě, že zametá podlahu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6337239346221873,
+   "compression_ratio": 0.8085106382978723,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžu vzástě, že zametá podlahu.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    84,
+    371,
+    89,
+    25952,
+    9648,
+    11,
+    25178,
+    710,
+    49083,
+    842,
+    2497,
+    75,
+    12156,
+    13
+   ]
+  }
+ ]
+}

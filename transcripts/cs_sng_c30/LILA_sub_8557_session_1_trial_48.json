@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_48.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mladej člověk bruslí na inline bruslík.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4691248925949406,
+   "compression_ratio": 0.9565217391304348,
+   "end": 10.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mladej člověk bruslí na inline bruslík.",
+   "tokens": [
+    376,
+    75,
+    762,
+    73,
+    22392,
+    28257,
+    9648,
+    74,
+    738,
+    301,
+    75,
+    870,
+    1667,
+    294,
+    1889,
+    738,
+    301,
+    75,
+    870,
+    74,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_75.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tak jinak letím boxy, aby já mohla poslat poškod.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.504053649450229,
+   "compression_ratio": 0.8983050847457628,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tak jinak letím boxy, aby já mohla poslat poškod.",
+   "tokens": [
+    9118,
+    43528,
+    514,
+    718,
+    14569,
+    2424,
+    88,
+    11,
+    24457,
+    6242,
+    705,
+    71,
+    875,
+    1366,
+    14087,
+    714,
+    7891,
+    74,
+    378,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_5.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán Šermů je skorben.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7581218962247173,
+   "compression_ratio": 0.7575757575757576,
+   "end": 2.82,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán Šermů je skorben.",
+   "tokens": [
+    430,
+    7200,
+    49039,
+    966,
+    23241,
+    1506,
+    1110,
+    284,
+    1799,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8538_session_1_trial_4.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Titulky vytvořil JohnyX.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.06934293297159197,
+   "compression_ratio": 0.7647058823529411,
+   "end": 9.9,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Titulky vytvořil JohnyX.",
+   "tokens": [
+    14489,
+    425,
+    4133,
+    371,
+    4328,
+    3080,
+    15781,
+    388,
+    19180,
+    1634,
+    55,
+    13
+   ]
+  }
+ ]
+}

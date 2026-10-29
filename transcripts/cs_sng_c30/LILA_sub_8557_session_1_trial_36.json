@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_36.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Dřina surfuje na veně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6102805098688061,
+   "compression_ratio": 0.78125,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Dřina surfuje na veně.",
+   "tokens": [
+    413,
+    15781,
+    1426,
+    9684,
+    13008,
+    1667,
+    6138,
+    9648,
+    13
+   ]
+  }
+ ]
+}

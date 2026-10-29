@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_79.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Užiliš třeba volant a nebezpečně zatačí.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6083037488958022,
+   "compression_ratio": 0.8421052631578947,
+   "end": 5.8,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Užiliš třeba volant a nebezpečně zatačí.",
+   "tokens": [
+    624,
+    9159,
+    2312,
+    7891,
+    256,
+    15781,
+    68,
+    4231,
+    1996,
+    394,
+    257,
+    408,
+    650,
+    89,
+    494,
+    10236,
+    31617,
+    710,
+    3274,
+    10236,
+    870,
+    13
+   ]
+  }
+ ]
+}

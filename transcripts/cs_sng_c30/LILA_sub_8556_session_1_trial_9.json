@@ -1,0 +1,51 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_9.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pořádka, pořádka, pořádka, pořádka, pořádka, pořádka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.33490723332761263,
+   "compression_ratio": 2.75,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pořádka, pořádka, pořádka, pořádka, pořádka, pořádka.",
+   "tokens": [
+    6165,
+    15781,
+    32512,
+    2330,
+    11,
+    714,
+    15781,
+    32512,
+    2330,
+    11,
+    714,
+    15781,
+    32512,
+    2330,
+    11,
+    714,
+    15781,
+    32512,
+    2330,
+    11,
+    714,
+    15781,
+    32512,
+    2330,
+    11,
+    714,
+    15781,
+    32512,
+    2330,
+    13
+   ]
+  }
+ ]
+}

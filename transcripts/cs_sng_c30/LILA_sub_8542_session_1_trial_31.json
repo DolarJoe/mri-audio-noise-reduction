@@ -1,0 +1,49 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_31.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Padáka, padáka, padáka, padáka, padáka, padáka, padáka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2648558962993169,
+   "compression_ratio": 2.8636363636363638,
+   "end": 5.32,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Padáka, padáka, padáka, padáka, padáka, padáka, padáka.",
+   "tokens": [
+    18691,
+    842,
+    2330,
+    11,
+    6887,
+    842,
+    2330,
+    11,
+    6887,
+    842,
+    2330,
+    11,
+    6887,
+    842,
+    2330,
+    11,
+    6887,
+    842,
+    2330,
+    11,
+    6887,
+    842,
+    2330,
+    11,
+    6887,
+    842,
+    2330,
+    13
+   ]
+  }
+ ]
+}

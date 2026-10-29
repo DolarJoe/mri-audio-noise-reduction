@@ -1,0 +1,50 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Chlapec sedí na štokrli a sleduje, co dělají jeho rodiče.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.1318783409914167,
+   "compression_ratio": 0.8873239436619719,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Chlapec sedí na štokrli a sleduje, co dělají jeho rodiče.",
+   "tokens": [
+    761,
+    875,
+    494,
+    66,
+    9643,
+    870,
+    1667,
+    22552,
+    83,
+    453,
+    81,
+    2081,
+    257,
+    46242,
+    13008,
+    11,
+    598,
+    274,
+    9648,
+    875,
+    73,
+    870,
+    1506,
+    1289,
+    744,
+    4504,
+    10236,
+    68,
+    13
+   ]
+  }
+ ]
+}

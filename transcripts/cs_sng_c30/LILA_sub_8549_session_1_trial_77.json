@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A že nás zahradí ti asi.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7142370343208313,
+   "compression_ratio": 0.7777777777777778,
+   "end": 5.22,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A že nás zahradí ti asi.",
+   "tokens": [
+    316,
+    25178,
+    297,
+    2490,
+    710,
+    5398,
+    345,
+    870,
+    8757,
+    28644,
+    13
+   ]
+  }
+ ]
+}

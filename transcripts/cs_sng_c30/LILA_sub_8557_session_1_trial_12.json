@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_12.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pokaždého videa: Vítejte na kanálu! :D",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.487781523382696,
+   "compression_ratio": 0.8269230769230769,
+   "end": 9.88,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pokaždého videa: Vítejte na kanálu! :D",
+   "tokens": [
+    14958,
+    64,
+    9159,
+    67,
+    526,
+    1289,
+    838,
+    64,
+    25,
+    691,
+    870,
+    975,
+    73,
+    975,
+    1667,
+    4608,
+    842,
+    2781,
+    0,
+    1982,
+    35
+   ]
+  }
+ ]
+}

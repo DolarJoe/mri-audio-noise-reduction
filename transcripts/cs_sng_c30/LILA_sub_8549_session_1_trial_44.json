@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_44.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Po stachem, po stachem, po stachem, po stachem, po stachem.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.40066747796609653,
+   "compression_ratio": 2.4,
+   "end": 5.28,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Po stachem, po stachem, po stachem, po stachem, po stachem.",
+   "tokens": [
+    6165,
+    342,
+    608,
+    443,
+    11,
+    714,
+    342,
+    608,
+    443,
+    11,
+    714,
+    342,
+    608,
+    443,
+    11,
+    714,
+    342,
+    608,
+    443,
+    11,
+    714,
+    342,
+    608,
+    443,
+    13
+   ]
+  }
+ ]
+}

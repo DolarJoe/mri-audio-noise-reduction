@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_60.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pozor, pozor, pozor, pozor, pozor, pozor, pozor, pozor.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.37998705048165804,
+   "compression_ratio": 2.8,
+   "end": 4.42,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pozor, pozor, pozor, pozor, pozor, pozor, pozor, pozor.",
+   "tokens": [
+    6165,
+    89,
+    284,
+    11,
+    21281,
+    284,
+    11,
+    21281,
+    284,
+    11,
+    21281,
+    284,
+    11,
+    21281,
+    284,
+    11,
+    21281,
+    284,
+    11,
+    21281,
+    284,
+    11,
+    21281,
+    284,
+    13
+   ]
+  }
+ ]
+}

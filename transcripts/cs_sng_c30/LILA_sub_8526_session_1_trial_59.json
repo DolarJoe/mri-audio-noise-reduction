@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_59.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "-Poteka, poteka, poteka, poteka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7526232992022415,
+   "compression_ratio": 1.5,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " -Poteka, poteka, poteka, poteka.",
+   "tokens": [
+    359,
+    47,
+    310,
+    36361,
+    11,
+    1847,
+    36361,
+    11,
+    1847,
+    36361,
+    11,
+    1847,
+    36361,
+    13
+   ]
+  }
+ ]
+}

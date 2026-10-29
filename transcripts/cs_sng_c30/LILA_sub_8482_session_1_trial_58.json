@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_58.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "paní Sázy Kytky.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.572547486374705,
+   "compression_ratio": 0.7037037037037037,
+   "end": 3.2,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " paní Sázy Kytky.",
+   "tokens": [
+    2462,
+    870,
+    318,
+    842,
+    1229,
+    591,
+    4328,
+    4133,
+    13
+   ]
+  }
+ ]
+}

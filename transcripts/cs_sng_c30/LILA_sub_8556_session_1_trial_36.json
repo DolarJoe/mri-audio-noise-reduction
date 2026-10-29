@@ -1,0 +1,47 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_36.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán Stroha na Strohadla.  Sýp.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9648303663866087,
+   "compression_ratio": 0.896551724137931,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán Stroha na Strohadla.",
+   "tokens": [
+    430,
+    7200,
+    42196,
+    1641,
+    1667,
+    42196,
+    26326,
+    875,
+    13
+   ]
+  },
+  {
+   "id": 1,
+   "avg_logprob": -0.9954709112644196,
+   "compression_ratio": 0.42857142857142855,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 4.0,
+   "temperature": 0.0,
+   "text": " Sýp.",
+   "tokens": [
+    318,
+    11822,
+    79,
+    13
+   ]
+  }
+ ]
+}

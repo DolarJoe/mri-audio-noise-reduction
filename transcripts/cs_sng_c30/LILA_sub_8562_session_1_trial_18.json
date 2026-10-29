@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_18.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena, vysáva, vysáva, či zapalil jsi.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7377589262905531,
+   "compression_ratio": 1.05,
+   "end": 4.54,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena, vysáva, vysáva, či zapalil jsi.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    11,
+    371,
+    749,
+    842,
+    2757,
+    11,
+    371,
+    749,
+    842,
+    2757,
+    11,
+    22392,
+    72,
+    14223,
+    304,
+    388,
+    361,
+    7691,
+    13
+   ]
+  }
+ ]
+}

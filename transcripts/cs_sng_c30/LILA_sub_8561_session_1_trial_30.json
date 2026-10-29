@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_30.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Někdo zapalil jak netíme.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5710049873700233,
+   "compression_ratio": 0.7777777777777778,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Někdo zapalil jak netíme.",
+   "tokens": [
+    426,
+    9648,
+    74,
+    2595,
+    14223,
+    304,
+    388,
+    4207,
+    2533,
+    870,
+    1398,
+    13
+   ]
+  }
+ ]
+}

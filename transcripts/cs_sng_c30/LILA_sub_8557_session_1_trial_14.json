@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_14.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Lze to můj pustínek.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.512117156615624,
+   "compression_ratio": 0.7419354838709677,
+   "end": 4.26,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Lze to můj pustínek.",
+   "tokens": [
+    441,
+    1381,
+    281,
+    275,
+    23241,
+    73,
+    280,
+    381,
+    870,
+    23255,
+    13
+   ]
+  }
+ ]
+}

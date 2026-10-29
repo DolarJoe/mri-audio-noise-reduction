@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_77.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Dělník staví zeď z cihel.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.18073584919500932,
+   "compression_ratio": 0.7692307692307693,
+   "end": 4.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Dělník staví zeď z cihel.",
+   "tokens": [
+    413,
+    9648,
+    75,
+    28988,
+    74,
+    342,
+    706,
+    870,
+    5277,
+    45907,
+    710,
+    269,
+    4247,
+    338,
+    13
+   ]
+  }
+ ]
+}

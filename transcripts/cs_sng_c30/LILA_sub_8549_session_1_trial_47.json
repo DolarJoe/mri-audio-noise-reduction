@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_47.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Šermýs Prahlingard.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8585462326353247,
+   "compression_ratio": 0.7333333333333333,
+   "end": 5.76,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Šermýs Prahlingard.",
+   "tokens": [
+    49039,
+    966,
+    11822,
+    82,
+    12133,
+    71,
+    1688,
+    515,
+    13
+   ]
+  }
+ ]
+}

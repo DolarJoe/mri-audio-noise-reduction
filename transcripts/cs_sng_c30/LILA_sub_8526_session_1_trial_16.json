@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_16.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Takže na týka aspektádu kapacitního.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.9512343599150578,
+   "compression_ratio": 0.82,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Takže na týka aspektádu kapacitního.",
+   "tokens": [
+    9118,
+    29913,
+    1667,
+    256,
+    11822,
+    2330,
+    382,
+    23533,
+    842,
+    769,
+    13816,
+    326,
+    270,
+    28988,
+    1289,
+    13
+   ]
+  }
+ ]
+}

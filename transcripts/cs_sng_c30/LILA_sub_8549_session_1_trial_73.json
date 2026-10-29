@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můžete jíst kapsama, ruka s rukama kapsa.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5718894403914667,
+   "compression_ratio": 0.9782608695652174,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můžete jíst kapsama, ruka s rukama kapsa.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    3498,
+    361,
+    19512,
+    350,
+    2382,
+    2404,
+    11,
+    367,
+    13599,
+    262,
+    367,
+    2034,
+    2404,
+    350,
+    2382,
+    64,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_32.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můj roditka je příště pořádka člověka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1171596219925128,
+   "compression_ratio": 0.8727272727272727,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můj roditka je příště pořádka člověka.",
+   "tokens": [
+    376,
+    23241,
+    73,
+    8685,
+    270,
+    2330,
+    1506,
+    31631,
+    870,
+    7891,
+    83,
+    9648,
+    714,
+    15781,
+    32512,
+    2330,
+    22392,
+    28257,
+    9648,
+    2330,
+    13
+   ]
+  }
+ ]
+}

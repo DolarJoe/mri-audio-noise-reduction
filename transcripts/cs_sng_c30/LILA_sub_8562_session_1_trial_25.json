@@ -1,0 +1,47 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_25.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muž seká dřevo na vysokém školku. Pravá ruce má seku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3453793511455712,
+   "compression_ratio": 0.9104477611940298,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muž seká dřevo na vysokém školku. Pravá ruce má seku.",
+   "tokens": [
+    15601,
+    9159,
+    17215,
+    842,
+    274,
+    15781,
+    68,
+    3080,
+    1667,
+    371,
+    749,
+    453,
+    4011,
+    22552,
+    36620,
+    5279,
+    13,
+    12133,
+    85,
+    842,
+    367,
+    4176,
+    12228,
+    369,
+    5279,
+    13
+   ]
+  }
+ ]
+}

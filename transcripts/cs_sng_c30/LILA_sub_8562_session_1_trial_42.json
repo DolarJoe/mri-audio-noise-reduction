@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žongles, žongles, šest písek nejlepší.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5730178993597458,
+   "compression_ratio": 0.9574468085106383,
+   "end": 4.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žongles, žongles, šest písek nejlepší.",
+   "tokens": [
+    4423,
+    121,
+    556,
+    904,
+    11,
+    17305,
+    556,
+    904,
+    11,
+    22552,
+    377,
+    280,
+    5113,
+    916,
+    408,
+    73,
+    306,
+    79,
+    48651,
+    13
+   ]
+  }
+ ]
+}

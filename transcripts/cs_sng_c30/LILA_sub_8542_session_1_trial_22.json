@@ -1,0 +1,50 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_22.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pozaká, pozaká, pozaká, pozaká, pozaká, pozaká, pozaká.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.25773288095520147,
+   "compression_ratio": 2.8636363636363638,
+   "end": 5.28,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pozaká, pozaká, pozaká, pozaká, pozaká, pozaká, pozaká.",
+   "tokens": [
+    6165,
+    89,
+    514,
+    842,
+    11,
+    21281,
+    514,
+    842,
+    11,
+    21281,
+    514,
+    842,
+    11,
+    21281,
+    514,
+    842,
+    11,
+    21281,
+    514,
+    842,
+    11,
+    21281,
+    514,
+    842,
+    11,
+    21281,
+    514,
+    842,
+    13
+   ]
+  }
+ ]
+}

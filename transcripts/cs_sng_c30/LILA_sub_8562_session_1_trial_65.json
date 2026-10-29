@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_65.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Fotografka zafetce nevzal svůj monolít.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6487160129356198,
+   "compression_ratio": 0.84,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Fotografka zafetce nevzal svůj monolít.",
+   "tokens": [
+    46771,
+    19815,
+    2330,
+    710,
+    2792,
+    302,
+    384,
+    408,
+    85,
+    89,
+    304,
+    17342,
+    23241,
+    73,
+    1108,
+    401,
+    6712,
+    13
+   ]
+  }
+ ]
+}

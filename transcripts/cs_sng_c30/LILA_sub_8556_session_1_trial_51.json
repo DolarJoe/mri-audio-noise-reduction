@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_51.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Aaaaa, pan, nasiženu lež mi ještě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1070835792008438,
+   "compression_ratio": 0.8478260869565217,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Aaaaa, pan, nasiženu lež mi ještě.",
+   "tokens": [
+    316,
+    16425,
+    11,
+    2462,
+    11,
+    5382,
+    72,
+    9159,
+    268,
+    84,
+    476,
+    9159,
+    2752,
+    1506,
+    7891,
+    83,
+    9648,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_40.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "No a daj, že nezdlouhý, co to je všem nižší.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7990889827162028,
+   "compression_ratio": 0.85,
+   "end": 4.14,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " No a daj, že nezdlouhý, co to je všem nižší.",
+   "tokens": [
+    883,
+    257,
+    1120,
+    73,
+    11,
+    25178,
+    408,
+    31278,
+    75,
+    263,
+    71,
+    11822,
+    11,
+    598,
+    281,
+    1506,
+    371,
+    7891,
+    443,
+    3867,
+    9159,
+    48651,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_78.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Máme ji už připravený na fight.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5903674823426021,
+   "compression_ratio": 0.8,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Máme ji už připravený na fight.",
+   "tokens": [
+    376,
+    842,
+    1398,
+    32606,
+    46803,
+    31631,
+    647,
+    424,
+    553,
+    11822,
+    1667,
+    2092,
+    13
+   ]
+  }
+ ]
+}

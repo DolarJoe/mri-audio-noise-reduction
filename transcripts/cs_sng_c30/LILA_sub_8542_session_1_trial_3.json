@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_3.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady mám ten čískůlečenský panec dohromady.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5538368552756172,
+   "compression_ratio": 0.8620689655172413,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady mám ten čískůlečenský panec dohromady.",
+   "tokens": [
+    314,
+    880,
+    12228,
+    76,
+    2064,
+    22392,
+    5113,
+    74,
+    23241,
+    306,
+    10236,
+    694,
+    74,
+    11822,
+    32605,
+    66,
+    360,
+    1703,
+    298,
+    880,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_39.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A takhle se to takhle takhle pálí. A, a, a, a, a, a.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6993179042406458,
+   "compression_ratio": 1.3414634146341464,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A takhle se to takhle takhle pálí. A, a, a, a, a, a.",
+   "tokens": [
+    316,
+    991,
+    71,
+    306,
+    369,
+    281,
+    991,
+    71,
+    306,
+    991,
+    71,
+    306,
+    280,
+    11447,
+    870,
+    13,
+    316,
+    11,
+    257,
+    11,
+    257,
+    11,
+    257,
+    11,
+    257,
+    11,
+    257,
+    13
+   ]
+  }
+ ]
+}

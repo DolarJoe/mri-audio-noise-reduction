@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je nějaký pravděpodobně pár se objímá.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3402816885803907,
+   "compression_ratio": 0.864406779661017,
+   "end": 4.22,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je nějaký pravděpodobně pár se objímá.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    46911,
+    36230,
+    11822,
+    3206,
+    85,
+    67,
+    9648,
+    43388,
+    996,
+    31617,
+    280,
+    20335,
+    369,
+    1111,
+    73,
+    14569,
+    842,
+    13
+   ]
+  }
+ ]
+}

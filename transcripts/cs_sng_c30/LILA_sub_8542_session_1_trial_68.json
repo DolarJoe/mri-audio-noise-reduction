@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_68.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaká panice či vzčinkáme.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.436033549071807,
+   "compression_ratio": 0.8636363636363636,
+   "end": 2.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaká panice či vzčinkáme.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    842,
+    2462,
+    573,
+    22392,
+    72,
+    371,
+    89,
+    10236,
+    475,
+    842,
+    1398,
+    13
+   ]
+  }
+ ]
+}

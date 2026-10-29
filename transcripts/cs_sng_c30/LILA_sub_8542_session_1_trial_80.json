@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je nějaký zetník, s naší postavou celý.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6079248996049335,
+   "compression_ratio": 0.85,
+   "end": 3.86,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je nějaký zetník, s naší postavou celý.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    46911,
+    36230,
+    11822,
+    710,
+    302,
+    28988,
+    74,
+    11,
+    262,
+    1667,
+    48651,
+    2183,
+    706,
+    263,
+    9277,
+    11822,
+    13
+   ]
+  }
+ ]
+}

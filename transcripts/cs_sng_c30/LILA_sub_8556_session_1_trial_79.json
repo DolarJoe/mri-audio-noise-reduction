@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_79.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán Číží automobil.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7519624113726119,
+   "compression_ratio": 0.7352941176470589,
+   "end": 3.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán Číží automobil.",
+   "tokens": [
+    430,
+    7200,
+    2127,
+    234,
+    870,
+    9159,
+    870,
+    3553,
+    21725,
+    13
+   ]
+  }
+ ]
+}

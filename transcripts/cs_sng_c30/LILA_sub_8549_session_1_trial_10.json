@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_10.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "že nás zasluhne.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.644934082776308,
+   "compression_ratio": 0.7037037037037037,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " že nás zasluhne.",
+   "tokens": [
+    25178,
+    297,
+    2490,
+    26530,
+    2781,
+    71,
+    716,
+    13
+   ]
+  }
+ ]
+}

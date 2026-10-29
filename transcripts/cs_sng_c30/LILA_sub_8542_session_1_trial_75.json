@@ -1,0 +1,41 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_75.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Přesně, kámočička, hledni kočku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5240674521668222,
+   "compression_ratio": 0.8297872340425532,
+   "end": 3.38,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Přesně, kámočička, hledni kočku.",
+   "tokens": [
+    430,
+    15781,
+    279,
+    31617,
+    11,
+    350,
+    842,
+    3280,
+    10236,
+    72,
+    10236,
+    2330,
+    11,
+    276,
+    1493,
+    3722,
+    8384,
+    10236,
+    5279,
+    13
+   ]
+  }
+ ]
+}

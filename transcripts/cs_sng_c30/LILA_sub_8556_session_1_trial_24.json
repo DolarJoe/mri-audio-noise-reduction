@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_24.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "nebo paní Lava Fjaraula ve vodě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8847339492948616,
+   "compression_ratio": 0.813953488372093,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " nebo paní Lava Fjaraula ve vodě.",
+   "tokens": [
+    408,
+    1763,
+    2462,
+    870,
+    441,
+    4061,
+    479,
+    73,
+    2419,
+    3780,
+    1241,
+    371,
+    378,
+    9648,
+    13
+   ]
+  }
+ ]
+}

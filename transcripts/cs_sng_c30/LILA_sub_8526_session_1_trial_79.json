@@ -1,0 +1,66 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_79.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "No.  Zatím se opalujeme na hláši.  No.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.5364557206630707,
+   "compression_ratio": 0.3333333333333333,
+   "end": 0.68,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " No.",
+   "tokens": [
+    883,
+    13
+   ]
+  },
+  {
+   "id": 1,
+   "avg_logprob": -0.7933508124859894,
+   "compression_ratio": 0.8,
+   "end": 3.24,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 1.12,
+   "temperature": 0.0,
+   "text": " Zatím se opalujeme na hláši.",
+   "tokens": [
+    1176,
+    267,
+    14569,
+    369,
+    999,
+    304,
+    4579,
+    5729,
+    1667,
+    276,
+    75,
+    842,
+    7891,
+    72,
+    13
+   ]
+  },
+  {
+   "id": 2,
+   "avg_logprob": -0.5754717905074358,
+   "compression_ratio": 0.3333333333333333,
+   "end": 3.64,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 3.42,
+   "temperature": 0.0,
+   "text": " No.",
+   "tokens": [
+    883,
+    13
+   ]
+  }
+ ]
+}

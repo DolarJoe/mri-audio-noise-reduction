@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_44.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaký pan a robert třeba.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5940512046190634,
+   "compression_ratio": 0.813953488372093,
+   "end": 3.64,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaký pan a robert třeba.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    11822,
+    2462,
+    257,
+    744,
+    4290,
+    256,
+    15781,
+    68,
+    4231,
+    13
+   ]
+  }
+ ]
+}

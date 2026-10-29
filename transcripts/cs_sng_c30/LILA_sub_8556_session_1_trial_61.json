@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_61.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A slušně fotografuje fotoaparát na straně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5160068991309446,
+   "compression_ratio": 0.9215686274509803,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A slušně fotografuje fotoaparát na straně.",
+   "tokens": [
+    316,
+    1061,
+    84,
+    7891,
+    31617,
+    34341,
+    13008,
+    19176,
+    569,
+    289,
+    7656,
+    1667,
+    1056,
+    282,
+    9648,
+    13
+   ]
+  }
+ ]
+}

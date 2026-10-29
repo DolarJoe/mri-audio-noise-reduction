@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_80.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Země na okolí začítají asi zanetá.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.795453444942333,
+   "compression_ratio": 0.8723404255319149,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Země na okolí začítají asi zanetá.",
+   "tokens": [
+    1176,
+    443,
+    9648,
+    1667,
+    3133,
+    401,
+    870,
+    7949,
+    10236,
+    870,
+    1328,
+    73,
+    870,
+    28644,
+    710,
+    282,
+    302,
+    842,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_14.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zdravíš jí právilo a šíru.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8232214203213944,
+   "compression_ratio": 0.7857142857142857,
+   "end": 4.0600000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zdravíš jí právilo a šíru.",
+   "tokens": [
+    1176,
+    67,
+    13404,
+    870,
+    7891,
+    361,
+    870,
+    27300,
+    85,
+    10720,
+    257,
+    22552,
+    870,
+    894,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní učuje pesalače.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0086070473771542,
+   "compression_ratio": 0.75,
+   "end": 4.0600000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní učuje pesalače.",
+   "tokens": [
+    7557,
+    870,
+    344,
+    10236,
+    13008,
+    9262,
+    5159,
+    10236,
+    68,
+    13
+   ]
+  }
+ ]
+}

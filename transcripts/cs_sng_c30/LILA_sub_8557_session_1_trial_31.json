@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_31.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Fotografka pak jí scénáří v přírodě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3859819452804674,
+   "compression_ratio": 0.9,
+   "end": 4.6000000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Fotografka pak jí scénáří v přírodě.",
+   "tokens": [
+    46771,
+    19815,
+    2330,
+    20843,
+    361,
+    870,
+    795,
+    3516,
+    842,
+    15781,
+    870,
+    371,
+    31631,
+    870,
+    11452,
+    9648,
+    13
+   ]
+  }
+ ]
+}

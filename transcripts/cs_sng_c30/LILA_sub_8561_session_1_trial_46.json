@@ -1,0 +1,28 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_46.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Muži i auta.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7316400524642732,
+   "compression_ratio": 0.6363636363636364,
+   "end": 3.44,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Muži i auta.",
+   "tokens": [
+    15601,
+    9159,
+    72,
+    741,
+    1476,
+    64,
+    13
+   ]
+  }
+ ]
+}

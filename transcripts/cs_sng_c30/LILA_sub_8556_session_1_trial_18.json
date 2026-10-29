@@ -1,0 +1,51 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_18.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Potek, potek, potek, potek, potek, potek, potek, potek, potek, potek.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2983491630438948,
+   "compression_ratio": 3.5,
+   "end": 4.46,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Potek, potek, potek, potek, potek, potek, potek, potek, potek, potek.",
+   "tokens": [
+    9145,
+    916,
+    11,
+    1847,
+    916,
+    11,
+    1847,
+    916,
+    11,
+    1847,
+    916,
+    11,
+    1847,
+    916,
+    11,
+    1847,
+    916,
+    11,
+    1847,
+    916,
+    11,
+    1847,
+    916,
+    11,
+    1847,
+    916,
+    11,
+    1847,
+    916,
+    13
+   ]
+  }
+ ]
+}

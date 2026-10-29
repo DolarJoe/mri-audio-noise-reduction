@@ -8,8 +8,14 @@ Methods (stackable, order = --method string):
          --noise-clip S = use first S seconds as noise profile)
   notch: auto-detected tonal notches (--notch-min-hz, --notch-max-hz,
          --notch-count, --notch-prom, --notch-q)
+  cs   : correlation subtraction (Inouye 2014) against a noise-only tail
+         clip (--cs-ref-clip S, tiled at integer noise periods,
+         single global cross-correlation alignment)
+  sng  : SoX noisered spectral gating (Inouye 2014) with profile from a
+         noise-only tail clip (--sng-coeff, --sng-ref-clip S)
 
 Example: denoise.py --method nr,hp --prop-decrease 0.9 --output-dir denoised/nr09
+Paper method: --method cs,sng (correlation subtraction then spectral gating)
 
 Pipeline use: import denoise() and call it with numpy audio plus keywords
 matching the CLI dests, e.g. denoise(y, sr, method="hp", highpass_hz=300).
@@ -23,6 +29,8 @@ import noisereduce as nr
 import scipy.signal as sg
 import soundfile as sf
 
+import cs as csmod
+import sng as sngmod
 import trials
 
 # CLI args consumed by file selection, not by the DSP chain.
@@ -64,7 +72,9 @@ def denoise(y, sr, *, method="nr,hp", highpass_hz=400, lowpass_hz=7500,
             order=4, prop_decrease=1.0, stationary=False, n_fft=2048,
             freq_mask_smooth_hz=500, time_mask_smooth_ms=150, noise_clip=None,
             notch_min_hz=1000, notch_max_hz=8000, notch_count=3,
-            notch_prom=0.05, notch_q=10):
+            notch_prom=0.05, notch_q=10,
+            cs_ref_clip=4.0, cs_period=None,
+            sng_coeff=0.3, sng_ref_clip=4.0):
     for m in method.split(","):
         m = m.strip()
         if m == "hp":
@@ -81,6 +91,12 @@ def denoise(y, sr, *, method="nr,hp", highpass_hz=400, lowpass_hz=7500,
                 prop_decrease=prop_decrease, n_fft=n_fft,
                 freq_mask_smooth_hz=freq_mask_smooth_hz,
                 time_mask_smooth_ms=time_mask_smooth_ms)
+        elif m == "cs":
+            y = csmod.cs_denoise(y, sr, cs_ref_clip=cs_ref_clip,
+                                 cs_period=cs_period)
+        elif m == "sng":
+            y = sngmod.sng_denoise(y, sr, sng_coeff=sng_coeff,
+                                   sng_ref_clip=sng_ref_clip)
         else:
             sys.exit(f"unknown method: {m}")
     peak = np.max(np.abs(y))
@@ -109,6 +125,14 @@ def main():
     p.add_argument("--notch-count", type=int, default=3)
     p.add_argument("--notch-prom", type=float, default=0.05)
     p.add_argument("--notch-q", type=float, default=10)
+    p.add_argument("--cs-ref-clip", type=float, default=4.0,
+                   help="CS: seconds of noise-only tail used as reference")
+    p.add_argument("--cs-period", type=float, default=None,
+                   help="CS: noise period in seconds (default: autodetect)")
+    p.add_argument("--sng-coeff", type=float, default=0.3,
+                   help="SNG: SoX noisered amount 0..1 (paper optimal 0.3-0.5)")
+    p.add_argument("--sng-ref-clip", type=float, default=4.0,
+                   help="SNG: seconds of noise-only tail used as profile")
     args = p.parse_args()
 
     if args.files:

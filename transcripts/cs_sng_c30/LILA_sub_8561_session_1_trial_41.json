@@ -1,0 +1,46 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_41.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Poznatka, poznatka, poznatka, poznatka, poznatka, poznatka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3164652918057982,
+   "compression_ratio": 2.608695652173913,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Poznatka, poznatka, poznatka, poznatka, poznatka, poznatka.",
+   "tokens": [
+    6165,
+    89,
+    12241,
+    2330,
+    11,
+    21281,
+    12241,
+    2330,
+    11,
+    21281,
+    12241,
+    2330,
+    11,
+    21281,
+    12241,
+    2330,
+    11,
+    21281,
+    12241,
+    2330,
+    11,
+    21281,
+    12241,
+    2330,
+    13
+   ]
+  }
+ ]
+}

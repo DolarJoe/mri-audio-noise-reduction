@@ -1,0 +1,38 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Na obrazku sedí dítě na nějaké židli.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.23484989197229306,
+   "compression_ratio": 0.8627450980392157,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Na obrazku sedí dítě na nějaké židli.",
+   "tokens": [
+    6056,
+    22798,
+    89,
+    5279,
+    9643,
+    870,
+    274,
+    6712,
+    9648,
+    1667,
+    46911,
+    36230,
+    526,
+    17305,
+    327,
+    2081,
+    13
+   ]
+  }
+ ]
+}

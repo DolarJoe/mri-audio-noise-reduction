@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "můž ukazujeme kam.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7246989248828455,
+   "compression_ratio": 0.7241379310344828,
+   "end": 3.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " můž ukazujeme kam.",
+   "tokens": [
+    275,
+    23241,
+    9159,
+    26769,
+    921,
+    4579,
+    5729,
+    9727,
+    13
+   ]
+  }
+ ]
+}

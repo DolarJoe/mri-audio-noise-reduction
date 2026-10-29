@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_28.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan zbírá jabuka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4734275320544839,
+   "compression_ratio": 0.7142857142857143,
+   "end": 3.02,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan zbírá jabuka.",
+   "tokens": [
+    7557,
+    710,
+    65,
+    870,
+    30218,
+    33475,
+    13599,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_27.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Polka poslouchá horku se stokávky.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.39513828108708066,
+   "compression_ratio": 0.8222222222222222,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Polka poslouchá horku se stokávky.",
+   "tokens": [
+    3635,
+    2330,
+    1366,
+    75,
+    2220,
+    842,
+    276,
+    1284,
+    84,
+    369,
+    342,
+    453,
+    842,
+    85,
+    4133,
+    13
+   ]
+  }
+ ]
+}

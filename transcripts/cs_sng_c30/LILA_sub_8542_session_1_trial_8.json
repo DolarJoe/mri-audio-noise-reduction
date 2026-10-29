@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "A to byly, já to předně nevím, jak to bylo.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1233439640629859,
+   "compression_ratio": 1.0,
+   "end": 5.54,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " A to byly, já to předně nevím, jak to bylo.",
+   "tokens": [
+    316,
+    281,
+    538,
+    356,
+    11,
+    6242,
+    281,
+    31631,
+    292,
+    31617,
+    408,
+    85,
+    14569,
+    11,
+    4207,
+    281,
+    538,
+    752,
+    13
+   ]
+  }
+ ]
+}

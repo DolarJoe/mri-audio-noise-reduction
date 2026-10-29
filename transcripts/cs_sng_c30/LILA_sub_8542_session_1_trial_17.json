@@ -1,0 +1,43 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_17.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady někdo něco rozhazuje na doblavu, to znám z té...",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3899080102564767,
+   "compression_ratio": 0.90625,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady někdo něco rozhazuje na doblavu, to znám z té...",
+   "tokens": [
+    314,
+    880,
+    46911,
+    74,
+    2595,
+    46911,
+    1291,
+    9544,
+    71,
+    43317,
+    1667,
+    360,
+    5199,
+    706,
+    84,
+    11,
+    281,
+    15397,
+    19524,
+    710,
+    19809,
+    485
+   ]
+  }
+ ]
+}

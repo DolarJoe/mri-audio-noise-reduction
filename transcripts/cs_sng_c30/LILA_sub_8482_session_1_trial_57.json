@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8482_session_1_trial_57.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan pochce v rukavici.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6373139574037244,
+   "compression_ratio": 0.7419354838709677,
+   "end": 3.2,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan pochce v rukavici.",
+   "tokens": [
+    7557,
+    714,
+    339,
+    384,
+    371,
+    367,
+    2034,
+    706,
+    8787,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_78.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Počeká, počeká, počeká, počeká, počeká, počeká.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.20519113762043162,
+   "compression_ratio": 2.608695652173913,
+   "end": 4.88,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Počeká, počeká, počeká, počeká, počeká, počeká.",
+   "tokens": [
+    6165,
+    10236,
+    916,
+    842,
+    11,
+    714,
+    10236,
+    916,
+    842,
+    11,
+    714,
+    10236,
+    916,
+    842,
+    11,
+    714,
+    10236,
+    916,
+    842,
+    11,
+    714,
+    10236,
+    916,
+    842,
+    11,
+    714,
+    10236,
+    916,
+    842,
+    13
+   ]
+  }
+ ]
+}

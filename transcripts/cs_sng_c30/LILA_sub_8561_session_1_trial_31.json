@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_31.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žená krmní dítě.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4854183902677435,
+   "compression_ratio": 0.7096774193548387,
+   "end": 3.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žená krmní dítě.",
+   "tokens": [
+    4423,
+    121,
+    268,
+    842,
+    15913,
+    76,
+    28988,
+    274,
+    6712,
+    9648,
+    13
+   ]
+  }
+ ]
+}

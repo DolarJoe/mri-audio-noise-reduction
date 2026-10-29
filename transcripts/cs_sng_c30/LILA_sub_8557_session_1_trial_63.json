@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_63.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Babička něco šije sedět.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2434365671859788,
+   "compression_ratio": 0.7631578947368421,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Babička něco šije sedět.",
+   "tokens": [
+    15820,
+    72,
+    10236,
+    2330,
+    46911,
+    1291,
+    22552,
+    37697,
+    9643,
+    9648,
+    83,
+    13
+   ]
+  }
+ ]
+}

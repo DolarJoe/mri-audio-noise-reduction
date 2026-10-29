@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_71.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "a opatření na stavečce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7938824051192829,
+   "compression_ratio": 0.7714285714285715,
+   "end": 3.2600000000000002,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " a opatření na stavečce.",
+   "tokens": [
+    257,
+    999,
+    267,
+    15781,
+    268,
+    870,
+    1667,
+    342,
+    946,
+    10236,
+    384,
+    13
+   ]
+  }
+ ]
+}

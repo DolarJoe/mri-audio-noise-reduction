@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_66.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "U každého z nich je nějaká země.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.263693937824832,
+   "compression_ratio": 0.8085106382978723,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " U každého z nich je nějaká země.",
+   "tokens": [
+    624,
+    6799,
+    9159,
+    67,
+    526,
+    1289,
+    710,
+    25570,
+    1506,
+    46911,
+    36230,
+    842,
+    710,
+    443,
+    9648,
+    13
+   ]
+  }
+ ]
+}

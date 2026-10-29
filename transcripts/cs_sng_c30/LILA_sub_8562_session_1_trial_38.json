@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_38.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Kouknění bruce, bruce mělo hodně povrchu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8677208487592314,
+   "compression_ratio": 0.9387755102040817,
+   "end": 5.8,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Kouknění bruce, bruce mělo hodně povrchu.",
+   "tokens": [
+    591,
+    263,
+    5457,
+    9648,
+    28988,
+    738,
+    4176,
+    11,
+    738,
+    4176,
+    275,
+    9648,
+    752,
+    276,
+    378,
+    31617,
+    714,
+    85,
+    81,
+    29013,
+    13
+   ]
+  }
+ ]
+}

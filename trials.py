@@ -9,7 +9,7 @@ import re
 import time
 from pathlib import Path
 
-RAW_DIR = Path("transfer_340619_files_84dc77d0/Records_for_VUT_analysis")
+RAW_DIR = Path("../Records_for_VUT_analysis")
 SESSION_PAT = re.compile(r"(LILA_sub_\d+_session_\d+)_trial_\d+\.wav$")
 
 

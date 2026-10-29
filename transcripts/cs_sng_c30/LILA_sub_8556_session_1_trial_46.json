@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_46.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Janík nejstarý den.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6143276127563282,
+   "compression_ratio": 0.7333333333333333,
+   "end": 3.4,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Janík nejstarý den.",
+   "tokens": [
+    4956,
+    870,
+    74,
+    408,
+    73,
+    9710,
+    11822,
+    1441,
+    13
+   ]
+  }
+ ]
+}

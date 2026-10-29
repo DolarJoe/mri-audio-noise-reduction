@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_72.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "se naběží práva na...",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.234135443965594,
+   "compression_ratio": 0.7647058823529411,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " se naběží práva na...",
+   "tokens": [
+    369,
+    297,
+    455,
+    9648,
+    9159,
+    870,
+    27300,
+    2757,
+    1667,
+    485
+   ]
+  }
+ ]
+}

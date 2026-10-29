@@ -1,0 +1,50 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady nějaký člověk, plava, nebo někdo, kdo zájem opaří.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7390847014011664,
+   "compression_ratio": 0.9142857142857143,
+   "end": 5.6000000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady nějaký člověk, plava, nebo někdo, kdo zájem opaří.",
+   "tokens": [
+    314,
+    880,
+    46911,
+    36230,
+    11822,
+    22392,
+    28257,
+    9648,
+    74,
+    11,
+    499,
+    4061,
+    11,
+    408,
+    1763,
+    46911,
+    74,
+    2595,
+    11,
+    350,
+    2595,
+    710,
+    842,
+    30833,
+    999,
+    64,
+    15781,
+    870,
+    13
+   ]
+  }
+ ]
+}

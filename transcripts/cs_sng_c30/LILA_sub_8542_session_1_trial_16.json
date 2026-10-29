@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_16.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady je asi pravděpodobně náš strouhá sír.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.41182950626471604,
+   "compression_ratio": 0.8596491228070176,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady je asi pravděpodobně náš strouhá sír.",
+   "tokens": [
+    314,
+    880,
+    1506,
+    28644,
+    3206,
+    85,
+    67,
+    9648,
+    43388,
+    996,
+    31617,
+    297,
+    842,
+    7891,
+    1056,
+    263,
+    71,
+    842,
+    8600,
+    81,
+    13
+   ]
+  }
+ ]
+}

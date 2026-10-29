@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_67.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Žena potní fotografie.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.45034832702949645,
+   "compression_ratio": 0.7575757575757576,
+   "end": 4.04,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Žena potní fotografie.",
+   "tokens": [
+    4423,
+    121,
+    4118,
+    1847,
+    28988,
+    34341,
+    414,
+    13
+   ]
+  }
+ ]
+}

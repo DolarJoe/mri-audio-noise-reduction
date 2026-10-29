@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož strohová světa v srovánce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7510140064987354,
+   "compression_ratio": 0.8536585365853658,
+   "end": 4.5,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož strohová světa v srovánce.",
+   "tokens": [
+    3335,
+    9159,
+    8959,
+    28057,
+    842,
+    17342,
+    9648,
+    1328,
+    371,
+    262,
+    24088,
+    7200,
+    384,
+    13
+   ]
+  }
+ ]
+}

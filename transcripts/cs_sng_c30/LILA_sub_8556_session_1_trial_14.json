@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_14.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní Žehlína Želicík je.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7675276390989038,
+   "compression_ratio": 0.8333333333333334,
+   "end": 3.54,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní Žehlína Želicík je.",
+   "tokens": [
+    7557,
+    870,
+    4423,
+    121,
+    13301,
+    75,
+    42279,
+    4423,
+    121,
+    338,
+    299,
+    870,
+    74,
+    1506,
+    13
+   ]
+  }
+ ]
+}

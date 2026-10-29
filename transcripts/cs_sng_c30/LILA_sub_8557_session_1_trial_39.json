@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_39.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Šermíš je připravený na zápas.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2591008694349405,
+   "compression_ratio": 0.8043478260869565,
+   "end": 4.6000000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Šermíš je připravený na zápas.",
+   "tokens": [
+    49039,
+    966,
+    870,
+    7891,
+    1506,
+    31631,
+    647,
+    424,
+    553,
+    11822,
+    1667,
+    710,
+    15059,
+    296,
+    13
+   ]
+  }
+ ]
+}

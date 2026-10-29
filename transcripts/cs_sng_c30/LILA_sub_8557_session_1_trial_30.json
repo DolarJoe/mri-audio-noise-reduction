@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_30.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Možná bychom si to nezapomněli.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.0629935047278802,
+   "compression_ratio": 0.813953488372093,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Možná bychom si to nezapomněli.",
+   "tokens": [
+    3335,
+    9159,
+    77,
+    842,
+    538,
+    339,
+    298,
+    1511,
+    281,
+    408,
+    89,
+    569,
+    298,
+    31617,
+    2081,
+    13
+   ]
+  }
+ ]
+}

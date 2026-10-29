@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "... a moc by na papír napolul.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.3036399667079632,
+   "compression_ratio": 0.8157894736842105,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": "... a moc by na papír napolul.",
+   "tokens": [
+    1097,
+    257,
+    34962,
+    538,
+    1667,
+    5806,
+    31338,
+    9296,
+    401,
+    425,
+    13
+   ]
+  }
+ ]
+}

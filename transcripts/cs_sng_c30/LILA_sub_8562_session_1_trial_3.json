@@ -1,0 +1,37 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_3.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Poplaka, plaka, plaka, plaka, plaka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6501019857823849,
+   "compression_ratio": 1.7619047619047619,
+   "end": 5.22,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Poplaka, plaka, plaka, plaka, plaka.",
+   "tokens": [
+    10215,
+    75,
+    7849,
+    11,
+    499,
+    7849,
+    11,
+    499,
+    7849,
+    11,
+    499,
+    7849,
+    11,
+    499,
+    7849,
+    13
+   ]
+  }
+ ]
+}

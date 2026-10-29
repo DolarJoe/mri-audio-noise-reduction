@@ -1,0 +1,42 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_22.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Polička se na základní spole učí mačítat.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3430228879113439,
+   "compression_ratio": 0.9074074074074074,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Polička se na základní spole učí mačítat.",
+   "tokens": [
+    3635,
+    72,
+    10236,
+    2330,
+    369,
+    1667,
+    710,
+    842,
+    7837,
+    345,
+    28988,
+    637,
+    4812,
+    344,
+    10236,
+    870,
+    463,
+    10236,
+    6712,
+    267,
+    13
+   ]
+  }
+ ]
+}

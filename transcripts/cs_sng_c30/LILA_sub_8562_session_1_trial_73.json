@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Babička plepe světr svojí vnitřce.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.37883079532877584,
+   "compression_ratio": 0.8478260869565217,
+   "end": 10.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Babička plepe světr svojí vnitřce.",
+   "tokens": [
+    15820,
+    72,
+    10236,
+    2330,
+    3362,
+    494,
+    17342,
+    9648,
+    6903,
+    262,
+    3080,
+    73,
+    870,
+    371,
+    77,
+    270,
+    15781,
+    384,
+    13
+   ]
+  }
+ ]
+}

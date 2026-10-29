@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_29.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Paní hačkuje z jednička.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7707113749929704,
+   "compression_ratio": 0.8,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Paní hačkuje z jednička.",
+   "tokens": [
+    7557,
+    870,
+    324,
+    10236,
+    5279,
+    2884,
+    710,
+    5232,
+    3722,
+    10236,
+    2330,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_8.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pan šermuje sam se sebou.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.24793706556440817,
+   "compression_ratio": 0.7941176470588235,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pan šermuje sam se sebou.",
+   "tokens": [
+    7557,
+    22552,
+    966,
+    13008,
+    3247,
+    369,
+    48049,
+    263,
+    13
+   ]
+  }
+ ]
+}

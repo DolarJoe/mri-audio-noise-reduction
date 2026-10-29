@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_6.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Tady se paní opoluje pravděpodobně na slunci.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.4133018146330003,
+   "compression_ratio": 0.875,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Tady se paní opoluje pravděpodobně na slunci.",
+   "tokens": [
+    314,
+    880,
+    369,
+    2462,
+    870,
+    999,
+    401,
+    13008,
+    3206,
+    85,
+    67,
+    9648,
+    43388,
+    996,
+    31617,
+    1667,
+    1061,
+    11228,
+    13
+   ]
+  }
+ ]
+}

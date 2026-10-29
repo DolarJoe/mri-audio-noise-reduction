@@ -1,0 +1,53 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_2.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Potéka, potéka, potéka, potéka, potéka, potéka, potéka, potéka.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.26345969438047817,
+   "compression_ratio": 3.272727272727273,
+   "end": 5.26,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Potéka, potéka, potéka, potéka, potéka, potéka, potéka, potéka.",
+   "tokens": [
+    9145,
+    526,
+    2330,
+    11,
+    1847,
+    526,
+    2330,
+    11,
+    1847,
+    526,
+    2330,
+    11,
+    1847,
+    526,
+    2330,
+    11,
+    1847,
+    526,
+    2330,
+    11,
+    1847,
+    526,
+    2330,
+    11,
+    1847,
+    526,
+    2330,
+    11,
+    1847,
+    526,
+    2330,
+    13
+   ]
+  }
+ ]
+}

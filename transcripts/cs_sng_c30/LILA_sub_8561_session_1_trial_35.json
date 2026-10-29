@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_35.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Boxer stojí v přípravném postoji.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.360504896082121,
+   "compression_ratio": 0.8444444444444444,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Boxer stojí v přípravném postoji.",
+   "tokens": [
+    15112,
+    260,
+    22784,
+    73,
+    870,
+    371,
+    31631,
+    28236,
+    13404,
+    77,
+    4011,
+    2183,
+    78,
+    4013,
+    13
+   ]
+  }
+ ]
+}

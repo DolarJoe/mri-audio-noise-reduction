@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_74.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Děsadí na židli.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5269640445088347,
+   "compression_ratio": 0.7142857142857143,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Děsadí na židli.",
+   "tokens": [
+    413,
+    9648,
+    82,
+    345,
+    870,
+    1667,
+    17305,
+    327,
+    2081,
+    13
+   ]
+  }
+ ]
+}

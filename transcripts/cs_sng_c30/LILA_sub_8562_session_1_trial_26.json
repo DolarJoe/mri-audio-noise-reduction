@@ -1,0 +1,39 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_26.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Odel novenka, který mi jsme otevřeli.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.8475266688503325,
+   "compression_ratio": 0.8333333333333334,
+   "end": 4.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Odel novenka, který mi jsme otevřeli.",
+   "tokens": [
+    12210,
+    338,
+    572,
+    553,
+    2330,
+    11,
+    350,
+    391,
+    11822,
+    2752,
+    42713,
+    1398,
+    277,
+    975,
+    85,
+    15781,
+    10148,
+    13
+   ]
+  }
+ ]
+}

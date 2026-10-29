@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8526_session_1_trial_22.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Zavolej léze a objímaj.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7774535287753679,
+   "compression_ratio": 0.7647058823529411,
+   "end": 3.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Zavolej léze a objímaj.",
+   "tokens": [
+    1176,
+    706,
+    4812,
+    73,
+    287,
+    526,
+    1381,
+    257,
+    1111,
+    73,
+    870,
+    1696,
+    73,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_44.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "*Pasaka pasaka pasaka pasaka pasaka pasaka*",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7994175077114692,
+   "compression_ratio": 2.0952380952380953,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " *Pasaka pasaka pasaka pasaka pasaka pasaka*",
+   "tokens": [
+    1853,
+    47,
+    296,
+    7849,
+    1736,
+    7849,
+    1736,
+    7849,
+    1736,
+    7849,
+    1736,
+    7849,
+    1736,
+    7849,
+    9
+   ]
+  }
+ ]
+}

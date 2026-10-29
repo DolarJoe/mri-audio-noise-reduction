@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_11.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Posilující žena dělá hub trust.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2848947830994696,
+   "compression_ratio": 0.8043478260869565,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Posilující žena dělá hub trust.",
+   "tokens": [
+    25906,
+    388,
+    4579,
+    870,
+    66,
+    870,
+    17305,
+    4118,
+    274,
+    9648,
+    75,
+    842,
+    11838,
+    3361,
+    13
+   ]
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_16.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Můž stojí papučík s rukami v kapsách.  Pámen.  Pámen.  Pámen.  Pámen.  Pámen.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.2426496304793876,
+   "compression_ratio": 0.8301886792452831,
+   "end": 5.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Můž stojí papučík s rukami v kapsách.",
+   "tokens": [
+    376,
+    23241,
+    9159,
+    22784,
+    73,
+    870,
+    5806,
+    84,
+    10236,
+    870,
+    74,
+    262,
+    367,
+    2034,
+    4526,
+    371,
+    350,
+    2382,
+    39569,
+    13
+   ]
+  },
+  {
+   "id": 1,
+   "avg_logprob": -1.2306085675954819,
+   "compression_ratio": 0.5,
+   "end": 6.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 5.0,
+   "temperature": 0.0,
+   "text": " Pámen.",
+   "tokens": [
+    430,
+    842,
+    2558,
+    13
+   ]
+  },
+  {
+   "id": 2,
+   "avg_logprob": -0.2374267799896188,
+   "compression_ratio": 0.5,
+   "end": 7.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 6.0,
+   "temperature": 0.0,
+   "text": " Pámen.",
+   "tokens": [
+    430,
+    842,
+    2558,
+    13
+   ]
+  },
+  {
+   "id": 3,
+   "avg_logprob": -0.14433086667365083,
+   "compression_ratio": 0.5,
+   "end": 8.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 7.0,
+   "temperature": 0.0,
+   "text": " Pámen.",
+   "tokens": [
+    430,
+    842,
+    2558,
+    13
+   ]
+  },
+  {
+   "id": 4,
+   "avg_logprob": -0.08230551762972027,
+   "compression_ratio": 0.5,
+   "end": 9.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 8.0,
+   "temperature": 0.0,
+   "text": " Pámen.",
+   "tokens": [
+    430,
+    842,
+    2558,
+    13
+   ]
+  },
+  {
+   "id": 5,
+   "avg_logprob": -0.06851345137692988,
+   "compression_ratio": 0.5,
+   "end": 10.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 9.0,
+   "temperature": 0.0,
+   "text": " Pámen.",
+   "tokens": [
+    430,
+    842,
+    2558,
+    13
+   ]
+  }
+ ]
+}

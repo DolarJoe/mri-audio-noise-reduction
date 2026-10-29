@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_73.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "muž ukazuje na nějaký předmět.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.3519445727506536,
+   "compression_ratio": 0.8,
+   "end": 4.5600000000000005,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " muž ukazuje na nějaký předmět.",
+   "tokens": [
+    2992,
+    9159,
+    26769,
+    43317,
+    1667,
+    46911,
+    36230,
+    11822,
+    31631,
+    292,
+    76,
+    9648,
+    83,
+    13
+   ]
+  }
+ ]
+}

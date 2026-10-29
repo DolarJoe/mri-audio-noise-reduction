@@ -1,0 +1,33 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "že navesím právo na šnůru.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5488521786672729,
+   "compression_ratio": 0.8,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " že navesím právo na šnůru.",
+   "tokens": [
+    25178,
+    297,
+    5423,
+    14569,
+    27300,
+    3080,
+    1667,
+    22552,
+    77,
+    23241,
+    894,
+    13
+   ]
+  }
+ ]
+}

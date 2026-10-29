@@ -1,0 +1,32 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_39.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Par pančí na ploště.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6629073112629927,
+   "compression_ratio": 0.7352941176470589,
+   "end": 3.88,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Par pančí na ploště.",
+   "tokens": [
+    3457,
+    2462,
+    10236,
+    870,
+    1667,
+    499,
+    78,
+    7891,
+    83,
+    9648,
+    13
+   ]
+  }
+ ]
+}

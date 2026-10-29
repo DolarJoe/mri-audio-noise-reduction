@@ -1,0 +1,29 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_20.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Blabets. Blabet.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -1.1631094709038734,
+   "compression_ratio": 0.85,
+   "end": 4.48,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Blabets. Blabet.",
+   "tokens": [
+    2177,
+    455,
+    1385,
+    13,
+    2177,
+    455,
+    302,
+    13
+   ]
+  }
+ ]
+}

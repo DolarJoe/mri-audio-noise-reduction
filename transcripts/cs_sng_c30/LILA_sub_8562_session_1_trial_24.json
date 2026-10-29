@@ -1,0 +1,31 @@
+{
+ "file": "LILA_sub_8562_session_1_trial_24.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Plovec pluje v kajaku.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.43065346536847454,
+   "compression_ratio": 0.7419354838709677,
+   "end": 9.94,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Plovec pluje v kajaku.",
+   "tokens": [
+    2149,
+    1682,
+    66,
+    499,
+    13008,
+    371,
+    350,
+    1805,
+    15803,
+    13
+   ]
+  }
+ ]
+}

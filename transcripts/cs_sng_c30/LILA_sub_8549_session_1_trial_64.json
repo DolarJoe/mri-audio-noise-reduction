@@ -1,0 +1,34 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_64.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Proč má ten muž vemské boty?",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.17694405922278142,
+   "compression_ratio": 0.7857142857142857,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Proč má ten muž vemské boty?",
+   "tokens": [
+    1705,
+    10236,
+    12228,
+    2064,
+    2992,
+    9159,
+    1241,
+    2592,
+    74,
+    526,
+    272,
+    6737,
+    30
+   ]
+  }
+ ]
+}

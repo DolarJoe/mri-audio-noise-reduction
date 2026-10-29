@@ -1,0 +1,30 @@
+{
+ "file": "LILA_sub_8561_session_1_trial_58.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Mož se kávří.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.7421126750043847,
+   "compression_ratio": 0.6666666666666666,
+   "end": 3.0,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Mož se kávří.",
+   "tokens": [
+    3335,
+    9159,
+    369,
+    350,
+    842,
+    85,
+    15781,
+    870,
+    13
+   ]
+  }
+ ]
+}

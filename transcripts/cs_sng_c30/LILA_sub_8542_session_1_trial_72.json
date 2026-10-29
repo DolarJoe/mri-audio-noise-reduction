@@ -1,0 +1,45 @@
+{
+ "file": "LILA_sub_8542_session_1_trial_72.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ale nějaká paní ženlí, řečela, že víc o podně.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5897805772211331,
+   "compression_ratio": 0.9047619047619048,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ale nějaká paní ženlí, řečela, že víc o podně.",
+   "tokens": [
+    9366,
+    46911,
+    36230,
+    842,
+    2462,
+    870,
+    17305,
+    268,
+    75,
+    870,
+    11,
+    4423,
+    247,
+    68,
+    10236,
+    4053,
+    11,
+    25178,
+    6153,
+    66,
+    277,
+    2497,
+    31617,
+    13
+   ]
+  }
+ ]
+}

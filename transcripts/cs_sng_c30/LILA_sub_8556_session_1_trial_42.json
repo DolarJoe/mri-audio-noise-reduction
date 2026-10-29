@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_42.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Ani věří právno na smůlu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.6869413970271125,
+   "compression_ratio": 0.775,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Ani věří právno na smůlu.",
+   "tokens": [
+    1107,
+    72,
+    371,
+    9648,
+    15781,
+    870,
+    27300,
+    85,
+    1771,
+    1667,
+    899,
+    23241,
+    2781,
+    13
+   ]
+  }
+ ]
+}

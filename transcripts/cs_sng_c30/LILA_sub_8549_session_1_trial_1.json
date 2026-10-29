@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_1.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "když je na cojíčí s činkami.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5756793042425724,
+   "compression_ratio": 0.7906976744186046,
+   "end": 3.44,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " když je na cojíčí s činkami.",
+   "tokens": [
+    350,
+    3173,
+    9159,
+    1506,
+    1667,
+    598,
+    73,
+    870,
+    10236,
+    870,
+    262,
+    22392,
+    475,
+    4526,
+    13
+   ]
+  }
+ ]
+}

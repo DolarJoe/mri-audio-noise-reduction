@@ -1,0 +1,40 @@
+{
+ "file": "LILA_sub_8556_session_1_trial_3.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Hočička počítá zpočítavla naprosto.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.49597221382524975,
+   "compression_ratio": 0.9555555555555556,
+   "end": 5.08,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Hočička počítá zpočítavla naprosto.",
+   "tokens": [
+    3631,
+    10236,
+    72,
+    10236,
+    2330,
+    714,
+    10236,
+    6712,
+    842,
+    710,
+    2259,
+    10236,
+    6712,
+    706,
+    875,
+    9296,
+    81,
+    22756,
+    13
+   ]
+  }
+ ]
+}

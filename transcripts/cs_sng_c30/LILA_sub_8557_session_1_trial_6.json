@@ -1,0 +1,36 @@
+{
+ "file": "LILA_sub_8557_session_1_trial_6.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Pán na zahradě kácí dřevo.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.20251461765377932,
+   "compression_ratio": 0.7804878048780488,
+   "end": 3.88,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Pán na zahradě kácí dřevo.",
+   "tokens": [
+    430,
+    7200,
+    1667,
+    710,
+    5398,
+    345,
+    9648,
+    350,
+    21563,
+    870,
+    274,
+    15781,
+    68,
+    3080,
+    13
+   ]
+  }
+ ]
+}

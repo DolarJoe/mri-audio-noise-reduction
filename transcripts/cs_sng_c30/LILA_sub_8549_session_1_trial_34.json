@@ -1,0 +1,35 @@
+{
+ "file": "LILA_sub_8549_session_1_trial_34.wav",
+ "model": "whisper-large-v3",
+ "language": "cs",
+ "text": "Už jenom na surfu je, na surfu.",
+ "segments": [
+  {
+   "id": 0,
+   "avg_logprob": -0.5829538218094967,
+   "compression_ratio": 1.03125,
+   "end": 9.92,
+   "no_speech_prob": null,
+   "seek": 0,
+   "start": 0.0,
+   "temperature": 0.0,
+   "text": " Už jenom na surfu je, na surfu.",
+   "tokens": [
+    624,
+    9159,
+    361,
+    268,
+    298,
+    1667,
+    9684,
+    84,
+    1506,
+    11,
+    1667,
+    9684,
+    84,
+    13
+   ]
+  }
+ ]
+}
